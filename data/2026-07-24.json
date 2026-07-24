@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T22:54:37.216340+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "核心 Claude Opus 5正式发布，性能接近旗舰模型Fable 5但成本减半。\n要点 在Frontier-Bench等多项基准测试中达到SOTA；单位成本性能显著优于Opus 4.8；具备主动验证与迭代的agent能力。\n亮点 在ARC-AGI 3评估中得分领先次优模型三倍。\n适合 开发者、技术决策者与AI研究人员。"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "summary": "核心 Postgres的LISTEN/NOTIFY机制在高并发场景下具备良好可扩展性。\n要点 突破传统性能瓶颈；采用新型架构设计；支持万级并发连接\n亮点 证实该机制可满足现代高并发应用需求\n适合 后端与数据库工程师"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "summary": "核心 摄像头固件分析发现GitHub管理员令牌泄露\n要点 固件通过XOR混淆的AES密钥解密；令牌在30个前端文件中泄露；环境变量含美国国防部IP地址\n亮点 泄露的GitHub令牌拥有组织管理员权限\n适合 安全工程师与固件分析师"
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "summary": "核心 印度首枚私营火箭Vikram-1首次发射即成功入轨。\n要点 火箭高22米，可将350公斤载荷送入轨道；首次尝试即入轨，打破行业低成功率惯例；第三级分离出现短暂异常，但最终任务完美。\n亮点 首次尝试即入轨，打破私营火箭首飞低成功率惯例。\n适合 航天科技与商业航天"
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "summary": "核心 模拟霍尔木兹海峡完全封锁对全球石油贸易的冲击与缓冲机制\n要点 设定最坏物理场景，保留30%旁路管道容量；采用流体-随机网络模型与库存动态；基于UN Comtrade 2025数据，未包含制裁贸易\n亮点 量化了旁路管道在缓解长期供应冲击中的关键作用\n适合 供应链分析师；能源行业；数据建模研究者"
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "summary": "核心 英伟达微软Meta联合警告勿过早限制开源权重AI模型\n要点 三巨头发声反对监管过度干预；强调开源对创新与安全研究至关重要；担忧限制将阻碍全球AI技术发展\n亮点 指出过早监管可能反致安全风险增加\n适合 AI研发；政策研究者；企业决策者"
+    },
+    {
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "summary": "核心 世界首个开源以太网交换机ASIC已完成流片，即将进行硅验证。\n要点 针对开源网络硬件缺失的现状发起项目；基于Tiny Tapeout平台流片，芯片面积711.2x325um；设计涉及物理层选择等关键技术挑战。\n亮点 首个开源交换机ASIC流片成功，填补领域空白。\n适合 硬件/网络/芯片工程师"
+    },
+    {
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "summary": "核心 Fil-C通过自动垃圾回收为C语言提供内存安全保障。\n要点 针对C语言设计自动内存管理；无需修改源代码；有效防止内存泄漏与越界\n亮点 将垃圾回收机制应用于C语言，解决长期内存安全问题\n适合 系统程序员与C语言开发者"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "summary": "核心 Opus 5在Artificial Analysis AI排行榜位列第一，基于多维度智能评估。\n要点 评估体系含9项基准测试；区分开源与专有模型；分析智能指数与成本关系。\n亮点 基于9项基准测试的综合智能指数领先。\n适合 AI工程师与研究人员"
+    },
+    {
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "summary": "核心 受40年前专利启发，MIT研发三边Y-zipper实现物体柔刚快速切换。\n要点 源于1985年三边拉链专利；CSAIL开发自动化设计工具与3D打印制造；应用于帐篷、医疗护具、机器人等领域。\n亮点 经18,000次开合测试仍可使用。\n适合 产品与结构设计工程师"
+    },
+    {
+      "title": "The Secret Origins of Amazon's Alexa",
+      "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+      "summary": "核心 揭秘亚马逊Alexa语音助手从诞生到智能化的关键技术演进路径。\n要点 早期依赖第三方语音技术后转向自研；通过大规模真实语音数据持续训练模型；构建开放技能生态扩展应用场景。\n亮点 为提升准确率，曾用数千名员工模拟用户指令收集数据。\n适合 AI工程师；产品经理；物联网开发者"
+    },
+    {
+      "title": "Gsxui – Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/",
+      "summary": "核心 为Go语言gsx框架打造的Shadcn风格UI组件库，支持复制即用与类型安全。\n要点 组件可直接复制到项目；基于gsx框架提供完整类型检查；服务端渲染无需客户端框架。\n亮点 开发者完全拥有组件代码，可深度定制样式。\n适合 Go后端开发者"
+    },
+    {
+      "title": "Marimo now runs in PyCharm",
+      "url": "https://marimo.io/blog/pycharm",
+      "summary": "核心 marimo发布PyCharm插件，支持在IDE中直接使用反应式笔记本。\n要点 在PyCharm中添加marimo笔记本并导入项目代码；笔记本实时更新基于模块重载；支持沙盒模式运行使用uv隔离环境与git兼容。\n亮点 在IDE内实现代码与笔记本的实时反馈循环。\n适合 数据科学与AI开发者"
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "summary": "核心 HaikuOS成功移植NVIDIA专有驱动，实现3D加速与游戏原生运行。\n要点 驱动依赖Wayland/Vulkan包但未声明；仅支持Turing/Ampere架构GPU；用户反馈显著提升系统可用性。\n亮点 Half-Life 2在RTX 2080上4K 60fps流畅运行。\n适合 底层系统与图形驱动开发者"
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "summary": "核心 AI编程工具普及，但软件质量因厂商追求新功能而普遍恶化。\n要点 日常软件崩溃案例频发；软件复杂度增加削弱稳定性；厂商KPI导向忽视bug修复。\n亮点 AI工具已能有效修复bug，但厂商KPI导向使其被忽视。\n适合 技术管理者与开发者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "block/buzz：蜂巢思维通信平台",
+      "stars": 12,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "[citrolabs/ego-lite]：你和你的AI agents并行工作的最佳浏览器。",
+      "stars": 9,
+      "language": "JavaScript",
+      "description_original": "The best browser for both you and your AI agents work in parallel."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "[diegosouzapw/OmniRoute]：免费AI网关：单一端点连接160+提供商（50+免费），支持Claude Code等，RTK+Caveman压缩节省15-95% tokens，具备智能回退、MCP/A2A、多模态API及桌面/PWA支持。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "[MadsLorentzen/ai-job-search]：基于Claude Code构建的AI驱动求职框架。Fork后填写个人资料，即可让Claude评估职位、定制简历、撰写求职信并准备面试。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "[Vincentwei1021/video-shotcraft]：面向Claude Code & Codex的AI视频技能——使用Remotion制作电影级产品视频：包含106个镜头配方卡、161个动作预览及生产就绪模板。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "[ifixai-ai/iFixAi]：在客户或监管机构发现前，捕捉AI的错误与盲点。iFixAi执行45项检查（32项核心+13项扩展，涵盖破坏、放水、规避监督等前沿风险），5分钟内返回字母等级。行业与模型无关。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Catch your AI's mistakes and blind spots before your customers or regulators do. iFixAi runs 45 inspections, 32 graded core plus 13 extended for frontier risks like sabotage, sandbagging, and oversight evasion. It returns a letter grade in under 5 minutes. Industry and model agnostic."
+    },
+    {
+      "name": "hoainho/img2threejs",
+      "url": "https://github.com/hoainho/img2threejs",
+      "description": "[hoainho/img2threejs]：将参考图像中的物体重建为纯代码、程序化、质量门控、动画就绪的Three.js模型。高效实现图像转3D。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "[calesthio/OpenMontage]：世界首个开源智能视频制作系统。12个管道、52个工具、500+智能体技能，将你的AI编码助手变为全功能视频制作工作室。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "[stablyai/orca]：Orca是用于管理并行代理fleet的ADE。使用自有订阅运行任何编码代理，支持桌面与移动端。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "[iOfficeAI/OfficeCLI]：首个专为AI agents设计的Office套件，可读写并自动化Word、Excel、PPT文件。免费、开源、单二进制，无需安装Office。",
+      "stars": 3,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "BigPizzaV3/CodexPlusPlus",
+      "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "description": "CodexApp的增强工具，致力于让Codex更易用、更舒适。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "自托管部署平台。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Self-hosted deployment platform"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "驻留在终端中的代理多路复用器。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "nitrocloudofficial/nitrostack",
+      "url": "https://github.com/nitrocloudofficial/nitrostack",
+      "description": "用于构建、测试和部署生产就绪的MCP服务器及AI原生应用的全栈TypeScript框架。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps."
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex与Claude Code的通用提供商代理 — 可在Codex CLI、App、SDK及Claude Code中使用任何LLM（如Claude、Gemini、Grok、DeepSeek、Ollama等）。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "面向Claude Code和AI代理的营销技能，包括转化率优化、文案撰写、搜索引擎优化、分析及增长工程。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "humanlayer/advanced-context-engineering-for-coding-agents",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "Galaxy-Dawn/claude-scholar",
+      "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+      "description": "面向学术研究和软件开发的半自动化研究助手。支持Claude Code、Codex CLI、Kimi Code CLI和OpenCode，涵盖构思、编码、实验、写作及发表全流程。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "开源免费 — 经阿里巴巴规模实战",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "jgravelle/jcodemunch-mcp",
+      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "description": "通过tree-sitter AST实现精确的符号级GitHub代码检索，可将代码探索的AI token成本降低95%以上，是领先的MCP服务器，兼容Claude Code、Cursor等任意MCP客户端，已节省超过3130亿tokens。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved."
+    }
+  ]
+}
