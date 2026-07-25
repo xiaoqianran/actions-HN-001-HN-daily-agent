@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T22:45:51.791241+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "核心 通用汽车投资钠离子电池技术用于美国电网储能项目。\n要点 通用汽车投资钠电初创公司；钠离子电池成本低资源丰富；主要应用于电网调峰储能。\n亮点 钠电成本优势获主流车企认可。\n适合 能源/电池工程师"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "核心 Claude 5模型上下文工程新规则介绍\n要点 无；无；无\n亮点 无\n适合 AI工程师"
+    },
+    {
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "summary": "核心 建立匿名平台记录面试后失联公司并表彰良好沟通者\n要点 用户匿名提交报告经审核计入失联次数；设有失联与良好沟通双榜单；平台强调匿名审核与双向反馈\n亮点 双向榜单设计，既曝光失联公司也表彰沟通良好的企业\n适合 求职者与招聘研究者"
+    },
+    {
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "summary": "核心 设计师从网站收集按钮的创意项目展示。\n要点 项目名为\"Stolen Buttons\"；作者为图形和UX设计师；展示从各网站偷来的按钮集合。\n亮点 以创意方式呈现UI按钮设计多样性。\n适合 UI/UX设计师与前端开发者"
+    },
+    {
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "summary": "核心 Fly.io CEO卸任，公司全面转向AI代理计算平台Sprites\n要点 Kurt Mackey卸任CEO；Scott Johnston接任；聚焦Sprites并完成新融资\n亮点 Sprites是专为AI代理设计的计算平台\n适合 AI开发者与云平台决策者"
+    },
+    {
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "summary": "核心 美国明尼苏达州启用全球首个风电动态制氨示范工厂，日产一吨低碳氨用于本地肥料生产。\n要点 风电电解制氢并动态调整合成氨产量；大学与研究机构合作解决本地化肥供应链；可扩展为合作社模式并加工为尿素。\n亮点 动态操作避免昂贵储氢，大幅降低系统成本。\n适合 能源化工与农业科技从业者"
+    },
+    {
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "summary": "核心 Google拟限制设备本地ADB连接，影响Shizuku等工具。\n要点 变化源于IssueTracker讨论，非官方公告；限制旨在防范风险，但影响开发者工作流；作者呼吁理性反馈，避免Spam导致讨论关闭。\n亮点 Shizuku等工具依赖本地ADB，限制将影响残障辅助应用。\n适合 Android开发者；高级用户；安全研究员"
+    },
+    {
+      "title": "SIMD for Collision",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "summary": "核心 Box3D采用wide SIMD技术优化3D碰撞检测，显著提升复杂凸包模拟性能。\n要点 Wide SIMD批量处理碰撞点加速求解器；高边数凸包edge-edge测试SIMD化；SAT方法无碰撞边距避免GJK/EPA问题。\n亮点 基准测试中SSE2实现性能大幅提升。\n适合 游戏开发与物理引擎工程师"
+    },
+    {
+      "title": "Kimi K3 built a Windows XP in browser",
+      "url": "https://windows-xp.kimi.site/",
+      "summary": "核心 在浏览器中完整复刻Windows XP经典界面与操作体验\n要点 使用Web技术模拟XP桌面与开始菜单；集成QQ2005、IE6等2005年经典软件；支持扫雷、画图等应用交互与屏保\n亮点 高度还原2005年软件生态，唤起集体记忆\n适合 前端工程师与怀旧用户"
+    },
+    {
+      "title": "Multicast TV Distribution on My Home Network",
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "summary": "核心 利用IP多播技术实现家庭网络内电视直播流的高效单点分发。\n要点 使用ffmpeg通过UDP多播发送MPEG-TS流；通过SSM与FRR实现跨子网路由；结合IPTV源进行实际部署。\n亮点 在特定场景下可大幅节省网络带宽与服务器转码资源。\n适合 家庭网络与流媒体技术爱好者"
+    },
+    {
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "summary": "核心 通过半导体模拟器生成晶体管载流子运动动画，直观展示电子空穴行为。\n要点 动画分三组展示不同载流子运动模式；蓝红点分别代表电子与空穴，白闪指示复合事件；涵盖NPN BJT、MOSFET、JFET三种晶体管。\n亮点 首次以动态可视化方式精确呈现半导体内部载流子运动细节。\n适合 电子工程/微电子学生与工程师"
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "summary": "核心 Brolly是一个提供纯文本天气预报的网站，数据详尽且无图形界面。\n要点 纯文本格式，界面简洁无干扰；涵盖温度、风、降水、UV、空气质量及花粉等多维度数据；提供小时级与本周预报，支持日期切换。\n亮点 纯文本呈现详尽气象数据，适合极简环境与命令行用户。\n适合 开发者、系统管理员、极简主义者。"
+    },
+    {
+      "title": "Who does Anubis actually stop?",
+      "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+      "summary": "核心 Anubis防AI机制形同虚设，反而对人类用户造成不必要负担。\n要点 AI工具可轻易绕过Anubis挑战；人类用户尤其是弱势群体被“regressive tax”影响；全球每日浪费大量时间与能源。\n亮点 Anubis本意为防AI，却因易被AI破解而沦为对人类的“regressive tax”。\n适合 技术决策者；安全/AI工程师"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "summary": "核心 开源权重AI正成为新生态基石，美国应参与竞争而非封闭。\n要点 以Kubernetes历史类比，开放平台成中心后创新无人能敌；开源权重虽非完全开源，但足以催生量化、微调、合并等丰富生态变体；前沿开源模型性能快速逼近闭源，如GLM-5.2在SWE-bench Pro超越GPT-5.5。\n亮点 GLM-5.2在SWE-bench Pro评测中超越GPT-5.5。\n适合 AI工程师与科技决策者"
+    },
+    {
+      "title": "Bitchat is now on Radicle",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+      "summary": "核心 BitChat是去中心化点对点消息应用，融合蓝牙Mesh离线与Nostr互联网通信。\n要点 双传输架构：蓝牙Mesh离线+Nostr全球；隐私优先：无账户无电话号码；智能路由自动选传输\n亮点 双传输架构实现无缝离线和全球通信\n适合 移动开发与安全工程师"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "[block/buzz] 蜂巢思维通信平台",
+      "stars": 12,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "[citrolabs/ego-lite] 为你和AI代理并行工作的最佳浏览器。",
+      "stars": 9,
+      "language": "JavaScript",
+      "description_original": "The best browser for both you and your AI agents work in parallel."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "[diegosouzapw/OmniRoute] 免费MIT许可的AI网关：一个端点支持290+提供商（90+免费）和500+模型（Kimi, Claude, GPT等）。与Claude Code等工具兼容，具备配额感知自动回退和压缩节省成本。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "[MadsLorentzen/ai-job-search] 基于Claude Code的AI驱动求职申请框架。复制、填写个人资料，即可让Claude评估职位、定制简历、撰写求职信并准备面试。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "[Vincentwei1021/video-shotcraft] 用于Claude Code和Codex的AI视频技能——使用Remotion制作电影级产品视频：包含106个镜头配方卡、161个动作预览及生产就绪模板。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "[ifixai-ai/iFixAi] 在客户或监管机构之前发现AI的错误和盲点。运行45项检查（32项核心+13项扩展），针对破坏、放水和规避监督等前沿风险，5分钟内返回字母等级。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Catch your AI's mistakes and blind spots before your customers or regulators do. iFixAi runs 45 inspections, 32 graded core plus 13 extended for frontier risks like sabotage, sandbagging, and oversight evasion. It returns a letter grade in under 5 minutes. Industry and model agnostic."
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "[img2threejs/img2threejs] 将参考图像中的物体重建为仅代码、程序化、质量管控、动画就绪的Three.js模型。高效实现图像转3D。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "[calesthio/OpenMontage] 世界首个开源智能视频制作系统。拥有12个管道、52个工具、500+代理技能，可将AI编码助手变为全功能视频制作工作室。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "[stablyai/orca] Orca是用于管理并行代理群的ADE。可使用自有订阅运行任意编码代理，支持桌面和移动端。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "[iOfficeAI/OfficeCLI] 首个专为AI代理设计的办公套件，可读取、编辑和自动化Word、Excel、PowerPoint文件。免费、开源、单二进制文件，无需安装Office。",
+      "stars": 3,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "BigPizzaV3/CodexPlusPlus",
+      "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "description": "一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "自托管部署平台",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Self-hosted deployment platform"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "一个驻留在终端中的代理多路复用器。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "nitrocloudofficial/nitrostack",
+      "url": "https://github.com/nitrocloudofficial/nitrostack",
+      "description": "用于构建、测试和部署生产就绪的MCP服务器与AI原生应用的全栈TypeScript框架。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps."
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex 与 Claude Code 的通用提供商代理——支持将 Claude、Gemini、Grok、DeepSeek、Ollama 等任意大语言模型与 Codex CLI、App、SDK 及 Claude Code 配合使用。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Claude Code与AI代理的营销技能：转化率优化、文案写作、SEO、分析与增长工程。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "humanlayer/advanced-context-engineering-for-coding-agents",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "Galaxy-Dawn/claude-scholar",
+      "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+      "description": "半自动化研究助手，适用于学术研究与软件开发，支持Claude Code、Codex CLI、Kimi Code CLI和OpenCode，涵盖从构思、编码、实验、写作到发表的全流程。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "开源免费——已在阿里巴巴大规模验证。混合架构代码审查工具：确定性流水线 + LLM代理，支持精确行级注释，内置微调规则集（空指针异常、线程安全、XSS、SQL注入），兼容OpenAI与Anthropic。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "jgravelle/jcodemunch-mcp",
+      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "description": "通过tree-sitter AST实现精确的符号级GitHub代码检索，可降低AI token成本95%以上，兼容Claude Code、Cursor及所有MCP客户端，已节省313B+ tokens。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved."
+    }
+  ]
+}
