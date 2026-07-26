@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T22:52:03.232444+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "summary": "核心 Decker是受HyperCard启发的交互式多媒体平台，融合复古美学与创作自由。\n要点 继承HyperCard简单性并增强交互与编辑功能；内置Lil脚本语言，易学且支持向量运算与SQL查询；输出独立HTML文件，跨平台运行且无隐私侵犯。\n亮点 保存为独立HTML文件，随处分享。\n适合 前端开发者与数字艺术家"
+    },
+    {
+      "title": "It's not empowering to hand off the details",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "summary": "核心 赋能非来自移交细节，而源于对细节的深入掌握。\n要点 逃避细节不可行，深入是创新基础；专长发展依赖细节专注；移交细节非赋能，实为放弃角色。\n亮点 真正的专家必须亲自掌握细节，AI仅是辅助工具。\n适合 AI开发者；技术管理者；专业成长者"
+    },
+    {
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "summary": "核心 研究卫星再入大气层形成的等离子体隧道，揭示太空碎片释放有毒物质的过程。\n要点 等离子体隧道是卫星燃烧的关键特征；高温使有毒金属挥发至平流层；长期污染风险需引起重视。\n亮点 首次通过等离子体隧道观测量化卫星燃烧释放的有毒金属。\n适合 航天与环境技术研究者"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "summary": "核心 数据导向设计聚焦数据读写模式，优化内存访问以提升性能。\n要点 以数据访问为中心设计；重组数据布局减少缓存未命中；便于多线程与协处理器利用。\n亮点 数据重组后性能可提升数百倍。\n适合 后端与系统工程师"
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "summary": "核心 设计即选择正确的权衡，有主见的设计优于取悦所有人的平庸方案。\n要点 妥协是日常决策与权衡，非贬义；优秀设计是有主见的，明确自身短板以突出优势；追求普适性会导致平庸，针对性妥协才是关键。\n亮点 重新定义“妥协”为积极的设计决策过程，打破“无妥协”的营销神话。\n适合 产品经理与设计师"
+    },
+    {
+      "title": "Teaching Kids Forth – Anna Liberty",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "summary": "核心 作者选用小众堆栈语言Forth向中学生教授编程\n要点 为避语法教基础概念；Forth堆栈模型易理解；过程式比函数式更适课堂\n亮点 使用小众语言使有经验者亦能学新，且不排斥新手\n适合 编程教育者与课程设计者"
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "summary": "核心 Htmx 4.0以Game Boy游戏形式独家发布。\n要点 版本号升级至4.0；发布形式为Game Boy卡带游戏；首个仅限Game Boy平台发布的JS库\n亮点 首个专为Game Boy游戏机发布的JavaScript库\n适合 前端开发者"
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "summary": "核心 使用FFmpeg模拟磁带音频特征，实现复古音效处理。\n要点 基于FFmpeg音频滤镜链；模拟磁带谐波失真与高频衰减；提供预设配置文件。\n亮点 提供多种磁带型号预设，快速应用复古效果。\n适合 音频工程师/音乐制作人"
+    },
+    {
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "summary": "核心 专为树莓派等Linux单板设计的轻量自托管监控方案，数据本地存储保障隐私。\n要点 隐私优先，视频数据完全本地存储；资源高效，专为低功耗SBC优化；功能全面，支持运动检测、警报推送及夜视模式。\n亮点 集成即时通讯工具实现远程视频回传与智能警报，无需云服务。\n适合 嵌入式开发者与家庭监控自建者"
+    },
+    {
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "summary": "核心 探讨英语散文的两种典范风格：繁复华丽与简洁清晰。\n要点 托马斯·布朗爵士的巴洛克式繁复散文；《圣经》的宏大清晰与音乐性；两者共同体现17世纪英语表达的成熟与自由。\n亮点 揭示17世纪英语表达的黄金时代。\n适合 文学爱好者/英语写作者"
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "summary": "核心 Go官方推出的模块化静态分析框架，统一分析接口。\n要点 支持跨包信息传递的模块化分析；通过Analyzer接口描述分析逻辑；可集成至各类开发与构建工具。\n亮点 通过统一接口实现分析器的即插即用与跨工具复用。\n适合 Go开发者、工具链构建者"
+    },
+    {
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "summary": "核心 多路图灵机作为并发计算与量子力学的最小模型被探索。\n要点 多路图灵机允许多种演化路径，形成分支合并的多路图结构；在Wolfram物理项目中，多路系统直接对应量子力学框架；即使采用最简单的规则，多路图灵机也可能产生复杂行为。\n亮点 作为量子力学与并发计算的最小统一模型。\n适合 理论计算机与量子物理研究者"
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "summary": "核心 中继市场以超低折扣提供AI模型代币，滋生欺诈与转售产业链。\n要点 中继提供高达97.8%折扣的代币；市场分四层：上游卡商、中游账号池、下游中转站、终端用户；软件基于one-api/new-api，兼容OpenAI API。\n亮点 开源项目one-api和new-api成为中继市场核心，简化欺诈代币分销。\n适合 AI安全工程师；反欺诈分析师。"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "summary": "核心 AI时代需聚焦深度而非广度，避免效率提升导致的新burnout。\n要点 AI加速效率但易诱发更多项目；警惕为忙碌而创造的“伪工作”；追求最后1%的完美以达成本质飞跃。\n亮点 最后1%的努力能带来100%的体验差异，如99%与100%日食的视觉区别。\n适合 产品经理、开发者、创业者"
+    },
+    {
+      "title": "Using ThinkPad T480 as a mobile phone",
+      "url": "https://grego.site/blog/thinkphone",
+      "summary": "核心 ThinkPad T480可改装为移动电话，支持通话短信及移动数据。\n要点 刷入Libreboot固件移除无线网卡白名单；选用Quectel EG25-G调制解调器并配置USB音频；短信移动数据即插即用，支持Waydroid运行Android应用。\n亮点 笔记本电脑完全替代手机，支持Android应用原生运行。\n适合 硬件改装爱好者；安全工程师"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "[block/buzz] 一个蜂巢思维通信平台",
+      "stars": 9,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "[CoreBunch/Instatic] Instatic 是一个现代化的自托管可视化 CMS，一分钟内即可运行。",
+      "stars": 7,
+      "language": "TypeScript",
+      "description_original": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "[diegosouzapw/OmniRoute] 永不停止编码。免费 MIT AI 网关：一个端点，290+ 提供商（90+ 免费），500+ 模型，支持 Claude Code 等工具，配额感知自动回退，RTK+Caveman 压缩节省 15-",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "[floci-io/floci] 轻量、蓬松且永远免费 - AWS 本地模拟器的替代品。",
+      "stars": 6,
+      "language": "Java",
+      "description_original": "Light, fluffy, and always free - The AWS Local Emulator alternative"
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "[agentscope-ai/QwenPaw] 你的个人 AI 助手；易于安装，可在自有机器或云端部署；支持多个聊天应用，能力易于扩展。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "[stablyai/orca] Orca 是用于处理并行代理群的 ADE。使用你自己的订阅运行任何编码代理。适用于桌面和移动设备。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "[1jehuang/jcode] 最智能的代码代理框架。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "The most intelligent agent harness for code"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "[heygen-com/hyperframes] 编写 HTML。渲染视频。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "符合nature论文学术表达和科研绘图的Skill"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI 是首个且最佳的办公套件，专为 AI 代理设计，可读取、编辑和自动化处理 Word、Excel 和 PowerPoint 文件，免费、开源、单二进制文件，且无需安装 Office。",
+      "stars": 4,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "x4gKing/PasarGuard",
+      "url": "https://github.com/x4gKing/PasarGuard",
+      "description": "暂无描述",
+      "stars": 1,
+      "language": "Dockerfile",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "自托管部署平台",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Self-hosted deployment platform"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "让你和你的AI代理并行工作的最佳浏览器。",
+      "stars": 3,
+      "language": "JavaScript",
+      "description_original": "The best browser for both you and your AI agents work in parallel."
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "将参考图像中的物体重建为纯代码、程序化、质量门控、动画就绪的Three.js模型。实现高效的图像转3D生成。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "开源免费 — 经过阿里海量规模实战检验。混合架构代码审查工具：确定性流水线 + LLM Agent，支持精确到行的评论，内置微调规则集（空指针异常、线程安全、XSS、SQL注入），兼容 OpenAI 与 Anthropic。",
+      "stars": 1,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 2,
+      "language": "C",
+      "description_original": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任何技术书籍PDF转化为Claude Code技能——随时供学习、参考和使用。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "终端内的代理多路复用器。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "让您的AI在设计上更出色的设计语言。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "用于OpenAI Codex和Claude Code的通用提供者代理——可使用任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama…）配合Codex CLI、App、SDK及Claude Code。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    }
+  ]
+}
