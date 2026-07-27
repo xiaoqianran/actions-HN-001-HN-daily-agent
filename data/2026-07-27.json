@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T22:48:58.126724+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The computer that helped win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Bytecode-to-Source Mapping",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Paged Out #9 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "stars": 8,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "暂无描述",
+      "stars": 7,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "OpenMinis/OpenMinis",
+      "url": "https://github.com/OpenMinis/OpenMinis",
+      "description": "OpenMinis — The AI Agent app across platforms. Open source coming soon.",
+      "stars": 6,
+      "language": "Unknown",
+      "description_original": "OpenMinis — The AI Agent app across platforms. Open source coming soon."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 5,
+      "language": "JavaScript",
+      "description_original": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": 6,
+      "language": "JavaScript",
+      "description_original": "The best browser for both you and your AI agents work in parallel."
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 4,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "guohuiyuan/go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "MengTo/Skills",
+      "url": "https://github.com/MengTo/Skills",
+      "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+      "stars": 3,
+      "language": "HTML",
+      "description_original": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "oso95/scroll-world",
+      "url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "stars": 3,
+      "language": "JavaScript",
+      "description_original": "A skill that turn any brand into a scrollable 3D world"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Skills for Design Engineers"
+    },
+    {
+      "name": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
+    }
+  ]
+}
