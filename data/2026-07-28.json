@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T22:49:41.146687+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Running Kimi K3 on a M1 Max",
+      "url": "https://github.com/gavamedia/deltafin",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Recursion is lying to you",
+      "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "暂无描述",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 5,
+      "language": "Rust",
+      "description_original": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 4,
+      "language": "C",
+      "description_original": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": 4,
+      "language": "HTML",
+      "description_original": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 5,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "builtbybel/FluentCleaner",
+      "url": "https://github.com/builtbybel/FluentCleaner",
+      "description": "A real WinUI desktop cleaner with terminal control and multi-database support",
+      "stars": 4,
+      "language": "C#",
+      "description_original": "A real WinUI desktop cleaner with terminal control and multi-database support"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "NodePassProject/Nowhere",
+      "url": "https://github.com/NodePassProject/Nowhere",
+      "description": "Split-direction TLS / QUIC relay in Rust",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "Split-direction TLS / QUIC relay in Rust"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "tamnd/kage",
+      "url": "https://github.com/tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Shadow any website for offline viewing, with the JavaScript stripped out"
+    },
+    {
+      "name": "zhishile/codex-auth-helper",
+      "url": "https://github.com/zhishile/codex-auth-helper",
+      "description": "Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。",
+      "stars": 3,
+      "language": "CSS",
+      "description_original": "Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    }
+  ]
+}
