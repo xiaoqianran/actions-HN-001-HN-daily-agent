@@ -33,7 +33,7 @@ OPENAI_API_KEY = nvapi-xxxxxxxx
 
 ```
 OPENAI_BASE_URL = https://integrate.api.nvidia.com/v1
-MODEL_NAME      = stepfun-ai/step-3.5-flash
+MODEL_NAME      = openai/gpt-oss-120b
 HN_TOP_COUNT    = 15
 GH_TOP_COUNT    = 20
 ```

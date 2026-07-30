@@ -19,7 +19,7 @@ DEFAULT_TOP_COUNT = DEFAULT_HN_TOP_COUNT
 
 # OpenAI 兼容接口默认值（NVIDIA NIM）
 DEFAULT_OPENAI_BASE_URL = "https://integrate.api.nvidia.com/v1"
-DEFAULT_MODEL_NAME = "stepfun-ai/step-3.5-flash"
+DEFAULT_MODEL_NAME = "openai/gpt-oss-120b"
 
 # 严格结构化提示词：固定标签，避免自由 Markdown 导致微信排版错乱
 DEFAULT_SUMMARY_PROMPT_TEMPLATE = """

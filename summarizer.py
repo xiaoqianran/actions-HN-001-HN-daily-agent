@@ -122,7 +122,7 @@ class Summarizer:
             api_key: API Key
             prompt_template: 摘要提示词模板，必须包含 {title} 和 {content} 占位符
             base_url: OpenAI 兼容接口地址，默认 NVIDIA NIM
-            model_name: 模型名称，默认 stepfun-ai/step-3.5-flash
+            model_name: 模型名称，默认 openai/gpt-oss-120b
         """
         from config import DEFAULT_MODEL_NAME, DEFAULT_OPENAI_BASE_URL
 

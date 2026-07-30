@@ -67,7 +67,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || secrets.DEEPSEEK_API_KEY }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL || 'https://integrate.api.nvidia.com/v1' }}
-          MODEL_NAME: ${{ vars.MODEL_NAME || 'stepfun-ai/step-3.5-flash' }}
+          MODEL_NAME: ${{ vars.MODEL_NAME || 'openai/gpt-oss-120b' }}
           HN_TOP_COUNT: ${{ github.event.inputs.hn_top_count || vars.HN_TOP_COUNT || '15' }}
           # GitHub 禁止 Variables 名以 GITHUB_ 开头，故仓库变量用 GH_TOP_COUNT
           GITHUB_TOP_COUNT: ${{ github.event.inputs.github_top_count || vars.GH_TOP_COUNT || '20' }}

@@ -21,7 +21,7 @@ pip install -r requirements.txt
 # Set required environment variables in .env file:
 # OPENAI_API_KEY=nvapi-xxx
 # OPENAI_BASE_URL=https://integrate.api.nvidia.com/v1
-# MODEL_NAME=stepfun-ai/step-3.5-flash
+# MODEL_NAME=openai/gpt-oss-120b
 # PUSHPLUS_TOKEN=your_token_here
 
 # Run the agent
@@ -65,5 +65,5 @@ python news_agent.py
 - Content shorter than 100 characters is considered a fetch failure and falls back to a generic message
 - A 1-second sleep between articles prevents rate limiting
 - All HTTP requests use explicit `timeout` parameters
-- Default LLM endpoint is NVIDIA NIM (`https://integrate.api.nvidia.com/v1`, model `stepfun-ai/step-3.5-flash`); override via env vars
+- Default LLM endpoint is NVIDIA NIM (`https://integrate.api.nvidia.com/v1`, model `openai/gpt-oss-120b`); override via env vars
 - GitHub Trending fetcher scrapes the trending page to extract repository names, URLs, and descriptions
