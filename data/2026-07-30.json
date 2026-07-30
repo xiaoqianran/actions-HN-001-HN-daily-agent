@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T05:18:44.713178+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "核心 AI 领军初创公司鲜少公开研究，聚焦产品化竞争。\n要点 研发重点转向商业化；学术论文发布稀少；行业竞争导致信息封闭\n亮点 OpenAI 仍保持活跃的学术发表\n适合 AI 与产品研发人员"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "summary": "核心 Vision Pro结合Fusion 360建模，实现房屋平面图的沉浸式VR预览，帮助选材布局。\n要点 Fusion 360快速生成房屋3D模型；Vision Pro沉浸式漫游评估空间尺度；脚本下载IKEA家具模型进行布局。\n亮点 利用Tampermonkey脚本可批量下载IKEA官方3D模型。\n适合 建筑设计与VR爱好者"
+    },
+    {
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "summary": "核心 NSF启动四年制博士项目，嵌入产业研发实习，提升STEM博士就业匹配度。\n要点 NSF投入4700万美元，联合30余所高校与企业；四年制博士学位，第一年校方资助，后续NSF与企业共同资助；学生在企业进行论文研究，双导师制提升行业与学术技能。\n亮点 首批250名博士生将在四年内完成学位并获企业实战经验。\n适合 STEM研究生与高校导师"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "summary": "核心 Superlogical 正在打造跨环境的终端多路复用器，实现工作会话统一。\n要点 统一交互、自动和生产工作流；支持网页、macOS/iOS 多端访问；团队来自 HashiCorp 等顶尖公司\n亮点 可跨设备恢复会话并实时共享\n适合 开发者与平台工程师"
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "summary": "核心 一篇讽刺性文案，宣传把大语言模型‘转化’为真人的假服务LLM2HUMAN。\n要点 步骤荒诞转化流程；标价 19.95 美元并赠送假身份证等；大量模型‘真人’体验的搞笑用户评价\n亮点 唯一的‘把 AI 变成人’荒诞营销案例\n适合 AI/产品/技术爱好者"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "summary": "核心 生产力并非工具堆砌，核心在于解决正确问题和产品直觉。\n要点 简单编辑器不影响高产出；关注问题本质胜于炫技；产品直觉与需求决定成功\n亮点 成功关键在于正确的问题选择和产品直觉\n适合 产品经理与工程师"
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "summary": "核心 Keychron 将于2027 Q1 为 G6 HE 鼠标推出首个开源固件 ZGM\n要点 ZGM 类似键盘 QMK/ZMK，支持自由编程；聚焦低延迟与模块化层，可自定义功能；为竞争 Logitech X2 SuperStrike 的鼠标增添差异化优势\n亮点 首个面向游戏鼠标的开源固件，解锁深度自定义\n适合 硬件开发者/游戏玩家"
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "summary": "核心 冷邮件改变职业轨迹，主动联系能带来意外机会。\n要点 通过补充材料成功从CMU候补名单逆袭；主动给GitHub发邮件获现场录用；冷DM促成体育投资与俱乐部所有权\n亮点 一次冷邮件即可开启全新职业方向\n适合 产品/创业/技术求职者"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Logic for Programmers",
+      "url": "https://logicforprogrammers.com/",
+      "summary": "核心 一本面向程序员的实用逻辑入门书，零数学背景也能学。\n要点 通过布尔逻辑提升代码设计与验证；包含实用章节如条件简化、API 兼容性、竞态检测等；提供 PDF/EPUB 免费 DRM‑free，配套代码在 GitHub\n亮点 掌握布尔逻辑即可在代码重构、测试、系统设计等多场景提升可靠性。\n适合 中高级后端/全栈程序员"
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "summary": "核心 K3-256k模型提供256k上下文，降低配额消耗，适合日常编码。\n要点 k上下文版K3，配额消耗约为原模型一半；不支持视频输入，切换前需压缩上下文；会员等级决定模型、上下文和高速模式可用性\n亮点 切换至K3-256k可将配额消耗减半并保持相同输出质量。\n适合 AI开发者/后端工程师"
+    },
+    {
+      "title": "Angels in Coptic Magic I: Introduction",
+      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+      "summary": "核心 介绍科普魔法中天使概念及其在埃及基督教仪式中的角色。\n要点 天使被视为火与灵的无形使者；Coptic 魔法融合希腊、犹太、基督传统；文献列举多类天使及其在仪式中的功能\n亮点 柏林纸莎草卷P.21165记载五位天使用于驱热。\n适合 史学与宗教学者"
+    },
+    {
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "url": "https://noelo.org/blog/kuna-release/",
+      "summary": "核心 Kuna 是由 LLM 主导的实验性去编译器，结构化表现已接近 IDA Pro。\n要点 LLM 编写几乎全部代码，实现；无；无\n亮点 无\n适合 通用读者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "提供免费 MIT AI 网关，单端点接入 290+ 提供商（90+ 免费）和 500+ 模型，如 Kimi、Claude、GPT 等，兼容 Claude Code、Codex、Cursor 等，并具备配额感知自动回退和压缩功能。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任意技术书籍 PDF 转换为 Claude Code 技能，可随时学习、查阅并在工作中使用。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "开源 AI 渗透测试工具，用于发现并修复应用漏洞。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个集体思维通信平台。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "让 Claude 能观看任意视频，/watch 下载视频、提取帧并转录后交给 Claude 处理。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "创建并分享 3D 建筑项目。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "为设计工程师提供的技能集合。",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "一套面向 CAD、机器人和硬件设计的代理技能集合。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "A collection of agent skills for CAD, robotics and hardware design"
+    },
+    {
+      "name": "m5stack/StackChan",
+      "url": "https://github.com/m5stack/StackChan",
+      "description": "StackChan 开源项目！",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "StackChan open source!"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "编写 HTML 并渲染视频，专为代理构建。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "自托管的旅行/行程规划器，支持实时协作、交互式地图、PWA、单点登录、预算、行李清单等功能。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more."
+    },
+    {
+      "name": "OpenNSWM-Lab/FAROS",
+      "url": "https://github.com/OpenNSWM-Lab/FAROS",
+      "description": "基于蓝图的 AutoResearch 运行时，用于编排 AI 研究工作流，从创意生成、实验到论文撰写和同行评审。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review."
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "将参考图像中的对象重建为仅代码、过程化、质量受控、可动画的 Three.js 模型，实现高效的图像到 3D 转换。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "heygen-com/hyperframes-launches",
+      "url": "https://github.com/heygen-com/hyperframes-launches",
+      "description": "HeyGen 产品发布视频背后的开源 HyperFrames 组合。",
+      "stars": 2,
+      "language": "HTML",
+      "description_original": "Open-source HyperFrames compositions behind HeyGen's product launch videos."
+    },
+    {
+      "name": "Neoexm/Shittim-Server",
+      "url": "https://github.com/Neoexm/Shittim-Server",
+      "description": "Blue Archive 的 Steam 私服。",
+      "stars": 2,
+      "language": "C#",
+      "description_original": "Blue Archive Private Server For Steam"
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "最省内存的 harness。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "The most RAM effiecent harness"
+    },
+    {
+      "name": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - 使用原生 Lua / LÖVE2D 重制的第一代宝可梦。",
+      "stars": 2,
+      "language": "C",
+      "description_original": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "tuya/TuyaOpenClaw",
+      "url": "https://github.com/tuya/TuyaOpenClaw",
+      "description": "面向边缘硬件（SoC/MCU）的 Claw🦞。",
+      "stars": 1,
+      "language": "C",
+      "description_original": "Edge-Hardware (SoC/MCU) oriented Claw🦞"
+    }
+  ]
+}
