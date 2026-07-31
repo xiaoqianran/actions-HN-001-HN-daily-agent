@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T02:05:04.606144+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "url": "https://github.com/MemoireMorte/Memo-1",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "summary": "核心 Google Play Age Signals API全球扩展，帮助开发者提供年龄合适内容。\n要点 API将在今年底全球推开，先在澳洲、加拿大上线；父母在FamilyLink共享年龄，依据提供内容；开发者可依据年龄信号灵活设置安全策略，适配不同应用。\n亮点 通过Family Link统一共享年龄，跨应用实现安全。\n适合 产品/安全/开发者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 10,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 9,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "The most RAM effiecent harness"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "name": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke",
+      "stars": 3,
+      "language": "C",
+      "description_original": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke"
+    },
+    {
+      "name": "unicity-aos/aos-ce",
+      "url": "https://github.com/unicity-aos/aos-ce",
+      "description": "AOS Community Edition: the open agent operating system.",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "AOS Community Edition: the open agent operating system."
+    },
+    {
+      "name": "dramaclaw/dramaclaw",
+      "url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可"
+    },
+    {
+      "name": "NodePassProject/Nowhere",
+      "url": "https://github.com/NodePassProject/Nowhere",
+      "description": "Split-direction TLS / QUIC relay in Rust",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "Split-direction TLS / QUIC relay in Rust"
+    },
+    {
+      "name": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 2,
+      "language": "C",
+      "description_original": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase."
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "description": "ADHD — 为编码代理提供的技能。基于 Claude 与 Codex Agent SDK 的树状思考并剪枝。它在不同认知框架下并行展开多元思考，打分、剪除陷阱、深化存活的思路。是创意与跨学科工作的不二之选。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work."
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 2,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    }
+  ]
+}
