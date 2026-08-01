@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T22:45:08.612936+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "summary": "核心 Google 通过逐步削弱、关闭 RSS 功能，导致用户流失，阻碍 RSS 采纳。\n要点 Chrome 早期内置 RSS 按钮，后被无预警移除；收购 FeedBurner 后加入广告追踪，并在 2022 大幅削减服务；关闭 Google Reader，削弱用户对 RSS 的信心。\n亮点 Google 多次以扩展后再撤回的方式削弱开放 RSS，成为最大阻力。\n适合 产品经理与运营人员"
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "summary": "核心 Diátaxis 将文档需求分为四类，对应四种文档形态。\n要点 明确四种用户需求：学习、任务、查询、原理；对应四种文档：教程、操作指南、参考、解释；提升内容、风格、结构质量，易于维护。\n亮点 被 Vonage、Gatsby、Cloudflare 等项目实践验证。\n适合 技术文档作者与维护者"
+    },
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "核心 Seedance 2.5实现30秒单次生成并多轮扩展，强化多模态参考与精细编辑，支持长篇故事化视频。\n要点 单次生成30秒视频，支持多轮续写；支持30图、10视频、10音频参考，提升创意表达；时间戳级编辑、绿幕、视角等高级功能\n亮点 30秒单次生成并可多轮扩展，显著提升长视频连贯性\n适合 AI视频创作者"
+    },
+    {
+      "title": "From MIT: AI financial advice is surprisingly good",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "核心 AI理财建议总体可靠，能提升30岁以上人群储蓄与投资，精准提问效果更佳。\n要点 AI建议促使更高储蓄和股票投资；对失业等冲击适应不足，缺乏主动再平衡；使用结构化学术式提问可显著提升建议质量。\n亮点 AI在常规理财上优于多数个人，结构化提问可进一步提升。\n适合 个人理财用户"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "summary": "核心 Lean 核心实现中嵌套归纳类型检查缺失，导致可构造假证明，已快速修复。\n要点 月25日 AI 辅助生成 Collatz 反证，利用该漏洞；元编程直接提交嵌套归纳声明，触发检查缺失；修复加入参数完整性校验，nanoda 同步更新。\n亮点 该漏洞揭示元编程安全风险，促使内核加入参数完整性校验。\n适合 安全与AI研发工程师"
+    },
+    {
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "summary": "核心 HP Prime G2 计算器成功移植 Linux，能运行 X 桌面和 Doom。\n要点 支持触摸屏和双行显示；已移植 X 窗口系统和 fbv；可运行 Doom 与终端等完整 Linux 应用\n亮点 首次在商业图形计算器上实现完整 Linux 桌面\n适合 硬件/嵌入式开发者"
+    },
+    {
+      "title": "Just because a game is on disc doesn't mean it will work in the future",
+      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "summary": "核心 实体光盘游戏仍需网络下载，未来可能无法离线运行\n要点 约27%光盘需额外下载；PS5 34%、Xbox X 50%更高；DoesItPlay提供离线可玩性数据库\n亮点 超过三分之一的光盘游戏缺乏完整离线体验\n适合 游戏玩家与行业分析"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "summary": "核心 用 MASM 在 Windows 手写 OOP、异常、并发，深度剖析 64 位汇编。\n要点 逐章拆解高级语言构造，手写 MASM 实现；深入讲解 vtables、SEH、协程等指令层实现；提供宏语言、Unicode、同步原语完整示例。\n亮点 全书配套可直接编译运行的 MASM 示例代码。\n适合 底层/系统程序员 与性能爱好者"
+    },
+    {
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+      "summary": "核心 CISA警报称水务行业PLC面临针对性网络攻击。\n要点 威胁者利用PLC已知漏洞进行渗透；攻击链包括钓鱼邮件和恶意载荷；建议实施网络分段、及时打补丁\n亮点 该警报提供详细IOC，便于快速检测。\n适合 安全"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "summary": "核心 NetBSD 11.0 正式发布，提供多平台镜像与安装指南。\n要点 ISO 分 CD 小版和 DVD 大版，USB 用 .img；ARM 设备可直接下载预配置 U‑Boot 镜像；仍有未修复安全问题，相关 PR 将在 11.1 合并\n亮点 发布后两个月内计划推出 11.1，修复所有安全问题。\n适合 系统管理员与内核开发者"
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Nyctography: A substituton cypher by Lewis Carroll",
+      "url": "https://en.wikipedia.org/wiki/Nyctography",
+      "summary": "核心 尼克托图是一种路易斯·卡罗尔于1891年发明的夜间速记替换密码。\n要点 使用带有十六格方孔的 nyctograph 设备；通过左上角的点组合表示字母；便于在无光环境下快速记录想法\n亮点 发明动机是夜间醒来记录灵感，避免点灯\n适合 技术爱好者"
+    },
+    {
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "summary": "核心 提出探索式建模（XM）作为生成模型第三预训练轴，实现端到端生成并提升样本、算力、参数效率。\n要点 探索式建模在图像、视频、语言上均提升性能；随规模增长，样本效率提升7%→36%，算力提升4.1倍；端到端生成可比扩散模型省256倍推理计算\n亮点 XM 以 6.2 倍样本效率和 47% 参数效率显著超越现有模型\n适合 AI 研究者与工程师"
+    },
+    {
+      "title": "Beltrunner: Game Design Postmortem",
+      "url": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
+      "summary": "核心 Beltrunner 基于经典射击，引入倒计时、门序列与重力，实现 16 关竞技玩法。\n要点 通过倒计时把时间设为唯一资源；四段四波递进难度教学；确定性轨道与门机制营造街机感\n亮点 时间即生命，倒计时驱动全局节奏。\n适合 游戏设计师 与 独立开发者"
+    },
+    {
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "summary": "核心 pgtestdb 通过模板克隆，快速创建测试数据库，性能与 schema 方法相当\n要点 使用 PostgreSQL 模板库，克隆仅需约 100 ms；与基于 schema 的迁移速度相近，但无需每次迁移；结合复用可将启动时间降至 10‑20 ms，接近事务方式\n亮点 模板克隆让测试库创建仅百毫秒，极大提升效率\n适合 后端开发与测试工程师"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "多玩家代理工具，用于工作",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "Multiplayer agent harness for work"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "快速的 Rust 库，用于 PDF 检查、分类和文本提取。智能识别扫描版和文本版 PDF，以实现智能路由决策。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "蜂巢思维通信平台",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "cwuom/NeriPlayer",
+      "url": "https://github.com/cwuom/NeriPlayer",
+      "description": "原生 Android 音频播放器，融合多源流媒体、本地控制、丰富歌词和自建同步功能。",
+      "stars": 2,
+      "language": "Kotlin",
+      "description_original": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行代理群的 ADE。可使用个人订阅运行任意编码代理，支持桌面和移动端。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "unicity-aos/aos-ce",
+      "url": "https://github.com/unicity-aos/aos-ce",
+      "description": "AOS 社区版：开放的代理操作系统。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "AOS Community Edition: the open agent operating system."
+    },
+    {
+      "name": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - 使用原生 Lua / LÖVE2D 重制的第一代口袋妖怪。",
+      "stars": 1,
+      "language": "C",
+      "description_original": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor：终身个性化辅导平台。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "将任意 AI 代理转化为 AI 科学家。全球 17 万+ 科学家使用的首屈一指的科学代理技能库，提供 158 项即用技能和 100+ 生物、化学、医学及药物发现数据库，兼容 Cursor、Claude Code、Codex、Pi。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "面向全球舞台的开源情报平台。统一界面追踪富豪的企业/私人飞机、间谍卫星以及地震等事件。可接入 AI 代理解析数据，发现前所未见的关联。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now."
+    },
+    {
+      "name": "shy3130/tickflow-stock-panel",
+      "url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目"
+    },
+    {
+      "name": "workopia/US-New-Grad-Internship-Jobs",
+      "url": "https://github.com/workopia/US-New-Grad-Internship-Jobs",
+      "description": "美国新毕业生、入门级和实习岗位 — 由 Workopia 每日更新",
+      "stars": 1,
+      "language": "JavaScript",
+      "description_original": "US new grad, entry-level & internship jobs — updated daily by Workopia"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "description": "使用 gpt-image 提取并整理你的衣物",
+      "stars": 1,
+      "language": "JavaScript",
+      "description_original": "Your clothes, extracted and organized with gpt-image."
+    },
+    {
+      "name": "sii-research/tau-0-vla",
+      "url": "https://github.com/sii-research/tau-0-vla",
+      "description": "该仓库是《τ0-VLA：基于世界模型引导的测试时计算的层次机器人基础模型》官方实现",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\"."
+    },
+    {
+      "name": "b3nito404/Loyd",
+      "url": "https://github.com/b3nito404/Loyd",
+      "description": "面向 TypeScript 的高性能、可树摇的模式验证库",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "High-performance, tree-shakable schema validation for TypeScript."
+    },
+    {
+      "name": "Steel-Foundation/SteelMC",
+      "url": "https://github.com/Steel-Foundation/SteelMC",
+      "description": "用 Rust 编写的 Minecraft 服务器，注重稳固的基础和高性能",
+      "stars": 1,
+      "language": "Rust",
+      "description_original": "A Minecraft server in Rust focused on a strong foundation and performance"
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：通过 15 个真实检查点，从零开始构建 Pi 风格的智能体",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent"
+    },
+    {
+      "name": "RunMaestro/Maestro",
+      "url": "https://github.com/RunMaestro/Maestro",
+      "description": "智能体编排指挥中心",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "Agent Orchestration Command Center"
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "你的个人 AI 助手；易于安装，可部署在本机或云端，支持多种聊天应用并具备可扩展功能",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "SHITIANYU-hue/amai_ocl",
+      "url": "https://github.com/SHITIANYU-hue/amai_ocl",
+      "description": "暂无描述",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "暂无描述"
+    }
+  ]
+}
