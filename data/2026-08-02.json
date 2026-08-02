@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T22:45:59.915897+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "summary": "核心 LLM Opus 5 用 1M 令牌生成《指环王》三维渲染，展示定制游戏潜力\n要点 用 1M 令牌预算生成 5500 行代码；实现《指环王》故事的三维动画；暴露 LLM 在视频审计和游戏评估上的不足\n亮点 仅 $10 预算，Opus 5 生成完整三维渲染代码\n适合 AI 与游戏开发者"
+    },
+    {
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "summary": "核心 作者批评Brennan夸大Obsidian价值，强调工具是载体，贡献来自使用者。\n要点 质疑Brennan将Obsidian等同于提升公共知识；强调笔记工具是个人化的，贡献来自用户而非软件；呼吁回归开发者视角，审视PKM系统的实际影响\n亮点 Obsidian本质是提供文本平台，价值取决于使用者的创作。\n适合 知识管理与生产力爱好者"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "summary": "核心 在 Linux ARM64 上提供实验性用户空间 macOS 二进制翻译层。\n要点 加载 Darwin Mach‑O 并映射 libSystem；已成功运行 7‑Zip、curl 等 macOS 实用工具；支持裸机、虚拟机、Docker 等 Linux aarch64 环境。\n亮点 无需 JIT，直接在用户空间翻译执行。\n适合 后端/系统/开源爱好者"
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "summary": "核心 FROGS 基准测试：14 种模型每月一次生成哈布斯堡下巴青蛙 SVG。\n要点 每个模型限三次尝试，2026 年 8 月共完成 42 次生成；Claude Opus 5 生成的 SVG 包含详细解剖标注，如突出下颚；SVG 代码展示渐变、路径、透明度等高级绘图技巧。\n亮点 首次以统一提示评估多模型 SVG 生成能力。\n适合 AI/生成模型研发者"
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "summary": "核心 开发者对工具的依赖源于工具能建立信任感。\n要点 熟练使用工具形成肌肉记忆；AI 编码工具信任度下降；工具与流程文化共同塑造可信度\n亮点 AI 使用率升至84%但信任仅29%\n适合 后端/前端/AI 开发者"
+    },
+    {
+      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+      "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+      "summary": "核心 通过将 .Xauthority 的 family 字段改为 FamilyWild，实现跨容器/主机的 X11 访问。\n要点 X 客户端因主机名与 cookie 不匹配导致授权失败；将 family 改为 0xffff（FamilyWild）实现任意主机匹配；使用 portable.Xauthority 替代原文件，安全高于 xhost +\n亮点 只改动 .Xauthority 两字节，即可跨容器共享 X 显示\n适合 安全与容器运维工程师"
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "核心 在 DGX Spark 上提供 Nix/NixOS 完整支持，包括 USB 镜像和硬件模块\n要点 可在 DGX OS Ubuntu 使用 Nix 开发环境；提供两种内核的 USB 启动镜像；NixOS 模块支持硬件配置与仪表盘\n亮点 NixGL 自动匹配 GPU 驱动，原生 playbook 均可用\n适合 AI/机器学习与系统运维工程师"
+    },
+    {
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "summary": "核心 为 Rust 编写的 creakwork12，为 Framework 12 添加“吱嘎”效果的库。\n要点 用 Rust 实现；模拟框架铰链生锈声；适配 Framework 12 版本\n亮点 轻量实现，直接替换即可感受吱嘎声。\n适合 Rust 开发者/后端工程师"
+    },
+    {
+      "title": "Read the Novels and Forget Everything Else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "summary": "核心 作者生平造假但作品仍受追捧，读者应专注小说本身。\n要点 奥布赖恩曾伪造出生、航海和教育经历；《奥布里-马图林》系列仍畅销，收藏价值高；读者与评论倾向只看作品，不纠结作者私德\n亮点 即使作者造假，小说仍保持高销量与收藏热度。\n适合 文学爱好者"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "summary": "核心 在1975年8位6502 CPU上实现自回归语言模型，展示极限压缩推理。\n要点 模型权重13KB、推理代码9KB，整体<25KB内存；使用BitNet三值量化，乘法转为加减，提升30倍速度；通过CC65编译C代码并在BBC Micro或浏览器模拟器上运行。\n亮点 首次在8位CPU上实现可用语言生成。\n适合 AI/嵌入式/硬件工程师"
+    },
+    {
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "summary": "核心 F* 是面向证明的通用编程语言，支持函数式与副作用并可编译到多平台。\n要点 结合依赖类型与 SMT 自动化证明；默认编译到 OCaml，也可抽取到 F#、C、Wasm；开源社区活跃，提供教程、课程与多语言工具\n亮点 已用于 HACL*、ValeCrypt 等高安全库。\n适合 安全、系统、学术研究者"
+    },
+    {
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "summary": "核心 RISC OS Open 20 年开放历程，社区驱动系统健康提升。\n要点 首次公开源代码；实现夜间自动构建；将系统移植至 Raspberry Pi 等低价硬件。\n亮点 RISC OS Pi 在 Raspberry Pi 上发布，吸引新一代用户。\n适合 系统开发者与开源爱好者"
+    },
+    {
+      "title": "TinyNES Review – A Super Niche NES Console",
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "summary": "核心 TinyNES 将原版 NES CPU/PPU 与现代开源硬件结合的超小型复古主机\n要点 使用原装或克隆的 6502 CPU 与 PPU，芯片可插拔更换；其余部件全新，仅支持复合视频输出；开源设计，可自行添加 RGB 或 HDMI 功能\n亮点 支持原装芯片插拔，满足硬件爱好者对真实 NES 体验的需求\n适合 硬件爱好者/复古游戏玩家"
+    },
+    {
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "summary": "核心 eBay因针对女高管的网络骚扰被判赔5600万美元。\n要点 前CEO指示发起骚扰；多名员工发布仇恨信息；法院判决5600万美元赔偿\n亮点 该案创下美国企业性别骚扰最高赔偿。\n适合 法务/合规/HR"
+    },
+    {
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "核心 通过UART和芯片提取，实现TP-Link TL-841N路由器获取root并发现持久硬编码凭证\n要点 焊接UART，115200波特直接获root；两种固件提取：UART+TFTP 与芯片读取；发现明文硬编码账号密码，恢复出厂仍有效\n亮点 硬编码凭证在路由器复位后仍可使用\n适合 硬件安全/渗透测试人员"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "快速的 Rust 库，用于 PDF 检查、分类和文本提取，智能检测扫描版与文本版 PDF，以实现智能路由决策。",
+      "stars": 10,
+      "language": "Rust",
+      "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "用于工作的多玩家代理框架。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Multiplayer agent harness for work"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "在已有硬件上运行前沿 MoE 模型——纯 C 实现，无依赖，专家模型从磁盘流式加载，体积小的引擎，庞大的模型。",
+      "stars": 4,
+      "language": "C",
+      "description_original": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": "暂无描述",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向工程/授权渗透测试/安全研究技能路由包，AI 驱动路由 + 按需工具链自举 + 自我进化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端。",
+      "stars": 3,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "面向设计工程师的技能集合。",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "mchughalex/skate3recomp",
+      "url": "https://github.com/mchughalex/skate3recomp",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "C++",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "永不停歇的编码。免费 MIT 授权的 AI 网关：单一端点，覆盖 290+ 提供商（90+ 免费），500+ 模型，如 Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax，兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot，具配额感知自动回退，RTK+Caveman 压缩节省约 15% 资源。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash 与 PRO 本地推理引擎，支持 Metal、CUDA 与 ROCm。",
+      "stars": 2,
+      "language": "C",
+      "description_original": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI 是首个专为 AI 代理读取、编辑、自动化 Word、Excel、PowerPoint 文件而打造的最佳 Office 套件，免费、开源、单一二进制文件，无需安装 Office。",
+      "stars": 2,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "rahmanef63/os-vps",
+      "url": "https://github.com/rahmanef63/os-vps",
+      "description": "基于浏览器的图形化 Shell 与控制面板，适用于您拥有的 Linux 服务器——终端、文件、监控与 AI 集于一体的移动优先界面。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "A browser-based graphical shell & control plane for a Linux server you own — terminal, files, metrics & AI in one mobile-first pane."
+    },
+    {
+      "name": "tytsxai/IDM-Activation-Script-Chinese",
+      "url": "https://github.com/tytsxai/IDM-Activation-Script-Chinese",
+      "description": "IDM 激活脚本中文版，GPL-3.0 开源的 Windows 批处理工具，支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码。",
+      "stars": 2,
+      "language": "Batchfile",
+      "description_original": "IDM 激活脚本中文版 · GPL-3.0 开源 Windows 批处理工具：支持试用期冻结、普通激活、一键重置与环境自检，GBK 中文菜单无乱码 | Chinese edition of IDM Activation Script — GBK-encoded batch toolkit for Internet Download Manager on Windows 7/8/10/11, no binary patching, automatic registry backup"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "一个防止你的编码代理埋藏答案的技能，适合 ADHD 使用的输出。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "面向终端的 DeepSeek 原生 AI 编码代理，围绕前缀缓存稳定性设计，可长期运行。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "description": "面向韩国用户的技能集合，包括 SRT、KTX、KakaoTalk、Hancom、天气、细颗粒物、法律、股票信息、朝鲜王朝实录、KBO、K联赛、LCK、专利搜索、Toss 证券、拼写检查、二手车价格、Coupang、Naver 博客、Daiso、Olive Young、快递单号查询等。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등..."
+    },
+    {
+      "name": "bryanthaboi/gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp —— 用原生 Lua / LÖVE2D 重制的第一代口袋妖怪。",
+      "stars": 2,
+      "language": "C",
+      "description_original": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex 与 Claude Code 的通用提供者代理，支持任意大模型（Claude、Gemini、Grok、DeepSeek、Ollama 等）在 Codex CLI、应用、SDK 与 Claude Code 中使用。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "最省内存的工具集。",
+      "stars": 1,
+      "language": "Rust",
+      "description_original": "The most RAM effiecent harness"
+    },
+    {
+      "name": "github/gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "description": "GitHub 堆叠式 Pull Request。",
+      "stars": 1,
+      "language": "Go",
+      "description_original": "GitHub Stacked PRs"
+    }
+  ]
+}
