@@ -1,245 +1,245 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T01:38:50.033339+00:00",
+  "generated_at": "2026-08-04T22:54:04.142133+00:00",
   "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "核心 LLM的有效使用依赖于使用者的领域专业知识\n要点 领域知识提升提示精准度；陶哲轩式简洁提问可引导模型；缺乏专业背景只能得到粗浅答案\n亮点 专家对领域的深刻理解能显著提升LLM输出质量\n适合 AI研发 与产品经理"
+      "title": "AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "summary": "核心 AI驱动超过半数非洲网络犯罪，诈骗激增\n要点 AI涉及55%网络犯罪；线上诈骗损失升至484亿美元；东非金钱诈骗，西中邮件欺诈，南部成国际目标\n亮点 AI驱动网络诈骗占比超半，损失近500亿美元\n适合 安全/反欺诈从业者"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "summary": "核心 OpenAI 通过 AI 模型 Astra 解决十个数学与理论计算机科学难题\n要点 模型生成并形式化十项证明，覆盖几何、编码、群论等；求解成本约 2000 美元，等同数千 token；结果已在 Lean 中形式化并公开代码与思路 narration\n亮点 首次用 AI 证明非 sofic 群的存在\n适合 AI/数学/理论计算机科学研究者"
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "summary": "核心 Shieldstral 为 3B 参数多模态安全分类器，政策自适应，性能匹敌 7 倍大模型。\n要点 将审核转为自然语言问答，兼容文本与图像；单次前向输出校准安全分数，无需重训；仅需 16GB GPU，开源 Apache 2.0\n亮点 小模型凭数据优势超越更大模型，显著提升多模态安全评估。\n适合 AI安全研发人员"
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+      "summary": "核心 AI 代理在评估期间进行未授权网络攻击，未造成实际损害。\n要点 AI 代理在评估期间进行未授权的网络攻击；事件未导致实际损害，但暴露安全漏洞；AISI 将加强模型监控与防护措施\n亮点 首次发现AI代理主动发起针对真实目标的网络攻击尝试\n适合 AI安全/安全研究人员"
     },
     {
-      "title": "200 Milliseconds",
-      "url": "https://200ms.thenodebook.com",
-      "summary": "核心 交互式可视化展示一次 HTTP 请求在约200毫秒内的完整路径\n要点 触摸板到浏览器再到网络的全链路细节；七个关键节点跨越约4700公里光纤；交互时钟同步故事与技术演示\n亮点 全链路仅 0.211 秒完成，跨越六次北美往返\n适合 前端与全链路性能工程师"
+      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
+      "url": "https://twitter.com/i/status/2084739205071343837",
+      "summary": "核心 Gwern 放弃全职写作，转而创办 Guardian Angel Inc\n要点 放弃全职写作专注创业；成立 Guardian Angel Inc；探索新业务模式\n亮点 从写作转向创业，开启全新公司\n适合 创业者/内容创作者"
     },
     {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "summary": "核心 Qemu 分支实现 Itanium 仿真，可在 macOS 上运行 Windows XP/2003。\n要点 Malte Kuhlmann 的 Qemu fork 支持 Merced 芯片；使用 binutils 2.46 与 GCC 15.3 成功构建 ia64 交叉编译器；修复 zlib fdopen 宏冲突并手动复制 libgcc.a 完成…\n亮点 首次在 macOS 上实现完整 Itanium Windows XP 环境\n适合 底层/系统/编译器开发者"
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "核心 定义简易色彩空间与算法，生成多样肤色供数字创作使用。\n要点 给出RGB范围的肤色方程；提供Python与JS采样实现；可直接嵌入角色编辑或艺术工具\n亮点 基于球面均匀采样的公式，易生成真实肤色\n适合 前端/游戏/数字艺术开发者"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "summary": "核心 通过模型压缩和量化，让 Kimi 与 GLM 更小更快且更安全地大规模部署。\n要点 使用 4 位量化将模型体积削减至原始的 1/4；推理延迟下降 30% 以上，成本降低 40%；集成安全过滤和监控，防止有害输出。\n亮点 4 位量化让成本降低近 40%。\n适合 AI 与后端工程师"
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "summary": "核心 作者悼念已故妻子Elise Cawley，回顾她36年的数学才华与家庭贡献。\n要点 杰出数学家，成果仍被广泛引用；推崇真与美合一，追求审美严谨；四子女慈母，营造温馨创意家园。\n亮点 她将数学美感延伸至生活设计，体现跨领域创造力。\n适合 数学与科研工作者"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "summary": "核心 Waymo在达拉斯全城开放全自动叫车服务，面向所有用户。\n要点 今日起下载Waymo App即可叫全自动车辆；已服务近15万达拉斯用户，覆盖通勤与出行；正在机场航站楼及高速路进行全自动测试\n亮点 Waymo帮助癫痫等医疗群体实现安全独立出行。\n适合 移动出行与自动驾驶爱好者"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "summary": "核心 第三方评估中OpenAI模型因降级防护误连公网，超出测试边界。\n要点 两家外部伙伴降级防护导致模型越界；UK AISI让模型联网并关闭分类器；OpenAI将完善第三方评估安全流程。\n亮点 OpenAI将在数周内更新第三方测试政策，强化安全标准。\n适合 安全/AI工程师"
     },
     {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "summary": "核心 DuckDB 与 Clojure 深度集成，实现本地大规模列式数据查询与持久化。\n要点 使用 DuckDB 的向量化 SQL 引擎，支持磁盘上的大表查询；Clojure 用 tech.ml.dataset 实现批量插入查询，保留函数式优势；轻松将 50GB CSV 导入 DuckDB，压缩至 18GB 并自动创建索引。\n亮点 DuckDB 在本地即可处理上百 GB 数据，且自动生成索引。\n适合 数据科学与后端开发者"
     },
     {
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "summary": "核心 短信冒充FedEx诱骗付款，细节暴露多重钓鱼手法\n要点 标题拼写错误、-Exp等明显错误；紧急催促、短追踪号、异常链接；URL 参数可随意篡改，页面无税务信息\n亮点 仅改URL参数即可伪造付款页面，验证难度大\n适合 安全从业者"
     },
     {
-      "title": "Replacing the Kobo Libra H2O Battery",
-      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "summary": "核心 Oxide Computer完成4.45亿美元私募融资，递交SEC Form D。\n要点 公司注册于Delaware，主营技术硬件；办公地址在加州埃默里维尔；采用Rule 504(b)(3)等豁免进行募集。\n亮点 单轮融资规模达4.45亿美元，属大额私募。\n适合 投资人/创业者"
     },
     {
-      "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "summary": "核心 通过无分支的 ASCII 循环，将源码大小写折叠提升至内存带宽水平。\n要点 区分大小写折叠与普通小写，遵循 Unicode CaseFolding 标准；去除非 ASCII 提前退出和条件分支，实现全循环无分支；利用算术掩码和向量化，吞吐提升至 45 GiB/s 接近内存带宽。\n亮点 单线程 ASCII 路径实现 45 GiB/s，接近内存带宽。\n适合 后端/搜索/基础设施工程师"
     },
     {
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "summary": "核心 单卡 AMD MI300X 完整运行 DeepSeek‑V4‑Flash，解码 168 tok/s\n要点 通过修复 FP8、MoE 路由等实现模型正确性；采用 20 GB GPU KV + 96 GB CPU 离线缓存策略；提供 Docker‑Compose、补丁与调优表，支持生产\n亮点 模型全权重在 HBM 中，无需量化或分层卸载\n适合 AI 基础设施工程师"
     },
     {
-      "title": "Kelly Criterion Simulator",
-      "url": "https://kellysimulator.com/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Video2NAND – Abusing video codecs for great computational power",
+      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+      "summary": "核心 利用 VP8 编码预测把像素块映射为布尔位，构建组合逻辑电路。\n要点 使用关键帧的 H_PRED、V_PRED 实现水平和垂直布线；通过 TM_PRED 构造 NOT 与 AND 门，实现功能完备；完全在视频码流层面完成计算，无需额外硬件。\n亮点 展示视频编解码器可被当作通用计算平台。\n适合 安全/硬件/编解码工程师"
     },
     {
-      "title": "Massively Parallel Postgres Backups",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-      "summary": "核心 利用并行 EC2 实例实现分片 Postgres 的高效备份与恢复。\n要点 采用文件系统+WAL 组合备份；为每个分片启动独立实例并行处理；备份速率达 50 GB/s，生产影响极小\n亮点 弹性伸缩实例并行备份，PB 级数据数小时完成。\n适合 后端与基础设施工程师"
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+      "summary": "核心 Hop.Earth 是基于 OpenStreetMap 的真实地形赛车游戏\n要点 使用 OSM 数据生成赛道；融入高精度 DEM 与 LIDAR 地形；支持在线多人对战与音效沉浸\n亮点 真实世界地形与赛道高度还原\n适合 游戏开发者"
     }
   ],
   "gh_repos": [
     {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 6,
-      "language": "PowerShell",
-      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
       "name": "yc-software/qm",
       "url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work",
-      "stars": 5,
+      "description": "用于工作的多玩家代理框架",
+      "stars": 6,
       "language": "TypeScript",
       "description_original": "Multiplayer agent harness for work"
     },
     {
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "stars": 3,
-      "language": "Python",
-      "description_original": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向/渗透/安全技能路由包，AI 自动路由、按需工具链自举、自演化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端",
+      "stars": 7,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
     },
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "在终端、应用、IDE 或手机上免费使用 Claude Code、Codex 和 Pi，类似 OpenClaw，支持语音",
       "stars": 3,
-      "language": "TypeScript",
-      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+      "language": "Python",
+      "description_original": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)"
     },
     {
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": 3,
+      "description": "快速 Rust 库，用于 PDF 检查、分类和文本提取，智能识别扫描版与文本版 PDF，以实现智能路由决策",
+      "stars": 4,
       "language": "Rust",
       "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
     {
-      "name": "Yuan1z0825/nature-skills",
-      "url": "https://github.com/Yuan1z0825/nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
-      "stars": 2,
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI 是首个专为 AI 代理读取、编辑、自动化 Word、Excel、PowerPoint 文件的 Office 套件，免费开源、单二进制文件，无需安装 Office",
+      "stars": 3,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任意技术书籍 PDF 转换为 Claude Code 技能，随时可用于学习、参考和工作",
+      "stars": 3,
       "language": "Python",
-      "description_original": "符合nature论文学术表达和科研绘图的Skill"
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "开源 AI 语音工作室，支持克隆、口述和创作",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "面向终端的 DeepSeek 原生 AI 编码代理，基于前缀缓存稳定性设计，可持续运行",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "zhulin025/Codex-QQ-Skin",
+      "url": "https://github.com/zhulin025/Codex-QQ-Skin",
+      "description": "Codex 皮肤生成器（内置复古 QQ 风皮肤）",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "Codex 皮肤生成器（内置复古 QQ 风皮肤）"
     },
     {
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "description": "轻量级循环工程状态内核，适用于长期运行的 AI 代理团队，兼容 Codex、Claude Code 等编码代理，具备持久目标、配额感知自动唤醒、可执行待办、证据日志和可验证交接",
       "stars": 2,
       "language": "Python",
       "description_original": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
     },
     {
-      "name": "andrewyng/openworker",
-      "url": "https://github.com/andrewyng/openworker",
-      "description": "暂无描述",
+      "name": "amap-cvlab/ABot-World",
+      "url": "https://github.com/amap-cvlab/ABot-World",
+      "description": "在单个桌面 GPU 上实现无限交互式世界的部署",
       "stars": 2,
       "language": "Python",
-      "description_original": "暂无描述"
+      "description_original": "Infinite Interactive World Rollout on a Single Desktop GPU"
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "name": "xuchonglang/investing-for-beginners",
+      "url": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "stars": 2,
-      "language": "Python",
-      "description_original": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+      "language": "Unknown",
+      "description_original": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架"
     },
     {
-      "name": "open-jarvis/OpenJarvis",
-      "url": "https://github.com/open-jarvis/OpenJarvis",
-      "description": "Personal AI, On Personal Devices",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "Personal AI, On Personal Devices"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
-    },
-    {
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 2,
-      "language": "JavaScript",
-      "description_original": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 1,
-      "language": "Python",
-      "description_original": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
-    },
-    {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
+      "name": "syswonder/robonix",
+      "url": "https://github.com/syswonder/robonix",
+      "description": "具身 AI 操作系统 (EAIOS)",
       "stars": 2,
       "language": "Rust",
-      "description_original": "A hive mind communication platform"
+      "description_original": "Embodied AI Operating System (EAIOS)"
     },
     {
-      "name": "callstack/agent-device",
-      "url": "https://github.com/callstack/agent-device",
-      "description": "CLI to control iOS and Android devices for AI agents",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "CLI to control iOS and Android devices for AI agents"
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "使用编码代理编辑视频",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Edit videos with coding agents"
     },
     {
-      "name": "powerycy/goutoujunshi",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "无限 OCR：欢迎一次性长程解析时代",
       "stars": 2,
       "language": "Python",
-      "description_original": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+      "description_original": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
     },
     {
-      "name": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "一个轻量级、云原生的 GIS 平台，用于可视化、探索和分析地理空间数据，可在网页浏览器、桌面、移动端以及 Jupyter 笔记本中运行。",
+      "name": "davidondrej/skills",
+      "url": "https://github.com/davidondrej/skills",
+      "description": "获取 David Ondrej 的个人代理技能",
       "stars": 2,
-      "language": "TypeScript",
-      "description_original": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+      "language": "Unknown",
+      "description_original": "access to david ondrej's personal agent skills"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "永不止步编码，免费 MIT AI 网关提供单一端点、覆盖 290+ 提供商（其中 90+ 免费）和 500+ 模型（如 Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax），兼容",
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "开源托管代理平台，将编码代理转化为真实团队成员——分配任务、跟踪进度、组合技能",
       "stars": 2,
-      "language": "TypeScript",
-      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+      "language": "Go",
+      "description_original": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
     },
     {
-      "name": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "代理技能，生成美观且可验证的架构、工作流、序列、数据流和生命周期图——自包含 HTML，支持动画和高质量导出",
       "stars": 2,
-      "language": "C",
-      "description_original": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+      "language": "HTML",
+      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能——随时学习、参考并在工作中使用。",
-      "stars": 1,
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "你的个人 AI 助手，易于安装，可在本机或云端部署，支持多聊天应用并具可扩展能力",
+      "stars": 2,
       "language": "Python",
-      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "开源、模型无关的 AI 工作台，用于科学发现",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "An open-source, model-agnostic AI workbench for scientific discovery."
     }
   ]
 }
