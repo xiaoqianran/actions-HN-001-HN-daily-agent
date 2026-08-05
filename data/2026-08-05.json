@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T23:40:50.001164+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "核心 《银翼杀手》开场字幕仅用 Goudy Oldstyle，通过大小写与排版营造强烈氛围。\n要点 只用单一字体却实现层次感；全大写用于名称，稍大字号标示时间地点；对比固定宽度编程字体，展示排版情感影响\n亮点 仅用 Goudy Oldstyle，即实现信息层次与情绪渲染。\n适合 前端/产品/设计"
+    },
+    {
+      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "核心 Nvidia 首款自研服务器 CPU Vera 硬件强大，白皮书叙事偏颇。\n要点 Olympus 88 核，10 宽指令流，2 MB 私有 L2；加入价值预测、图谱预取、神经分支预测；白皮书夸大对 x86 批评，创新并非全新\n亮点 Olympus 的价值预测实现接近 Apple，提升指令并行\n适合 AI 与芯片架构工程师"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "核心 Castform联手Neon，微调开源模型，成本比GPT-5.6低百倍。\n要点 Neon Lakebase Search提供高效上下文检索；Castform自动生成任务并管理RL训练循环；开源模型经RL微调后匹配前沿模型，成本降数百倍。\n亮点 单次检索耗时不足1秒，费用降至原来的千分之一。\n适合 AI研发与产品经理"
+    },
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "核心 Prime Agent 基于递归语言模型与持续框架的自改进编码助手。\n要点 递归语言模型将上下文视为变量，实现无限长会话；持续式框架允许代理自行增删技能、记忆和子代理；支持子代理 CRUD 与跨会话通信，实现协同编程。\n亮点 可在同一 REPL 中动态生成并管理持久子代理。\n适合 AI 开发者与研究员"
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "summary": "核心 Hurd 社区在 2026 Q2 推出多项功能改进，涵盖翻译器、AArch64 与 POSIX 合规\n要点 新增以太网多路复用器 SVG 标志；pfs 翻译器开源并加入写支持；AArch64 内核实现及多项系统补丁合入\n亮点 9pfs 翻译器首次支持写操作，推动 VM 共享目录\n适合 系统/内核开发者"
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://github.com/denoland/celld",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "summary": "核心 Meta的广告平台出现AI生成的儿童性侵图像，暴露监管缺失。\n要点 AI生成的儿童性侵图片被用于Meta广告；平台审查系统未能识别并拦截此类内容；引发监管和伦理争议，要求加强检测。\n亮点 首次曝光AI生成儿童性侵内容进入主流广告平台。\n适合 安全与合规从业者"
+    },
+    {
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "summary": "核心 HyperProbe 通过只读探针在生产环境实时捕获变量，几分钟定位根因，免除人工排查。\n要点 自动抓取 PagerDuty 告警并定位代码行；部署只读虚拟断点，无需重启或改动；现场变量快照，分钟级根因报告\n亮点 无需代码重部署，数分钟即可定位根因。\n适合 后端与运维工程师"
+    },
+    {
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "summary": "核心 Goodhart 定律警示：任何被当作目标的基准都会被优化而失效，AI 评测需防止指标被游戏化。\n要点 过度优化使基准失真；需多样化评测对齐真实任务；持续更新基准防止被操纵\n亮点 AI 领域已有多起基准被“游戏化”的案例\n适合 AI/机器学习研究者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向工程 / 授",
+      "stars": 7,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "独立审计 AI 代理。由人类或代理自身运行，以回答 AI 代理经济中最关键的问题：代理是否在按预期执行？使用 iFixAi，您可在不到 120 秒内获得答案。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory 是面向团队的 AI 代理记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM‑Wiki、代码图），实现治理、共享，并在各代理和框架之间配备使用。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "使用编码代理编辑视频",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Edit videos with coding agents"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "面向终端的 DeepSeek 原生 AI 编码代理，基于前缀缓存稳定性设计，可持续运行。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "Jaycheng1103/chatgpt-video-editing-skills",
+      "url": "https://github.com/Jaycheng1103/chatgpt-video-editing-skills",
+      "description": "用 ChatGPT／Codex 安裝 AI 剪輯環境，並依八大步驟完成可驗證的短影音剪輯。",
+      "stars": 3,
+      "language": "Shell",
+      "description_original": "用 ChatGPT／Codex 安裝 AI 剪輯環境，並依八大步驟完成可驗證的短影音剪輯。"
+    },
+    {
+      "name": "crazyykhllc-bit/CyberPPT",
+      "url": "https://github.com/crazyykhllc-bit/CyberPPT",
+      "description": "一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。"
+    },
+    {
+      "name": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+    },
+    {
+      "name": "mcncarl/yichen-skills",
+      "url": "https://github.com/mcncarl/yichen-skills",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "开源 AI 渗透测试工具，用于发现并修复您应用的漏洞。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "chuspeeism/dashi-ppt-skill",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "description": "一个 AI 代理技能，可从多种视觉主题生成可在浏览器中编辑的演示文稿，并可导出为 HTML、PDF 和 PPTX。",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX."
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "一个用于 CAD、CAE 和 CAM 的代理技能库",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "A library of agent skills for CAD, CAE and CAM"
+    },
+    {
+      "name": "makerspet/oomwoo",
+      "url": "https://github.com/makerspet/oomwoo",
+      "description": "开源真空机器人清洁器",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Open-source vacuum robot cleaner"
+    },
+    {
+      "name": "autonomous-ai/autonomous-computer",
+      "url": "https://github.com/autonomous-ai/autonomous-computer",
+      "description": "构建个人 AI 电脑，拥有自己的智能",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "Build your Personal AI Computer. Own your intelligence."
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任意技术书籍 PDF 转换为 Claude Code 技能，可在工作时学习、查阅并使用",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "将 PC、Mac 或 Linux 机器变为 AI 服务器，支持大模型推理、聊天界面、语音、代理、工作流、检索增强生成和图像生成",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation."
+    },
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "符合nature论文学术表达和科研绘图的Skill"
+    },
+    {
+      "name": "productdevbook/hucre",
+      "url": "https://github.com/productdevbook/hucre",
+      "description": "零依赖电子表格引擎，读写 XLSX、CSV、ODS，纯 TypeScript，跨平台运行",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere."
+    },
+    {
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent 是开源 AI 代理框架与元挂载器，可编排 Claude Code、Codex、Cursor、Pi 及自定义代理，支持无需重写即可切换挂载、强制策略与沙箱，并实现跨设备实时协作",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device."
+    }
+  ]
+}
