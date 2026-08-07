@@ -1,245 +1,245 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T01:29:27.933812+00:00",
+  "generated_at": "2026-08-07T23:25:14.376021+00:00",
   "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "核心 AMD收购Taalas，将模型刻入硅片实现十倍以上推理加速\n要点 Taalas芯片直接刻录模型权重，省去HBM；首代HC1在TSMC 6nm实现48倍GPU推理速度；HC2支持20B参数，配合Helios实现千亿模型\n亮点 模型直接刻入硅片，推理速度提升48倍\n适合 AI研发与硬件架构工程师"
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "核心 DeepSeek V4 Flash 0731 在 ARC-AGI 赛道取得 89% 与 61.4% 高分\n要点 ARC-AGI-1 半私有 89% 正确率；ARC-AGI-2 半私有 61.4% 正确率；每任务成本仅 0.02~0.04 美元\n亮点 以低成本实现近 90% 任务成功率\n适合 AI 研究员与模型开发者"
     },
     {
-      "title": "New Orleans will use AI to answer 911 calls instead of a human",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "summary": "核心 新奥尔良采用 AI 进行 911 呼叫分流，先由机器人筛选再转人工。\n要点 AI已用于311非紧急电话；AI用Carbyne系统分流911呼叫；可能出现偏见和语音识别错误\n亮点 AI 能在高峰期自动过滤非紧急来电，提升响应速度。\n适合 AI/产品/安全"
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "核心 汇总单指令最差延迟排行榜，展示利用高延迟 MMIO 等手段制造极端慢指令的实验。\n要点 fxrstor64在PCIe MMIO制造极端延迟；nop等空指令上榜展示基准；仅计时单指令且不可中断保持出厂配置\n亮点 fxrstor64在Ryzen 5800H上实现近2e11周期延迟\n适合 CPU架构爱好者与性能工程师"
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "summary": "核心 Inouye望远镜首次在光球层捕获Kelvin-Helmholtz不稳定\n要点 高分辨率观测揭示小尺度漩涡结构；结合数值模拟确认为Kelvin-Helmholtz不稳定；为解释太阳大气加热和磁能积累提供线索\n亮点 首次实证KHI在光球层存在，揭示太阳大气加热机制\n适合 天体物理研究者"
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "summary": "核心 通过Pareto前沿筛选，快速定位马里奥卡丁车的高效组合。\n要点 数十种部件导致上千种属性组合；Pareto前沿剔除被支配选项，剩余14套；可加入mini turbo等多维度加权选出最佳\n亮点 从585套降至仅14套高效方案\n适合 马里奥卡丁车玩家"
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "核心 OpenAI评估Astra具备关键网络攻击能力，启动更严防护。\n要点 初步评估显示模型可能实现零日漏洞自动开发；加强安全控制，包括隔离测试、网络限制、模型加密等；与政府及安全机构合作，提供第三方安全评估指南。\n亮点 首次公开模型可能具备关键网络攻击能力\n适合 AI安全/网络安全从业者"
     },
     {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "summary": "核心 尼泊尔政府加入‘Have I Been Pwned’政府服务，实现泄露监测。\n要点 尼泊尔国家网络安全中心可监控政府域名泄露；第47个加入的国家，提升快速响应能力；帮助政府部门降低凭证被攻击风险\n亮点 首次将该免费泄露监测服务扩展至尼泊尔\n适合 安全团队与政府信息部门"
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "核心 技术行业知识工作者因AI冲击与意义缺失产生普遍职业倦怠\n要点 AI取代岗位导致高薪专业人士怀疑职业价值；大量从业者转向手工、艺术等类比爱好寻求意义；失去信心的群体可能引发行业人才流失与社会结构变化\n亮点 即使高层管理者也对AI时代感到前景不确定\n适合 AI/产品/技术管理者"
     },
     {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "summary": "核心 生物工程口香糖可将口腔HPV降低93%，几乎清除致癌细菌\n要点 提取自豆胶的口香糖含抗病毒蛋白FRIL；添加抗菌肽后单剂几乎消除Pg和Fn；不损伤口腔有益菌，可作癌症辅助或预防\n亮点 单次使用即可将HPV降低93%，并几乎清除致癌细菌\n适合 口腔医学与肿瘤研究者"
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "summary": "核心 SDSS-V DR20发布全景黑洞图谱，首批南半球光谱配合eROSITA X射线，描绘50万超大质量黑洞。\n要点 首次提供南半球光学光谱，覆盖500k星系；与eROSITA X射线配合，确定20万高能源红移；发现早期宇宙中大量隐藏的快速增长黑洞\n亮点 高红移区最亮类星体密度远超预期，暗示早期黑洞快速增长。\n适合 天文科研与数据分析人员"
     },
     {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "核心 AI让代码生成成本几乎为零，唯一决定价值的是工程师的品味。\n要点 生成式模型可快速提供可行实现；成本下降削弱了传统过滤机制；评估代码质量只能靠个人品味。\n亮点 品味是唯一无法自动化的决策因素。\n适合 后端/前端/AI工程师"
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "核心 Oracle 禁止 AI 生成代码贡献 OpenJDK，出于安全与知识产权考量。\n要点 禁止 AI 生成代码提交至 OpenJDK 仓库；仅允许私下使用 LLM 调试审查；内部大规模使用 AI，投资 700 亿，评级降至 BBB-。\n亮点 Oracle 公开禁止 AI 代码贡献，却内部大规模依赖 AI。\n适合 后端/安全/AI 开发者"
     },
     {
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "summary": "核心 作者用15美元的USB测试仪验证USB‑C线缆，发现标称规格常不可信\n要点 多数标称PD/10Gbps的线实际达不到；美元测试仪可测功率、速率；购买前自行检测，防止充电慢或损坏\n亮点 低价测试仪即可辨别真假规格\n适合 硬件爱好者"
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "summary": "核心 Herdr 加入 Y Combinator，保持开源运行时并提供可扩展的终端 UI\n要点 运行时开源 Apache-2.0，随处可部署；TUI 直接在终端使用，安装即用；已拥有 500+ 插件生态，支持多客户端\n亮点 加入 YC 后将加速团队建设，保持轻量核心\n适合 后端/开发工具/DevOps 工程师"
+      "title": "Guarded Methods in OCaml",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "summary": "核心 ProvenMetal 提供美国本土快速 PCB 生产，5 天交付\n要点 天标准交付，最快 5 天；全程美国采购与组装，提供质量记录；无需加急费用，一站式报价发货\n亮点 可在 5 天内交付完整测试的 PCB\n适合 硬件研发与产品经理"
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "summary": "核心 工程师必读的精选技术文章列表，涵盖编码实践、平台与前端理念\n要点 强调避免过度抽象和复杂性；推荐阅读如 Grug Brain、YAGNI、HATEOAS 等核心文章；关注代码可读性、局部行为和类型安全\n亮点 星标文章如 Grug Brain、Steve Yegge rant、HATEOAS 为必读要点\n适合 后端/前端/全栈工程师"
     },
     {
-      "title": "Almost no skill required to cook a steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "summary": "核心 AI 能加速开发，但仍需掌握软件基本功才能做出好代码。\n要点 AI 如同烤肉机，只能按配方执行；盲目依赖会产出“炭”般代码；只有懂技术、审视结果才能提升质量\n亮点 AI 只能提供起点，质量决定仍在开发者手中。\n适合 AI 开发者、软件工程师"
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "核心 REpsych 将图片转化为程序控制流图，实现逆向工程心理战。\n要点 每个像素映射为CFG基本块生成可执行文件；兼容IDA Pro、Hopper、radare2等CFG查看器；使用简洁：放24位位图，make image生成程序\n亮点 每个像素对应一个基本块，图形直接显现在CFG中。\n适合 安全与逆向工程师"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "summary": "核心 vLLM 采用分页注意力和连续批处理，实现高吞吐 LLM 推理。\n要点 离线引擎核心包括配置、处理器、调度器；支持分页注意力与连续批处理提升并发；可扩展至多GPU、多节点分布式服务\n亮点 分页注意力与连续批处理实现数倍吞吐提升\n适合 AI 基础设施工程师"
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "summary": "核心 OpenAI 更新 ChatGPT，提升 GPT‑5.6 Sol 可靠性并免费开放 GPT‑5.6 Luna\n要点 Plus/Pro 用户可调滑块，获取更聚焦、事实更准的回答；免费用户默认使用 GPT‑5.6 Luna，享无限文本聊天并可点 Think 按钮深度思考；强化安全措施，限制未成年人恋爱、暴力等敏感内容\n亮点 免费用户首次可无限使用最新 GPT‑5.6 Luna 模型\n适合 AI 产品经理 与开发者"
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "summary": "核心 通过批处理、算子融合和 SIMD，pgrust 将 Postgres 的分析查询性能提升至原来的 300 倍。\n要点 重写查询引擎，实现批量执行和算子融合；利用 SIMD 向量化降低 CPU 与内存带宽消耗；在 Clickbench 上比 Postgres 快 300 倍，超越 Clickhouse。\n亮点 查询引擎改造贡献约 10 倍提升，整体性能达 300 倍。\n适合 后端/数据库/性能优化工程师"
     },
     {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "summary": "核心 GitHub Actions 与 Pages 近期出现服务降级，已逐步恢复。\n要点 系统队列已排空，作业恢复正常；修复自托管 runner 未取任务及无效任务分配；GitHub Pages、Copilot 仍可能间歇性错误，迁移暂停。\n亮点 已将成功率提升至 99%，服务基本恢复。\n适合 后端与 DevOps 工程师"
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Why Estonians invite strangers into their back gardens each summer",
-      "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
-      "summary": "核心 爱沙尼亚夏季将自家庭院、车库等变为临时咖啡屋，向陌生人开放\n要点 每年7-8月全国上百场“家咖啡日”；居民自制菜品、汤、甜点等；起源2007海穆岛，已成旅游亮点\n亮点 部分庭院配备帐篷和自种蔬果，提供本地手作餐点\n适合 旅游爱好者与文化探索者"
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
     }
   ],
   "gh_repos": [
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory 是面向 AI 代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（Chat Memory、Skill、LLM‑Wiki、Code‑Graph），并在各代理和框架之间进行治理、共享和配备。",
-      "stars": 5,
-      "language": "TypeScript",
-      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
-    },
-    {
-      "name": "trycompai/crm",
-      "url": "https://github.com/trycompai/crm",
-      "description": "一个开源的、以代理为首的 CRM。",
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "herdrdev/herdr：你的编码代理运行的运行时环境",
       "stars": 4,
-      "language": "TypeScript",
-      "description_original": "An open-source, agentic-first CRM."
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "永不停止编码。免费 MIT AI 网关：单一端点，支持 290+ 提供商（其中 90+ 免费），500+ 模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot，具配额感知自动回退和 RTK+Caveman 压缩，可节省约 15%。",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
-    },
-    {
-      "name": "lidge-jun/opencodex",
-      "url": "https://github.com/lidge-jun/opencodex",
-      "description": "OpenAI Codex 与 Claude Code 的通用提供商代理——可在 Codex CLI、App、SDK 以及 Claude Code 中使用任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 等）。",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
-    },
-    {
-      "name": "agentscope-ai/QwenPaw",
-      "url": "https://github.com/agentscope-ai/QwenPaw",
-      "description": "你的个人 AI 助手；安装简便，可部署在本机或云端，支持多种聊天应用并具可轻松扩展的功能。",
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "tirth8205/code-review-graph：面向 MCP 和 CLI 的本地优先代码智能图，构建代码库的持久映射，使 AI 编码工具仅读取重要内容，并在评审和大仓库工作流中实现经过基准测试的上下文压缩。",
       "stars": 4,
       "language": "Python",
-      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+      "description_original": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
     },
     {
       "name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿——包含原生形状、切换和动画，按需生成基于数据的图表和表格，支持从讲稿生成音频旁白，并兼容自定义 .pptx 模板。",
+      "description": "hugohe3/ppt-master：AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿，支持原生形状、转场和动画、按需生成的数据图表、演讲稿音频旁白，并兼容自定义 .pptx 模板。",
       "stars": 3,
       "language": "Python",
       "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
     },
     {
-      "name": "ben-z/findphone",
-      "url": "https://github.com/ben-z/findphone",
-      "description": "通过信号强度在 macOS 命令行定位附近的蓝牙设备——在 Find My 不可用时使用。",
+      "name": "brightdata/cli",
+      "url": "https://github.com/brightdata/cli",
+      "description": "brightdata/cli：官方 Bright Data 命令行工具，可在终端直接抓取、搜索并提取结构化网页数据。",
       "stars": 3,
-      "language": "Swift",
-      "description_original": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available"
+      "language": "TypeScript",
+      "description_original": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal."
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "esengine/DeepSeek-Reasonix：基于 DeepSeek 的终端 AI 编码代理，围绕前缀缓存稳定性设计，可持续运行。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "AtomicBot-ai/atomic-agent",
+      "url": "https://github.com/AtomicBot-ai/atomic-agent",
+      "description": "AtomicBot-ai/atomic-agent：本地优先 AI 代理，针对本地模型优化，拥有长上下文窗口，正确调用工具，私密运行于你的设备上。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device."
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "firecrawl/pdf-inspector：高速 Rust 库，用于 PDF 检查、分类和文本提取，智能识别扫描版与文本版 PDF，以实现智能路由决策。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "ymichael/bb",
+      "url": "https://github.com/ymichael/bb",
+      "description": "ymichael/bb：bb 是一个具备自我控制能力的代理式 IDE。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "bb is an agentic IDE that can control itself"
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "emilkowalski/skills：为设计工程师提供的技能库。",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "openJiuwen-ai/jiuwenswarm",
+      "url": "https://github.com/openJiuwen-ai/jiuwenswarm",
+      "description": "openJiuwen-ai/jiuwenswarm：JiuwenSwarm 是基于 openJiuwen 构建的智能 AI 代理，通过日常使用的多种通信应用，将大型语言模型的强大能力直接呈现给你。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily."
+    },
+    {
+      "name": "Pan-Chera/Multi-Agent-CAD",
+      "url": "https://github.com/Pan-Chera/Multi-Agent-CAD",
+      "description": "MAC（多代理 CAD）：一个通过受限测试时计算实现文本到 CAD 生成的解耦多代理框架",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "兼容 OpenAI 的代理，将 16 家 LLM 提供商的免费额度（约每月 17 亿 token）聚合到单一 /v1 接口，并支持自定义 OpenAI 兼容端点。具备智能路由、自动故障转移、加密密钥，仅供个人实验使用。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry 的主观看法 OpenClaw/Hermes 代理大脑",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "你的个人 AI 助手；安装简便，可部署在本机或云端，支持多种聊天应用并具备易扩展功能。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "轻量级循环工程状态内核，适用于长期运行的 AI 代理团队。对 Codex、Claude Code 等编码代理保持循环无关，具备持久目标、配额感知自动唤醒、可执行待办、证据日志和可验证交接。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
+    },
+    {
+      "name": "magicrew/doc7",
+      "url": "https://github.com/magicrew/doc7",
+      "description": "将文档转换为具备视觉理解的 AI 可用 Markdown。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Turn documents into AI-ready Markdown with visual understanding"
     },
     {
       "name": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "在本机运行的求职工具。基于 Claude Code 的 AI 求职框架：评估职位信息、定制简历、撰写求职信、准备面试。可自行 Fork 并掌控。",
+      "description": "在本机运行的求职工具。基于 Claude Code 的 AI 求职框架：评估职位、定制简历、撰写求职信、准备面试。可自行 Fork 使用。",
       "stars": 2,
       "language": "TypeScript",
       "description_original": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
     {
-      "name": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "你的编码代理所运行的运行时环境。",
-      "stars": 2,
-      "language": "Rust",
-      "description_original": "the runtime your coding agents live on"
-    },
-    {
-      "name": "brightdata/cli",
-      "url": "https://github.com/brightdata/cli",
-      "description": "官方 Bright Data CLI——直接在终端进行网页抓取、搜索和结构化数据提取。",
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "编写 HTML，渲染视频，专为代理设计。",
       "stars": 2,
       "language": "TypeScript",
-      "description_original": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal."
+      "description_original": "Write HTML. Render video. Built for agents."
     },
     {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "一个蜂群思维通信平台",
-      "stars": 2,
-      "language": "Rust",
-      "description_original": "A hive mind communication platform"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca 是用于管理并行代理群的 ADE。可使用个人订阅运行任意编码代理，支持桌面和移动端。",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
-    },
-    {
-      "name": "basketikun/infinite-canvas",
-      "url": "https://github.com/basketikun/infinite-canvas",
-      "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
-      "stars": 1,
-      "language": "TypeScript",
-      "description_original": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。"
-    },
-    {
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "提供生成美观、可验证的架构、工作流、序列、数据流和生命周期图的代理技能，输出带动画的独立 HTML 并支持高质量导出。",
-      "stars": 2,
-      "language": "HTML",
-      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
-    },
-    {
-      "name": "makerspet/oomwoo",
-      "url": "https://github.com/makerspet/oomwoo",
-      "description": "开源的真空机器人清洁器。",
-      "stars": 3,
-      "language": "Python",
-      "description_original": "Open-source vacuum robot cleaner"
-    },
-    {
-      "name": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "开源的托管代理平台。将编码代理转化为真实团队成员，可分配任务、跟踪进度、复合技能。",
-      "stars": 2,
-      "language": "Go",
-      "description_original": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
-    },
-    {
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "追踪任意进程、端口、容器或文件的启动来源——提供 CLI 与 TUI 界面。",
-      "stars": 2,
-      "language": "Go",
-      "description_original": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
-    },
-    {
-      "name": "getpaseo/paseo",
-      "url": "https://github.com/getpaseo/paseo",
-      "description": "在桌面和移动端编排多个编码代理。",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "Orchestrate multiple coding agents from desktop and mobile"
-    },
-    {
-      "name": "KKKKhazix/human-writing",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "name": "atilaahmettaner/tradingview-mcp",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "TradingView MCP 服务器——提供实时市场数据、技术分析、筛选器和回测，兼容 Claude、ChatGPT、Cursor 及任意 MCP 客户端。覆盖全球交易所的股票、加密、外汇和期货，可托管或自行部署。",
       "stars": 2,
       "language": "Python",
-      "description_original": "活人感写作 1.0.0｜通用中文创作与改稿 Skill"
+      "description_original": "TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host."
     },
     {
-      "name": "nestjs-redisx/nestjs-redisx",
-      "url": "https://github.com/nestjs-redisx/nestjs-redisx",
-      "description": "为 NestJS 提供模块化 Redis 工具包，支持插件式缓存、锁、限流、熔断、发布/订阅、幂等、流、指标与追踪。",
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "终端 AI 编码代理——支持哈希锚定编辑、优化工具链、LSP、Python、浏览器、子代理等功能。",
       "stars": 2,
       "language": "TypeScript",
-      "description_original": "Modular Redis toolkit for NestJS with plugin architecture - caching, locks, rate limiting, circuit breaker, pub/sub, idempotency, streams, metrics & tracing"
+      "description_original": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
     }
   ]
 }
