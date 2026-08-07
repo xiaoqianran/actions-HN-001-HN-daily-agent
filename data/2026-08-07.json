@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T01:29:27.933812+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "核心 AMD收购Taalas，将模型刻入硅片实现十倍以上推理加速\n要点 Taalas芯片直接刻录模型权重，省去HBM；首代HC1在TSMC 6nm实现48倍GPU推理速度；HC2支持20B参数，配合Helios实现千亿模型\n亮点 模型直接刻入硅片，推理速度提升48倍\n适合 AI研发与硬件架构工程师"
+    },
+    {
+      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "summary": "核心 新奥尔良采用 AI 进行 911 呼叫分流，先由机器人筛选再转人工。\n要点 AI已用于311非紧急电话；AI用Carbyne系统分流911呼叫；可能出现偏见和语音识别错误\n亮点 AI 能在高峰期自动过滤非紧急来电，提升响应速度。\n适合 AI/产品/安全"
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "summary": "核心 Inouye望远镜首次在光球层捕获Kelvin-Helmholtz不稳定\n要点 高分辨率观测揭示小尺度漩涡结构；结合数值模拟确认为Kelvin-Helmholtz不稳定；为解释太阳大气加热和磁能积累提供线索\n亮点 首次实证KHI在光球层存在，揭示太阳大气加热机制\n适合 天体物理研究者"
+    },
+    {
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "summary": "核心 通过Pareto前沿筛选，快速定位马里奥卡丁车的高效组合。\n要点 数十种部件导致上千种属性组合；Pareto前沿剔除被支配选项，剩余14套；可加入mini turbo等多维度加权选出最佳\n亮点 从585套降至仅14套高效方案\n适合 马里奥卡丁车玩家"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "核心 尼泊尔政府加入‘Have I Been Pwned’政府服务，实现泄露监测。\n要点 尼泊尔国家网络安全中心可监控政府域名泄露；第47个加入的国家，提升快速响应能力；帮助政府部门降低凭证被攻击风险\n亮点 首次将该免费泄露监测服务扩展至尼泊尔\n适合 安全团队与政府信息部门"
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "summary": "核心 生物工程口香糖可将口腔HPV降低93%，几乎清除致癌细菌\n要点 提取自豆胶的口香糖含抗病毒蛋白FRIL；添加抗菌肽后单剂几乎消除Pg和Fn；不损伤口腔有益菌，可作癌症辅助或预防\n亮点 单次使用即可将HPV降低93%，并几乎清除致癌细菌\n适合 口腔医学与肿瘤研究者"
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "summary": "核心 AI让代码生成成本几乎为零，唯一决定价值的是工程师的品味。\n要点 生成式模型可快速提供可行实现；成本下降削弱了传统过滤机制；评估代码质量只能靠个人品味。\n亮点 品味是唯一无法自动化的决策因素。\n适合 后端/前端/AI工程师"
+    },
+    {
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "summary": "核心 作者用15美元的USB测试仪验证USB‑C线缆，发现标称规格常不可信\n要点 多数标称PD/10Gbps的线实际达不到；美元测试仪可测功率、速率；购买前自行检测，防止充电慢或损坏\n亮点 低价测试仪即可辨别真假规格\n适合 硬件爱好者"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "summary": "核心 Herdr 加入 Y Combinator，保持开源运行时并提供可扩展的终端 UI\n要点 运行时开源 Apache-2.0，随处可部署；TUI 直接在终端使用，安装即用；已拥有 500+ 插件生态，支持多客户端\n亮点 加入 YC 后将加速团队建设，保持轻量核心\n适合 后端/开发工具/DevOps 工程师"
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "summary": "核心 ProvenMetal 提供美国本土快速 PCB 生产，5 天交付\n要点 天标准交付，最快 5 天；全程美国采购与组装，提供质量记录；无需加急费用，一站式报价发货\n亮点 可在 5 天内交付完整测试的 PCB\n适合 硬件研发与产品经理"
+    },
+    {
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "summary": "核心 AI 能加速开发，但仍需掌握软件基本功才能做出好代码。\n要点 AI 如同烤肉机，只能按配方执行；盲目依赖会产出“炭”般代码；只有懂技术、审视结果才能提升质量\n亮点 AI 只能提供起点，质量决定仍在开发者手中。\n适合 AI 开发者、软件工程师"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "summary": "核心 vLLM 采用分页注意力和连续批处理，实现高吞吐 LLM 推理。\n要点 离线引擎核心包括配置、处理器、调度器；支持分页注意力与连续批处理提升并发；可扩展至多GPU、多节点分布式服务\n亮点 分页注意力与连续批处理实现数倍吞吐提升\n适合 AI 基础设施工程师"
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "summary": "核心 OpenAI 更新 ChatGPT，提升 GPT‑5.6 Sol 可靠性并免费开放 GPT‑5.6 Luna\n要点 Plus/Pro 用户可调滑块，获取更聚焦、事实更准的回答；免费用户默认使用 GPT‑5.6 Luna，享无限文本聊天并可点 Think 按钮深度思考；强化安全措施，限制未成年人恋爱、暴力等敏感内容\n亮点 免费用户首次可无限使用最新 GPT‑5.6 Luna 模型\n适合 AI 产品经理 与开发者"
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "summary": "核心 GitHub Actions 与 Pages 近期出现服务降级，已逐步恢复。\n要点 系统队列已排空，作业恢复正常；修复自托管 runner 未取任务及无效任务分配；GitHub Pages、Copilot 仍可能间歇性错误，迁移暂停。\n亮点 已将成功率提升至 99%，服务基本恢复。\n适合 后端与 DevOps 工程师"
+    },
+    {
+      "title": "Why Estonians invite strangers into their back gardens each summer",
+      "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+      "summary": "核心 爱沙尼亚夏季将自家庭院、车库等变为临时咖啡屋，向陌生人开放\n要点 每年7-8月全国上百场“家咖啡日”；居民自制菜品、汤、甜点等；起源2007海穆岛，已成旅游亮点\n亮点 部分庭院配备帐篷和自种蔬果，提供本地手作餐点\n适合 旅游爱好者与文化探索者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory 是面向 AI 代理的团队级记忆中心——将对话、文档和代码转化为四种可复用的记忆资产（Chat Memory、Skill、LLM‑Wiki、Code‑Graph），并在各代理和框架之间进行治理、共享和配备。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "description": "一个开源的、以代理为首的 CRM。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "An open-source, agentic-first CRM."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "永不停止编码。免费 MIT AI 网关：单一端点，支持 290+ 提供商（其中 90+ 免费），500+ 模型——Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot，具配额感知自动回退和 RTK+Caveman 压缩，可节省约 15%。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex 与 Claude Code 的通用提供商代理——可在 Codex CLI、App、SDK 以及 Claude Code 中使用任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 等）。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "agentscope-ai/QwenPaw",
+      "url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "你的个人 AI 助手；安装简便，可部署在本机或云端，支持多种聊天应用并具可轻松扩展的功能。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿——包含原生形状、切换和动画，按需生成基于数据的图表和表格，支持从讲稿生成音频旁白，并兼容自定义 .pptx 模板。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "ben-z/findphone",
+      "url": "https://github.com/ben-z/findphone",
+      "description": "通过信号强度在 macOS 命令行定位附近的蓝牙设备——在 Find My 不可用时使用。",
+      "stars": 3,
+      "language": "Swift",
+      "description_original": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "在本机运行的求职工具。基于 Claude Code 的 AI 求职框架：评估职位信息、定制简历、撰写求职信、准备面试。可自行 Fork 并掌控。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "你的编码代理所运行的运行时环境。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "brightdata/cli",
+      "url": "https://github.com/brightdata/cli",
+      "description": "官方 Bright Data CLI——直接在终端进行网页抓取、搜索和结构化数据提取。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个蜂群思维通信平台",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行代理群的 ADE。可使用个人订阅运行任意编码代理，支持桌面和移动端。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "basketikun/infinite-canvas",
+      "url": "https://github.com/basketikun/infinite-canvas",
+      "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "提供生成美观、可验证的架构、工作流、序列、数据流和生命周期图的代理技能，输出带动画的独立 HTML 并支持高质量导出。",
+      "stars": 2,
+      "language": "HTML",
+      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "makerspet/oomwoo",
+      "url": "https://github.com/makerspet/oomwoo",
+      "description": "开源的真空机器人清洁器。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Open-source vacuum robot cleaner"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "开源的托管代理平台。将编码代理转化为真实团队成员，可分配任务、跟踪进度、复合技能。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "追踪任意进程、端口、容器或文件的启动来源——提供 CLI 与 TUI 界面。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "name": "getpaseo/paseo",
+      "url": "https://github.com/getpaseo/paseo",
+      "description": "在桌面和移动端编排多个编码代理。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Orchestrate multiple coding agents from desktop and mobile"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "活人感写作 1.0.0｜通用中文创作与改稿 Skill"
+    },
+    {
+      "name": "nestjs-redisx/nestjs-redisx",
+      "url": "https://github.com/nestjs-redisx/nestjs-redisx",
+      "description": "为 NestJS 提供模块化 Redis 工具包，支持插件式缓存、锁、限流、熔断、发布/订阅、幂等、流、指标与追踪。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Modular Redis toolkit for NestJS with plugin architecture - caching, locks, rate limiting, circuit breaker, pub/sub, idempotency, streams, metrics & tracing"
+    }
+  ]
+}
