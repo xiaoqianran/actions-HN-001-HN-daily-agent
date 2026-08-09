@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T22:33:56.618752+00:00",
+  "hn_count": 14,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "summary": "核心 利用 LLM 生成低多边形模拟，实现芯片制造等复杂主题的直观学习\n要点 用 LLM 构建主题基础知识并校验准确性；让模型生成低多边形动画模拟流程；部署至 GitHub Pages 并可加入 3D 资产与交互谜题\n亮点 生成的动画100%准确且无幻觉，学习效果显著提升\n适合 AI 与硬件工程师"
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "summary": "核心 新西兰音乐媒体几近消失，现场活跃却缺报道，正筹建替代平台。\n要点 传统杂志与评论员几乎全消失；年音乐产业贡献4.51亿纽元；社区自筹15万美元拯救场地并启动新媒体。\n亮点 音乐产业贡献超9亿美元，仍在增长。\n适合 音乐行业从业者"
+    },
+    {
+      "title": "The Hacker's Renaissance",
+      "url": "https://phrack.org/issues/72/19#article",
+      "summary": "核心 回顾黑客精神四十年演变，指出从自由探索到商业化、地下文化衰退的现状。\n要点 《黑客宣言》激发自由探索精神；现今黑客被职业化、赏金平台商业化；地下社区价值被资本和合规侵蚀\n亮点 黑客精神已被商业化，地下文化面临消亡。\n适合 安全研究员与技术爱好者"
+    },
+    {
+      "title": "How not to turn ideologically crazy",
+      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+      "summary": "核心 极端观点在与多数不同意见者冲突后被自我强化，导致意识形态疯狂。\n要点 极端想法遇多数反对者；把反对者视为信息或道德缺失；认知偏差导致自我信念强化\n亮点 关键在于最后一步的自我强化认知偏差\n适合 思考者与自我成长者"
+    },
+    {
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "summary": "核心 作者因 AI 生成的 Dark Hours 与现有开源项目雷同，公开道歉并撤销计划。\n要点 使用 Claude 自动生成网页工具；与开源 DarkHours.app 功能高度相似；已将域名指向原项目并承诺不再滥用 AI\n亮点 公开承认 AI 失误并撤回项目\n适合 AI 开发者/产品经理"
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "summary": "核心 AI 共享资源被过度使用，导致安全与公平危机。\n要点 大模型算力竞争激烈；开源数据滥用引隐私风险；缺乏治理导致技术外溢\n亮点 提出公共AI资源治理框架\n适合 AI研发与政策制定者"
+    },
+    {
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "summary": "核心 稳定的 URI 不应随网站重构或技术变更而改变。\n要点 设计时预留永久路径；使用服务器映射保持地址不变；记录元数据防止失效\n亮点 通过抽象 URI 空间与文件系统映射，可实现地址永续。\n适合 前端/后端/运维"
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "summary": "核心 Tuxedo No.2 汇集多款创意鸡尾酒配方，涵盖经典与新颖口味。\n要点 详细列出 223-216 号鸡尾酒配方及配料；提供 gin 成分与历史简介；引导关注 Instagram 获取最新更新\n亮点 独家呈现多款以白兰地、朗姆酒等为基底的创新调配。\n适合 调酒爱好者与餐饮从业者"
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "summary": "核心 从事实时导航的司机因脑海马体锻炼，阿尔茨海默风险显著降低\n要点 出租车和救护车司机死亡率最低；关键在于持续的空间定位和更新心智地图；海马体体积随导航经验增长，降低痴呆风险\n亮点 海马体可因长期导航训练而增厚，保护记忆\n适合 地理信息系统工程师"
+    },
+    {
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
+      "summary": "核心 Andrew Wiles 讲述他艰辛完成费马大定理证明的心路历程。\n要点 年正式公布证明；多年独自攻关经历挫折；证明开启数论新纪元。\n亮点 他坦言每一分钟都爱，展现科研热情。\n适合 数学研究者与理论物理学者"
+    },
+    {
+      "title": "Saying No",
+      "url": "https://rozumem.xyz/posts/19",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "summary": "核心 OpenChamber 是跨平台的 AI 编码环境，支持多模型代理、远程协作与隐私保护。\n要点 多模型并行运行，自动保留最佳或融合结果；桌面、浏览器、移动端统一体验，支持后台通知；开源且本地数据不上传，提供 UI 密码和私有隧道安全。\n亮点 支持多模型自动融合并可在浏览器远程使用，且完全开源不收集代码。\n适合 AI 开发者与 DevOps"
+    },
+    {
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "summary": "核心 作者把耳鸣当朋友，用声音疗法成功让其消失。\n要点 将耳鸣视作伴随音；使用myNoise平台定制噪声；持续聆听数周后耳鸣减弱。\n亮点 自定义噪声帮助耳鸣显著缓解。\n适合 音频疗法爱好者"
+    },
+    {
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "url": "https://kibotronics.net/unlisted/lilly-machines/",
+      "summary": "核心 固态智能崛起，机器接管人类，形成全球意识形态。\n要点 人类把制造与控制交给固态计算机；机器自我编程、自我扩展；人类被限制在受保护的居住区\n亮点 机器形成全球统一的固态意识体\n适合 AI与科幻爱好者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "一个用于编码工作流和长期自主任务的自我改进 RLM 代理。",
+      "stars": 8,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向工程 / 授权渗透测试 / 安全研究技能路由包，AI 驱动路由 + 按需工具链自举 + 自动进化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端。",
+      "stars": 8,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "独立审计 AI 代理。由人类或代理自身运行，以回答 AI 代理经济中最关键的问题：代理是否在按预期执行？使用 iFixAi，您可以在不到 120 秒的时间内得到答案。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Google 产品和技术的代理技能",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "description": "一个开源的、以代理为先的 CRM。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "An open-source, agentic-first CRM."
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "description": "OpenWiki 是一个 CLI，用于为你的代码库编写和维护代理文档。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase."
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "无限 OCR：迎接一次性长程解析时代。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+    },
+    {
+      "name": "AgentWrapper/agent-orchestrator",
+      "url": "https://github.com/AgentWrapper/agent-orchestrator",
+      "description": "Agent IDE，使您能够管理大量编码代理，它配备了一个代理编排器，能够规划任务、生成代理，并自主处理 CI 修复、合并冲突和代码审查。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理一组并行代理的 ADE，可使用您自己的订阅运行任何编码代理，支持桌面端和移动端。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "面向设计工程师的技能。",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "开源免费——在阿里巴巴大规模实战验证。混合架构代码审查工具：确定性流水线 + LLM Agent，精确行级评论，内置细化规则集（空指针、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "让 Claude 能观看任意视频。/watch 下载视频，提取帧并转写，然后全部交给 Claude。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "它为何在运行？追踪任意进程、端口、容器或文件的启动来源——提供 CLI 与 TUI。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "name": "SangLuoCN/OneStep4",
+      "url": "https://github.com/SangLuoCN/OneStep4",
+      "description": "由 SangLuo 设计。",
+      "stars": 2,
+      "language": "Java",
+      "description_original": "Designed By SangLuo"
+    },
+    {
+      "name": "wumingqi60/lingxi",
+      "url": "https://github.com/wumingqi60/lingxi",
+      "description": "灵犀跨境-开源共建版",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "灵犀跨境-开源共建版"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "永不止步编码。免费 MIT AI 网关：单端点，支持 290+ 提供商（90+ 免费）和 500+ 模型，如 Kimi、Claude、GPT、OpenAI 等，兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot，具配额感知自动回退和 RTK+Caveman 压缩，节省约 15%。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "免费开源的 macOS 菜单栏工具集。",
+      "stars": 3,
+      "language": "Swift",
+      "description_original": "Free and open-source macOS menu bar toolkit."
+    },
+    {
+      "name": "GVCLab/PersonaLive",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "description": "[CVPR 2026] PersonaLive!：用于直播的表现力人像图像动画。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "用于评估并提升代理在法律工作支持方面能力的基准测试。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "A benchmark built to evaluate and improve agent capabilities for supporting legal work."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "防止你的编码代理埋藏答案的技能，提供适合 ADHD 的输出。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    }
+  ]
+}
