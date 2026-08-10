@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T22:49:57.224490+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "核心 Claude 在生成文本时会嵌入可检测的标记，以区分 AI 生成内容。\n要点 标记为隐藏的元数据；可通过 API 检测标记；用户可选择开启或关闭标记功能\n亮点 标记兼容多语言且不影响阅读体验\n适合 AI 产品经理"
+    },
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "核心 Muse Glimmer 是 30 B 参数模型，可在单卡本地运行，支持持续智能体工作流。\n要点 开源权重 Apache 2.0，提供 Hugging Face 下载；支持本地工具调用、代码生成和多模态输入；通过蒸馏、长上下文训练和量化，实现低延迟高效能。\n亮点 在单卡 GPU 上即可完成完整智能体任务，性能媲美更大模型。\n适合 AI 开发者"
+    },
+    {
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "summary": "核心 Rust portable SIMD 已在 GPU 上可用，实现跨平台向量计算。\n要点 使用 core::simd 在 GPU 上生成 warp 向量指令；线程映射为 warp，线程内并行即 SIMD；同一 Rust 代码可在 CPU 与 GPU 上复用\n亮点 首次在 GPU 上直接使用 Rust portable SIMD\n适合 GPU 与系统程序员"
+    },
+    {
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "summary": "核心 Sonic Pi发布第5版，带来多项功能升级\n要点 新增多种合成器；实时音频处理更流畅；跨平台支持更完善\n亮点 全新 UI 界面提升交互体验\n适合 音乐创作与编程爱好者"
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "核心 扎克伯格抨击封闭式 AI，宣布 Meta 重返开放模型路线。\n要点 批评 OpenAI 等闭源模型限制创新；推出新开源大模型并共享权重；以开放生态抢占市场并降低成本\n亮点 Meta 将免费提供最新 Llama 模型，推动行业开源。\n适合 AI 与产品经理"
+    },
+    {
+      "title": "Publishing Schematics Before \"Open Source\" Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "summary": "核心 Akizuki电子零件店55年坚持现场测试、现金采购，成日本硬件爱好者首选。\n要点 现场测试每件元件；全额现金采购无代销；线上订单日均1200单，复购率85%\n亮点 日本电子零件零售首家公开原理图，早于“开源”概念\n适合 硬件工程师/创客"
+    },
+    {
+      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "summary": "核心 伊利诺伊通过HB5511，要求所有操作系统在2028年前实现年龄验证。\n要点 法案定义“操作系统提供商”，包括开源项目；年1月1日前必须提供年龄区间信号；违规每名儿童最高罚7500美元，州长称最高5万美元。\n亮点 该法未对开源软件设免除，所有OS均需实现年龄验证。\n适合 系统开发者/安全合规"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "核心 Needle 2 是一款 14 MB、45M 参数的边缘 LLM，能在 28 MB RAM 设备上离线运行。\n要点 bit 量化，文件仅 14 MB，运行内存约 28 MB；支持工具调用、设备控制和结构化抽取；在 Pi5、Quest 3S 等设备实现 500‑1500 token/s 实时推理\n亮点 单文件 14 MB 即可离线运行，支持多种边缘硬件\n适合 AI 与嵌入式开发者"
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "summary": "核心 31尺独航者记录3年半环球航行，经历海盗、风暴与战争。\n要点 记录海盗、风暴、战争等极端遭遇；探索独航者与大海的情感纽带；作者从畏惧岸边到渴望永不靠岸的心路\n亮点 全书免费在线阅读并可ZIP下载，采用 CareWare 模式\n适合 航海爱好者/冒险旅行者"
+    },
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "summary": "核心 Stoa打造GPU与AI服务器全链路交易平台，实现供应、定价、执行一体化\n要点 RFQ全流程，描述‑报价‑成交‑结算全记录；平台仅对已验证对手，提供firm报价与托管支付；覆盖经销商、数据中心、AI实验室等多角色，呈现全市场清算价\n亮点 实现GPU全链路交易，降低信息不对称和结算风险\n适合 AI、硬件、产品、运营"
+    },
+    {
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "summary": "核心 利用超长指令打破 x86 SMM 同步，导致核心不同步可被攻击。\n要点 SMM 要求所有核心同步进入或退出；超长指令需约四十亿周期，超过一秒；利用超时让一核脱离 SMM 再攻击另一核。\n亮点 发现仅凭单条超长指令即可破坏 SMM 安全模型。\n适合 安全研究员与系统架构师"
+    },
+    {
+      "title": "The Psychedelic Toad of the Sonoran Desert",
+      "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+      "summary": "核心 地下小册子首次公开提取沙漠蟾蜍毒液，开启5-MeO-DMT的娱乐使用。\n要点 年由Albert Most（Ken Nelson）匿名出版；详细说明从Incilius alvarius提取5-MeO-DMT的方法；促成1990年代科学界首次记录动物来源致幻剂。\n亮点 该小册子引发全球对蟾蜍毒液致幻效应的关注。\n适合 对新型致幻剂和药理感兴趣的科研人员"
+    },
+    {
+      "title": "Squeak 6.1",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "summary": "核心 Squeak 6.1 发布，新增树浏览器、Objectland 等特性\n要点 树浏览器采用层级 Morph，实现类目快速导航；Objectland 重返，提供世界视图交互；内核调度、类重塑等底层改进，提升调试与性能\n亮点 全新树浏览器显著提升代码浏览效率\n适合 Smalltalk 开发者"
+    },
+    {
+      "title": "We cut a 40-day financial integration down to 5 days using Google Anti",
+      "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+      "summary": "核心 用谷歌 Antigravity CLI 自动生成适配器，将金融接口集成从40天压缩至5天。\n要点 AI 自动生成 Java 适配器，解析 API 文档；集成周期从 40 天降至 5 天，效率提升 8 倍；使用 GKE 与 Cloud Armor 实现安全高可用部署\n亮点 AI 驱动的 Antigravity CLI 将集成时间压缩至 5 天，显著提升业务扩展速度。\n适合 后端与平台工程师"
+    },
+    {
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "一个自我改进的 RLM 代理，用于编码工作流和长期自主任务。",
+      "stars": 8,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向工程、授权渗透测试和安全研究技能路由包，AI 驱动路由 + 按需工具链自举 + 自我进化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端。",
+      "stars": 6,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理一组并行代理的 ADE，您可使用自己的订阅运行任意编码代理，支持桌面和移动端。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "您的代理集成层。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Your Agent's Integration Layer"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "它为何在运行？追踪任意进程、端口、容器或文件的启动来源——CLI 与 TUI。",
+      "stars": 3,
+      "language": "Go",
+      "description_original": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "name": "op7418/guizang-ppt-skill",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "description": "AI 代理技能，用于生成精美的 HTML 幻灯片套件：编辑杂志和瑞士布局、图像提示、社交封面，以及 WebGL/低功耗演示运行时。",
+      "stars": 3,
+      "language": "HTML",
+      "description_original": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime."
+    },
+    {
+      "name": "MengTo/kage",
+      "url": "https://github.com/MengTo/kage",
+      "description": "一次互动式五章节夜间漫步，穿越京都山中寺庙，实时使用 Three.js 渲染。",
+      "stars": 3,
+      "language": "HTML",
+      "description_original": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js."
+    },
+    {
+      "name": "pctrade/end4-pC",
+      "url": "https://github.com/pctrade/end4-pC",
+      "description": "定制的 end4。",
+      "stars": 3,
+      "language": "QML",
+      "description_original": "Custom end4"
+    },
+    {
+      "name": "brightdata/cli",
+      "url": "https://github.com/brightdata/cli",
+      "description": "官方 Bright Data CLI——直接在终端进行网页抓取、搜索和结构化数据提取。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "一种防止编码代理隐藏答案的技能，输出友好适配 ADHD。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具备 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+    },
+    {
+      "name": "sozercan/kaset",
+      "url": "https://github.com/sozercan/kaset",
+      "description": "缺失的 YouTube 与 YouTube Music macOS 应用。",
+      "stars": 3,
+      "language": "Swift",
+      "description_original": "📼 The missing YouTube and YouTube Music macOS app"
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个集体思维通信平台。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "精选的 1000 多个代理技能集合，来源于官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "永不止步编码。免费 MIT AI 网关：单一入口，覆盖 290+ 提供商（90+ 免费），500+ 模型，如 Kimi、Claude、GPT、OpenAI、Gemini 等，兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot，具备配额感知自动回退和 RTK+Caveman 压缩等特性。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "编写 HTML，渲染视频，专为代理构建。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "你的编码代理运行的运行时环境。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "Unlimited OCR Works：迎接一次性长时序解析时代。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "针对 Google 产品和技术的代理技能。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Agent Skills for Google products and technologies"
+    }
+  ]
+}
