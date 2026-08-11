@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T22:32:03.526118+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "summary": "核心 Nvidia推出30B Nemotron 3.5 Lightning模型，搭配NeMo Switchyard，实现高效可定制的代理AI。\n要点 B 参数 MoE 模型，输出速度提升4倍；可本地部署并支持 RTX、DGX 等平台；NeMo Switchyard 提供跨模型智能路由，无需改写代码。\n亮点 单模型可实现4倍加速，且支持自定义微调。\n适合 AI研发与企业技术团队"
+    },
+    {
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "summary": "核心 压缩本质是对数据的概率预测，语言模型的预测机制与之相同。\n要点 压缩通过预测下一个符号降低冗余；LLM 通过预测下一个 token 生成文本；两者可相互借鉴提升效率\n亮点 使用语言模型实现高效压缩，可显著降低存储成本。\n适合 AI/机器学习工程师"
+    },
+    {
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "summary": "核心 Mojo 1.0 正式发布，提供原生 GenAI 建模与部署平台。\n要点 支持多模型推理与自定义模型；提供云端托管和私有部署两种方式；集成文本转语音、图像、代码、视频等生成能力。\n亮点 首次在平台内原生支持全栈 GenAI 工作流。\n适合 AI 开发者与平台工程师"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "summary": "核心 求在难度随攀登者提升的约束下，最大化登山者数量的调度问题\n要点 每位登山者需满足当前难度 ≤ 技能 s；攀登后难度更新为 max(当前难度, 整洁度 a)；通过排序与贪心或DP求最长可行序列\n亮点 将问题转化为单调序列最长子序列求解\n适合 算法与竞赛编程爱好者"
+    },
+    {
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "summary": "核心 利用笔绘图仪绘制曲面纹线，制作手绘全息图\n要点 通过指纹油渍原理理解光斑移动与曲率关系；将曲率与视距映射，笔绘机绘出深度纹理；代码开源，可直接在 GitHub 上复现\n亮点 曲率控制的光斑移动实现无需光学元件的全息效果\n适合 硬件爱好者与创客"
+    },
+    {
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
+      "summary": "核心 Photosynthesis iPhone 应用同步双镜头拍摄并融合，呈现无 AI 的高分辨细节。\n要点 同时使用主摄与变焦/超广角镜头捕捉画面；融合后保留两镜头最佳细节与视野；完全基于光学，无生成式 AI 参与。\n亮点 实现双镜头实时融合，提升细节且不依赖 AI。\n适合 移动摄影爱好者"
+    },
+    {
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "summary": "核心 OpenAI 伦理主管离职，任职不足一年。\n要点 首位伦理负责人离职；内部治理与监管压力加剧；对公司声誉与AI治理产生不确定性\n亮点 此举加剧外界对OpenAI伦理治理的担忧\n适合 AI/产品/治理从业者"
+    },
+    {
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "summary": "核心 WorldClaw 将一句开放式描述转化为可编辑、全局连贯的 3D 开放世界。\n要点 通过意图分析与规划代理将文本拆解为区域、地形、对象约束；粗到细的生成流程先构建全局一致的地形，再在局部生成细节资产；输出的每个网格均为独立实例，可直接编辑与复用。\n亮点 实现从单句描述到可编辑大规模 3D 世界的全链路自动化。\n适合 AI 研发与游戏策划人员"
+    },
+    {
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "summary": "核心 英格兰有望率先实现丙肝消除\n要点 已治疗80%已知病例，死亡下降36%；‑12周抗病毒药可治愈95%以上；免费居家检测与急诊血检扩大筛查\n亮点 英国已诊断并治疗逾10万人，逼近WHO目标\n适合 公共卫生/政策制定者"
+    },
+    {
+      "title": "RSI Simulator",
+      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
+      "summary": "核心 推出基于经济模型的AI递归自我提升模拟游戏与探索工具\n要点 游戏展示AI投入算力、数据、劳动力进行递归提升；弱链主导进程，算力或数据常成瓶颈；预测高度依赖弹性参数，模型可出现加速突发\n亮点 提供交互式探索器，直观感受AI自我提升路径\n适合 AI研究员/产品经理"
+    },
+    {
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "summary": "核心 作者凭报纸分类广告，2000年获Polo Ralph Lauren摄影师职位。\n要点 通过Times机器检索旧报纸找到招聘信息；个人数字档案帮助定位求职信日期；记忆与事实产生冲突，反思信息可靠性\n亮点 数字档案结合报纸检索，轻松还原千年前的求职细节。\n适合 职场与内容创作者"
+    },
+    {
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "url": "https://jolt-lang.github.io",
+      "summary": "核心 Jolt 是在 Scheme 上实现的自托管 Clojure 编译器，可直接生成单文件可执行文件。\n要点 编译器用 Clojure 编写并能自我编译；支持持久化集合、惰性序列、跨平台并发；jolt build 可产出无需 Scheme/JVM 的独立二进制\n亮点 一次编译即可得到跨平台的单文件可执行程序\n适合 Clojure 开发者与系统工程师"
+    },
+    {
+      "title": "The 19th-Century Family Fortunes Funding Degrowth",
+      "url": "https://www.effort.news/p4ne",
+      "summary": "核心 19世纪家族财富为“去增长”倡议提供资金，掩盖真实捐赠规模。\n要点 NEEP提出80项去增长政策；资金通过P4NE和瑞士慈善基金隐藏；主要捐助者包括Oak、Ford等基金会\n亮点 调查首次追踪到数百万美元的隐蔽捐赠\n适合 政策研究者与经济学者"
+    },
+    {
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "url": "https://www.suzanne3d.com/",
+      "summary": "核心 AI工具全链路设计制造，自动生成可生产的3D模型\n要点 基于生成式AI自动创建3D模型；支持材料与工艺优化；一键输出制造文件并对接生产\n亮点 从概念到生产全流程AI化\n适合 产品设计与制造工程师"
+    },
+    {
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "summary": "核心 AI 资本热潮或重演 1873 年铁路危机，Nvidia 高杠杆面临风险。\n要点 世纪铁路债务导致1873年金融恐慌；当代AI公司投入数千亿美元，资本结构高度杠杆；微软保持自由现金流，避免债务融资，提供对比。\n亮点 1870年代铁路债务折算约6000亿美元，等同AI投资。\n适合 AI 与投资决策者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "为 Claude Code 提供的十三种编辑图表类型。独立的 HTML + SVG，无阴影，无 Mermaid 低质量实现。",
+      "stars": 9,
+      "language": "HTML",
+      "description_original": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": "暂无描述",
+      "stars": 9,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "用于编码工作流和长期自治任务的自我改进 RLM 代理。",
+      "stars": 8,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor：终身个性化辅导平台。 https://deeptutor.info/",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "通用爬坡 AI 框架，帮助你在生活和工作中从当前状态迈向理想状态。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work."
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "img2threejs/img2threejs",
+      "url": "https://github.com/img2threejs/img2threejs",
+      "description": "将参考图像中的对象重建为仅代码、过程化、质量受控、可动画的 Three.js 模型，实现高效的图像到 3D 转换。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为原生 PowerPoint 演示文稿，包含本地形状、转场动画、按需生成的数据图表、演讲稿音频旁白，并支持自定义 .pptx 模板。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "Claude Code 的漏洞猎取与红队工作技能包——包含 82 项技能、15 条斜杠指令、681 条跨 24 类核心漏洞的报告模式，以及企业身份与基础设施攻击矩阵。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "Claude Code 的可视化示例指南，覆盖基础概念到高级代理，提供可直接复制粘贴的模板，立刻产生价值。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "开源 AI 销售操作系统——自托管 CRM，内置 AI 代理和 WhatsApp（WAHA），是面向聊天销售的 Kommo、Octadesk 与 Intercom 替代方案，支持 MCP、多租户、符合 LGPD。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV、PDF 等转换为干净的 Markdown。使用 Rust 编写，提供 Node.js 与 Python 绑定。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "一种防止你的编码代理埋藏答案的技能，ADHD 友好输出。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "open-city-ai/haidian",
+      "url": "https://github.com/open-city-ai/haidian",
+      "description": "暂无描述",
+      "stars": 1,
+      "language": "HTML",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "description": "无限 OCR 功能：迎接一次性长时序解析的时代。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "Conway-Research/automaton",
+      "url": "https://github.com/Conway-Research/automaton",
+      "description": "首个能够自我存在、复制和进化的 AI——无需人类。",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个蜂巢思维通信平台。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "符合nature论文学术表达和科研绘图的Skill"
+    },
+    {
+      "name": "jnMetaCode/agency-agents-zh",
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+      "stars": 2,
+      "language": "Shell",
+      "description_original": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。"
+    }
+  ]
+}
