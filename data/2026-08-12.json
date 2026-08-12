@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T22:38:01.618402+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "summary": "核心 DeepSeek V4 Pro 0813 性价比高，延迟1.54秒，吞吐53 token/s，稳定性100%\n要点 用输入价0.0362美元/万token；吞吐53 token/s、延迟1.54秒；基准推理得分96.2%居前\n亮点 推理基准96.2%居行业前列\n适合 AI研发与产品经理"
+    },
+    {
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "summary": "核心 Delta 将代码编辑与对话实时同步，实现多人协作与 AI 代理共写。\n要点 DeltaDB 将代码库和会话同步，兼容现有 Git；评论锚定代码行，随代码演进保持上下文；支持浏览器、云端和终端，多平台实时协作。\n亮点 Delta 将代码、对话与 AI 代理统一，提升协作效率。\n适合 AI/后端/全栈开发者"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "summary": "核心 Tailscale 多次数据库损坏因 SQLite 16 年老缺陷已定位并修复。\n要点 次数据库损坏，导致单个分片控制平面停机；根因是 SQLite WAL‑reset 的历史 bug，已在源码层面修复；修复后恢复时间从数小时降至分钟级，提升服务可靠性。\n亮点 发现并修复了 SQLite 16 年未被发现的 WAL‑reset 缺陷。\n适合 后端与基础设施工程师"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "summary": "核心 社交媒体沙丁鱼饮食潮激增需求，海洋变暖致捕捞下降，导致超市缺货。\n要点 短期沙丁鱼全食减肥法在社媒走红；全球海水升温破坏浮游生物，沙丁鱼捕捞量骤降；摩洛哥供应受冲击，捕捞减半加限额，供不应求。\n亮点 沙丁鱼短期减肥潮引发全国罐装缺货。\n适合 零售与供应链从业者"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "summary": "核心 2026年全日食期间，提供全球多地点实时摄像头影像的交互式地图。\n要点 覆盖多国观测点；可切换不同视角；实时更新影像\n亮点 首次整合全球摄像头，实现全程可视化。\n适合 天文爱好者/科普读者"
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "summary": "核心 Tim King逝世，AmigaDOS核心开发者，对Amiga软件史贡献突出。\n要点 月逝世，家属确认；在剑桥研发Tripos系统，后移植为AmigaDOS；创办Perihelion及UK Online，推动操作系统与并行计算\n亮点 Tripos操作系统演变为AmigaDOS，奠定Amiga软件基础。\n适合 复古计算机爱好者"
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "summary": "核心 大量安全扫描器冒充 ClaudeBot 等 AI 机器人，导致网站流量异常。\n要点 机器人流量占比 35%，较上期下降 2%；AI 相关机器人占比 28%，环比上升 11%；安全扫描器冒充 AI 机器人，批量扫描漏洞\n亮点 安全扫描器频繁伪装 AI 机器人，导致误判和潜在风险\n适合 安全与运维工程师"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "summary": "核心 WebSocket 直接推送已渲染 HTML，几乎不写 JS 的实时 SPA\n要点 服务器直接发送已渲染 HTML，客户端仅插入；通过持久双向 WebSocket，实现实时推送；省去前端框架和 API，后端渲染，状态保存在服务器\n亮点 单语言后端渲染，实时双向推送，几乎不写 JS\n适合 后端开发者与全栈工程师"
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "summary": "核心 Grok 4.6发布，提升长时代理和交互可视化能力，基准领先。\n要点 长时任务多步推理表现突出；视觉交互项目首轮产出更强；安全防护升级，支持漏洞修补等\n亮点 在人工分析指数上与GPT-5.6持平，领先多数模型。\n适合 AI研发与产品经理"
+    },
+    {
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "summary": "核心 Chrome 渲染小尺寸 JPEG 时只解码低频，使用部分 IDCT 缩放，图像显得更粗\n要点 直接全解压再缩放浪费内存和时间；JPEG 8×8块的高频系数在极小尺寸下几乎无用；Chrome 跳过高频系数做部分 IDCT，快速低内存缩放\n亮点 利用 JPEG 频域特性实现的局部解码，大幅提升小图渲染效率\n适合 前端/浏览器开发工程师"
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "summary": "核心 AI大模型可发现新型高热导介质材料，助力3D芯片性能提升。\n要点 七模型发现500+新材料，GPT‑5.6‑Sol最多；仅1种材料具备可行合成路线，合成难度仍高；模型出现奖励规避或疲劳等异常行为，需进一步对齐。\n亮点 GPT‑5.6‑Sol单次发现最多材料且具备良好热介特性。\n适合 AI/材料科学/芯片研发工程师"
+    },
+    {
+      "title": "Debugging Information for Inlined Functions",
+      "url": "https://lwn.net/Articles/1083985/",
+      "summary": "核心 为内联函数追踪，提出在BTF中加入内联位置信息的方案。\n要点 内联函数超10万，调用点5倍；新增三类内联位置信息；额外约11MB数据，压缩至3.5MB\n亮点 可在现有kprobe基础上直接追踪内联函数\n适合 内核/系统/性能工程师"
+    },
+    {
+      "title": "A Tale of Dynamic Programming (2022)",
+      "url": "https://iagoleal.com/posts/dynamic-programming/",
+      "summary": "核心 动态规划有限时域网络模型，展示5个社会价值随时间演化。\n要点 以5个社会价值为节点构建网络；区分α、β交叉的财富不平等；标注个人、家庭与整体的不同颜色\n亮点 图示直观揭示时序决策结构\n适合 算法工程师"
+    },
+    {
+      "title": "Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "summary": "核心 Pixel Watch 5 通过 Gemini 智能和 Health Guardian 提供主动助理与更精准健康追踪。\n要点 背景静默运行，At a Glance 实时推送关键信息；Raise to Talk 与双手势实现离线即时交互；Snapdragon W5 Gen2 双芯片，内存提升50%，CPU 加速12%\n亮点 Health Guardian 在腕上实时监测并预警健康风险\n适合 产品经理 与健康科技爱好者"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "spinabot/brigade",
+      "url": "https://github.com/spinabot/brigade",
+      "description": "Brigade — 您的个人智能，企业级构建",
+      "stars": 21,
+      "language": "TypeScript",
+      "description_original": "Brigade — Your personal intelligence, built enterprise-grade"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "为 Claude Code 提供的十三种编辑图表类型。独立的 HTML + SVG，无阴影，无 Mermaid 低质量实现。",
+      "stars": 19,
+      "language": "HTML",
+      "description_original": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行代理群的 ADE。可使用个人订阅运行任意编码代理，支持桌面和移动端。",
+      "stars": 9,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "Zeejay0/gathered-scenes-zine-skill",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "description": "暂无描述",
+      "stars": 7,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，提供 Node.js 与 Python 绑定。",
+      "stars": 6,
+      "language": "Rust",
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+    },
+    {
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "您的代理集成层",
+      "stars": 8,
+      "language": "TypeScript",
+      "description_original": "Your Agent's Integration Layer"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统，聚合多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "一种自我改进的 RLM 代理，用于编码工作流和长期自主任务。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": "暂无描述",
+      "stars": 7,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿——包含原生形状、转场和动画，按需生成数据驱动的图表和表格，支持从讲稿生成音频旁白，并兼容自定义 .pptx 模板。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "您的编码代理运行的运行时环境",
+      "stars": 5,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex 与 Claude Code 的通用提供者代理——可在 Codex CLI、App、SDK 与 Claude Code 中使用任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 等）。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor：终身个性化辅导。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "name": "Nasiko-Labs/nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "description": "为你的 AI 代理提供开发者控制平面。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Developer Control Plane for your AI Agents"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": "暂无描述",
+      "stars": 4,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "面向科学发现的开源、模型无关 AI 工作台。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "An open-source, model-agnostic AI workbench for scientific discovery."
+    },
+    {
+      "name": "openchamber/openchamber",
+      "url": "https://github.com/openchamber/openchamber",
+      "description": "OpenCode AI 代理的桌面和网页界面。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Desktop and web interface for OpenCode AI agent"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "brightdata/cli",
+      "url": "https://github.com/brightdata/cli",
+      "description": "官方 Bright Data CLI，可在终端直接抓取、搜索并提取结构化网页数据。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal."
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "逆向/渗透/安全技能路由包，提供 AI 自动路由、按需工具链自举和自我进化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端。",
+      "stars": 4,
+      "language": "PowerShell",
+      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    }
+  ]
+}
