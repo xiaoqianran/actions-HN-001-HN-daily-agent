@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T22:31:39.569604+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "核心 Gemini 3.7 Flash 提升编码、网页和知识工作智能，成本减半。\n要点 编码调试准确率提升，产出代码更可靠；网页开发生成更完整，提示次数更少；价格降至0.75美元/输入百万标记，性价比提升。\n亮点 首发半价提供，显著提升代码一次通过率。\n适合 AI/开发/产品工程师"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "核心 Cerebras 与 OpenAI 合作的 Ultrafast 模式，让 GPT-5.6 Sol 达到每秒 750 token，保持质量。\n要点 Ultrafast 速度比 Fable 5 快 11 倍；在 Humanity's Last Exam 2500 题中，耗时 11 小时完成；GDP‑Val 基准提升 5.6 倍，质量无下降\n亮点 单日完成 2500 高难题，速度提升近 7 倍。\n适合 AI 开发者 与 企业技术负责人"
+    },
+    {
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "summary": "核心 NP难题在实践中并非不可解，常有高效算法或启发式方法。\n要点 包管理和类型检查的最坏情况极少出现；调度、旅行商等可用商用求解器在合理时间内求最优；SAT/SMT 已实现大规模每日十亿次求解\n亮点 算法改进已实现数百亿倍加速，超越硬件提升\n适合 后端/算法/系统工程师"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "summary": "核心 Donkey.bas 45周年，浏览器复刻1981年IBM PC经典游戏\n要点 原版由比尔·盖茨等人编写；展示CGA彩色图形与声音；使用JavaScript实现可在浏览器运行\n亮点 可在任意设备浏览器中体验经典CGA游戏\n适合 前端/游戏爱好者"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "核心 AI 生成代码激增，保持人类对代码的理解是关键瓶颈。\n要点 理解代码用于验证和参与创作；通过解释文档、测验、微世界等方法提升理解；防止认知债务，保持在多轮迭代中的主动性\n亮点 将教育中的解释、测验等技巧移植到 AI 代码理解。\n适合 AI 开发者/产品经理"
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "核心 Mistral OCR 4.1 公测，支持段落级框选、结构标签及置信度，千页仅3.5欧。\n要点 原生段落级边框提取；输出结构块标签和置信分数；价格3.5欧/千页，支持批量处理\n亮点 提供段落级边框与置信度，提升文档结构解析精度。\n适合 AI 产品与文档处理工程师"
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "summary": "核心 强调在关键业务中选用成熟、稳定的技术，避免创新代价。\n要点 创新代币有限，选新技术耗费资源；无聊技术往往成熟可靠，风险低；技术选型影响全团队，需全局优化\n亮点 坚持使用成熟技术可显著降低运维风险。\n适合 后端与架构工程师"
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "summary": "核心 Gödel 通过 Gödel 编号把命题映射为数字，实现自指，证明任何一致完备的公理体系必不完整。\n要点 年 Gödel 提出不完备性定理，否定数学完备梦想；引入 Gödel 编号，将符号序列唯一映射为整数；通过自指构造不可证真命题，亦无法在体系内证明其一致性。\n亮点 Gödel 编号利用唯一质因数分解实现语句自指，是不完备性证明的核心技巧。\n适合 数学/理论计算机/哲学爱好者"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "核心 研究显示ChatGPT企业版在美国上市公司快速普及，使用量激增并渗透至各岗位任务。\n要点 ChatGPT企业版使用量2025‑2026年增七倍；采用企业多为规模大、研发和SG&A投入高的美上市公司；使用遍及职能，早期员工最频繁，涵盖写作、技术、沟通。\n亮点 企业AI使用强度在六个月内跨职能快速渗透。\n适合 AI产品经理/企业决策者"
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "summary": "核心 Pi 在上下文超限时自动压缩历史，对话保持约2万 token，保留近期信息。\n要点 LLM 对话受限于上下文窗口，超出会报错；Pi 在每回合结束后检查并在必要时触发压缩，保留最近约5-20回合；压缩通过 LLM 生成摘要，将旧对话序列化后替换为压缩结果。\n亮点 压缩使用可配置的 token 预算，默认保留约2万 token，显著降低上下文溢出风险。\n适合 AI 开发者"
+    },
+    {
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "summary": "核心 1991 年 Video System 的《偶像麻将终极恋》是一款约会脱衣主题的街机麻将游戏，近期被重新收录。\n要点 玩法是用立直麻将赢三局让女角色逐步脱衣；每局起始金钱足以购买手牌重抽道具，可自行决定使用；硬件双 Z80 CPU、YM2413 合成器、OKI ADPCM，和同公司机型相同。\n亮点 首次在街机外公开的原始《偶像麻将终极恋》完整版本。\n适合 复古街机爱好者"
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "summary": "核心 九州公共电视台起诉铁山公司，争取取回被封存的50TB历史档案。\n要点 OSS突断数据访问；Iron Mountain以OSS所有权拒绝归还；法院已批准临时保护令防止删除\n亮点 涉及70年历史节目，价值极高\n适合 媒体与数据合规从业者"
+    },
+    {
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "summary": "核心 Oxide依据客户需求，推出Rancher、Omni、Cluster API三套Kubernetes集成，完整覆盖部署运维。\n要点 完成Rancher节点驱动，支持在Oxide上直接创建节点；与Sidero Omni合作，实现Talos Linux集群快速部署；开发Cluster API提供商，统一管理集群生命周期。\n亮点 首个在生产环境使用的Rancher节点驱动已上线。\n适合 云原生/基础设施工程师"
+    },
+    {
+      "title": "Smooth Move: Taming Trajectories with Polynomials",
+      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
+      "summary": "核心 用多项式实现机器人/3D打印平滑轨迹，控制位置、速度、加速度及更高阶。\n要点 介绍位置、速度、加速度及抖动概念；SmoothStep与Logistic平滑多项式；讨论时间缩放、抖动限制及多维路径扩展\n亮点 使用 Logistic 函数可自然限制加速度抖动\n适合 机器人/3D打印研发工程师"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "去除多厂商 AI 源标记：Unicode 文本清理、统计重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据",
+      "stars": 23,
+      "language": "Python",
+      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "提供 29 种 Claude Code 编辑图表类型，独立的 HTML+SVG，无阴影、无 Mermaid 低质量实现",
+      "stars": 16,
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为原生 PowerPoint 演示文稿，包含本地形状、切换与动画、按需生成的数据图表、演讲稿音频旁白，并支持自定义 .pptx 模板",
+      "stars": 8,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "开源的 Semrush 与 Ahrefs 替代方案",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "在现有硬件上运行前沿 MoE 模型——纯 C 实现、零依赖、专家模型从磁盘流式加载。引擎小巧，模型庞大",
+      "stars": 4,
+      "language": "C",
+      "description_original": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro 为团队提供统一工作空间，整合邮件、聊天、文档、任务、代理、通话和 CRM，并通过 @ 链接共享 AI 记忆",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "name": "repowise-dev/repowise",
+      "url": "https://github.com/repowise-dev/repowise",
+      "description": "为 AI 与人类提供代码库智能：代码健康评分、自动生成文档、Git 分析、死代码检测以及通过 MCP 的架构决策",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP."
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 与 PDF 转换为干净的 Markdown。使用 Rust 编写，提供 Node.js 与 Python 绑定",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "自我改进的 RLM 代理，用于编码工作流和长期自主任务",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "面向设计工程师的技能集合",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "Zeejay0/gathered-scenes-zine-skill",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "description": "暂无描述",
+      "stars": 4,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "轻量级循环工程状态内核，适用于长期运行的 AI 代理团队，跨 Codex、Claude Code 等编码代理的 agent-loop 无关，具备持久目标、配额感知自动唤醒、可执行待办、证据日志和可验证交接。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
+    },
+    {
+      "name": "Devin-AXIS/iPolloWork",
+      "url": "https://github.com/Devin-AXIS/iPolloWork",
+      "description": "下一代、源码可用的 Codex 与 Claude Code 替代品——本地优先、可自托管的代码、办公、可编辑设计、演示、网站和视频工作空间，先用 AI 构建，再像 PowerPoint 那样轻松编辑文本、图像、颜色、布局和场景。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint."
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行代理群的 ADE，使用您自己的订阅运行任何编码代理，支持桌面和移动端。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "为您的编码代理提供运行时环境。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个蜂巢思维通信平台。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "开源免费——在阿里巴巴规模下经受考验的混合架构代码审查工具：确定性流水线 + LLM 代理，精确行级评论，内置微调规则集（NPE、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "tanishqkancharla/calldiff",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "description": "针对 git 提交的函数调用栈差异，支持 22 种语言（基于 AST，使用 Tree-sitter 构建），非常适合代理审查。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review."
+    },
+    {
+      "name": "Paramchoudhary/ResumeSkills",
+      "url": "https://github.com/Paramchoudhary/ResumeSkills",
+      "description": "一套聚焦简历优化、求职申请和职业发展的 AI 代理技能，为求职者、职业转型者和希望 Claude Code 帮助撰写简历、ATS 优化、面试准备及战略求职的专业人士打造。",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search."
+    }
+  ]
+}
