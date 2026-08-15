@@ -1,245 +1,245 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T00:12:53.011243+00:00",
+  "generated_at": "2026-08-15T22:11:33.663009+00:00",
   "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "summary": "核心 Semaglutide 与降低预测痴呆风险相关\n要点 研究基于大型队列数据；使用机器学习预测痴呆风险；结果显示使用者风险下降约20%\n亮点 GLP-1 类药物可能具神经保护作用\n适合 医学/药物研发人员"
     },
     {
-      "title": "Everything is about to \"go dark\"",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "核心 创造新想法需要孤独的心境，远离他人评价的干扰。\n要点 共享办公抑制好点子；艺术家与科学家强调孤独创作；记录笔记帮助捕捉新想法萌芽\n亮点 萨姆·奥特曼认为伟大创意脆弱，需在孤立环境中孕育。\n适合 创业者与产品创新者"
     },
     {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "核心 RustDesk 在 Wayland 实现真无人值守远程访问，支持多显示器\n要点 支持 Wayland 无需远端确认即可连接；可在登录界面及多显示器环境下使用；提供 Debian/Ubuntu 预览版，后续支持 Fedora 与 Arch\n亮点 可在登录画面直接无人接入，真正实现零人值守\n适合 Linux 运维与远程桌面用户"
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "核心 AI凭借巨大的工作记忆空间，超越人类在数学推理中的记忆限制。\n要点 AI拥有庞大的符号上下文窗口；人类工作记忆容量极限限制推理；研究表明工作记忆独立预测数学成绩\n亮点 AI的超大上下文窗口相当于外部工作记忆。\n适合 AI研究者与数学爱好者"
     },
     {
-      "title": "What You Gain by Building Your Own Game Engine",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "summary": "核心 腹部脂肪（腰围、腰臀比）比BMI更能预测心血管疾病风险。\n要点 腰围或腰臀比高者风险提升15%‑50%；正常BMI但中心肥胖者仍属高危；仅凭BMI易误判心血管风险。\n亮点 腰围和腰臀比应纳入常规心血管风险评估。\n适合 心血管医生与健康管理者"
     },
     {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "核心 Opus 5虽更强，但交互体验下降，因为不主动澄清。\n要点 不在意不明确意图而直接假设；受基准驱动训练倾向大胆猜测；需用户细致监控缺少主动提问\n亮点 基准驱动让模型不询问，实际编码不友好\n适合 AI研发与产品经理"
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "summary": "核心 首个家庭用检测盒可快速辨别带菌蜱，助力早期莱姆病诊断。\n要点 LymeAlert 将于8月上市，用户自行取蜱检测；检测基于 DNA 技术，48小时内出结果；早期发现可在72小时内使用预防性抗生素。\n亮点 在家即可判定蜱是否携带病原，缩短诊疗窗口。\n适合 家庭用户与基层医疗工作者"
     },
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "核心 AI正在加速药物发现，但仍面临数据、验证等瓶颈。\n要点 AI可快速筛选化合物；模型预测命中率提升；临床验证仍是瓶颈\n亮点 AI已帮助发现数个临床候选药物\n适合 AI/药物研发工程师"
     },
     {
-      "title": "Study links coffee consumption to metabolic health and sex hormones",
-      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
-      "summary": "核心 咖啡摄入与代谢健康和性激素水平呈正相关。\n要点 咖啡降低代谢综合征风险；影响雌激素和睾酮水平；基于大型人群长期随访。\n亮点 咖啡可能通过调节激素改善代谢。\n适合 医学与健康从业者"
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "summary": "核心 数字信号处理先驱刘德德逝世，奠基现代DSP技术。\n要点 贡献低复杂度DSP算法，推动模拟向数字转型；在普林斯顿任教50余年，培养众多工程师；教材《数字信号处理》成行业标准。\n亮点 其低功耗DSP研究奠定手机、流媒体等技术基础。\n适合 电子工程师与科研人员"
     },
     {
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "summary": "核心 RISC‑V 在低成本单片机领域并不具备优势，设计难以兼顾所有场景。\n要点 低端 MCU 需求高代码密度和快速中断，RISC‑V 基础指令缺少必要 CSR 支持；可选特性导致实现碎片化，缺乏统一的中断处理机制；编码冗余且修补方案繁琐，难以根本提升性能。\n亮点 RISC‑V 只能靠成本优势在低端 MCU 市场生存。\n适合 芯片架构工程师"
     },
     {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "summary": "核心 AI by Hand 提供手写式AI数学、算法、架构教程，配套研讨会。\n要点 手写推导AI数学与算法；定期发布前沿模型研讨会录播；涵盖Fine-tuning、激活函数、RL实战\n亮点 深度解析 Qwen 3.6 与 Gemma 4 最新模型\n适合 AI 研究员与工程师"
+      "title": "Geek Fighter – 2d fighter game",
+      "url": "https://geek-fighter.vercel.app/",
+      "summary": "核心 像素风2D格斗游戏，十位科技领袖作角色，提供单挑与逐级挑战。\n要点 十位科技大咖各具特色必杀技；Versus模式三局两胜，Fortune 500模式逐层挑战；像素艺术配合键位操作，操作简单上手快\n亮点 科技人物与格斗结合的创意设定\n适合 前端与产品经理"
     },
     {
-      "title": "Show HN: Ember – Redshift safe color palettes",
-      "url": "https://github.com/carpdiem/ember",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "summary": "核心 利用 Codex 自动研究，实现内核性能提升 232 倍。\n要点 用 AI 生成代码并迭代优化；自动化基准测试与搜索；重写关键循环实现加速。\n亮点 单核加速达 232 倍，刷新记录。\n适合 AI/性能/后端工程师"
     },
     {
-      "title": "Ultraviolet Bird Photography",
-      "url": "https://uvbirds.com/",
-      "summary": "核心 紫外摄影揭示鸟类羽毛隐藏色彩，帮助理解视觉与种间识别\n要点 鸟类羽毛的紫外反射与可见光组合呈现新颜色；不同种类的鸟对UV反射不同，影响种内识别；UV与可见光对比揭示羽色结构与功能\n亮点 Anna蜂鸟的红色羽毛在紫外下呈紫色，显示隐藏色彩\n适合 鸟类学者与摄影爱好者"
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "核心 1978 年 JIS 编码的若干幽灵字符源于编目失误，后被收录进 Unicode。\n要点 部分字符因手工拼贴误将两字合并产生；调查发现唯一无来源的字符是彁；幽灵字符随 JIS 进入 Unicode，成全球字符集\n亮点 一次手工排版失误造就了至今仍在 Unicode 中的幽灵字符\n适合 字符集/编码/语言技术爱好者"
     },
     {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "summary": "核心 AI合作更像领导对话，需要表达意图与上下文。\n要点 同一请求可能得到不同答案，需多轮交互；共享上下文、示例和纠正可降低误解；领导式沟通包括解释目标、设定边界和反馈。\n亮点 AI使用转向对话式领导，强调意图表达。\n适合 AI/技术管理者"
     },
     {
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "url": "https://arxiv.org/abs/2608.11158",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "summary": "核心 Voltair招聘飞行测试工程师，专注无人机硬件验证。\n要点 薪资12-18万美元；股权0.5%-1.5%；需1年以上硬件经验且具美国工作资格\n亮点 可直接与YC创始团队合作，参与前沿地球观测无人机研发。\n适合 硬件/飞行测试工程师"
     },
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "summary": "核心 终端深度研究代理 Mole，预算强制、引用验证、数据本地化。\n要点 强制预算控制，超支为零；每条结论附带原文引用并验证；本地数据不外泄，支持 CSV/文件夹分析\n亮点 单文件静态二进制，无需额外依赖\n适合 AI 与研发工程师"
+      "title": "Pizza Box Project Stack",
+      "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+      "summary": "核心 作者借鉴 Ratfactor 的纸质项目栈，用废旧名片和披萨盒纸板自制任务管理系统\n要点 用纸质卡片实现任务栈；三层堆叠：空卡、任务、已完成；手工制作纸板展示盒，便于查看\n亮点 实体卡片让任务切换直观且有成就感\n适合 产品经理/个人效率爱好者"
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+      "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
     }
   ],
   "gh_repos": [
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "提供 29 种 Claude Code 的编辑图表类型，独立的 HTML+SVG，无阴影，无 Mermaid 低质量实现。",
-      "stars": 18,
-      "language": "HTML",
-      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 的 Electron 桌面客户端，深度适配 macOS 与 Windows，提供最佳的即开即用体验。",
+      "stars": 10,
+      "language": "TypeScript",
+      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "移除多厂商 AI 溯源标记：Unicode 文本清理、统计重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据。",
-      "stars": 15,
+      "stars": 7,
       "language": "Python",
       "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
     },
     {
-      "name": "arvin341az-glitch/RVG",
-      "url": "https://github.com/arvin341az-glitch/RVG",
-      "description": "暂无描述",
-      "stars": 4,
-      "language": "Python",
-      "description_original": "暂无描述"
-    },
-    {
-      "name": "titanwings/colleague-skill",
-      "url": "https://github.com/titanwings/colleague-skill",
-      "description": "把冷漠的离别转化为温暖的技能，欢迎加入数字生命 1.0。",
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "提供 29 种 Claude Code 编辑图表类型，采用自包含的 HTML + SVG，无阴影、无 Mermaid 低质量实现。",
       "stars": 7,
-      "language": "Python",
-      "description_original": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
     },
     {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory 是面向 AI 代理的团队级记忆中心，将对话、文档和代码转化为四类可复用记忆资产（聊天记忆、Skill、LLM-Wiki、代码图），实现治理、共享并在各代理和框架中使用。",
-      "stars": 6,
-      "language": "TypeScript",
-      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
-    },
-    {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "一个集体思维通信平台。",
-      "stars": 4,
-      "language": "Rust",
-      "description_original": "A hive mind communication platform"
-    },
-    {
-      "name": "Devin-AXIS/iPolloWork",
-      "url": "https://github.com/Devin-AXIS/iPolloWork",
-      "description": "下一代开源的 Codex 与 Claude Code 替代品，提供本地优先、可自托管的代理工作空间，支持代码、办公、可编辑设计、演示、网站和视频，使用 AI 构建后可像 PowerPoint 一样轻松编辑文本、图像、颜色、布局和场景。",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint."
-    },
-    {
-      "name": "vercel-labs/deepsec",
-      "url": "https://github.com/vercel-labs/deepsec",
-      "description": "Deepsec 是由编码代理驱动的安全工具，用于在代码库中发现漏洞。",
-      "stars": 6,
-      "language": "TypeScript",
-      "description_original": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
-    },
-    {
-      "name": "lightningpixel/modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "description": "桌面应用，使用本地 AI 从图像生成 3D 模型，全部在 GPU 上运行。",
-      "stars": 6,
-      "language": "TypeScript",
-      "description_original": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
-    },
-    {
-      "name": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI 是首个专为 AI 代理设计的 Office 套件，可读取、编辑、自动化 Word、Excel、PowerPoint 文件，免费开源、单一二进制文件，无需安装 Office。",
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor：终身个性化辅导平台。",
       "stars": 5,
-      "language": "C#",
-      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+      "language": "Python",
+      "description_original": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
     },
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "Prime-agent 是自我改进的 RLM 代理，适用于编码工作流和长期自主任务。",
+      "description": "一个自我改进的 RLM 代理，用于编码工作流和长期自主任务。",
       "stars": 4,
       "language": "TypeScript",
       "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
     },
     {
-      "name": "whiteguo233/OpenBiliClaw",
-      "url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 4,
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro 是面向团队的统一工作空间，整合邮件、聊天、文档、任务、代理、通话和 CRM，并通过共享 AI 记忆实现 @ 链接。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "herdr：你的编码代理运行的运行时环境。",
+      "stars": 3,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "archify：用于生成美观、可验证的架构、工作流、时序、数据流和生命周期图的代理技能，输出自包含的带动画与高质量导出的 HTML。",
+      "stars": 3,
+      "language": "HTML",
+      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "description": "将冰冷的离别转化为温暖的 Skill，欢迎加入数字生命 1.0。",
+      "stars": 3,
       "language": "Python",
-      "description_original": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms."
+      "description_original": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+    },
+    {
+      "name": "zeronsh/comet",
+      "url": "https://github.com/zeronsh/comet",
+      "description": "暂无描述",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "暂无描述"
     },
     {
       "name": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 5,
+      "description": "needle：体积 14 MB 的基础模型，适用于手机、可穿戴设备、智能家居和机器人等小型终端。",
+      "stars": 2,
       "language": "Python",
       "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
     },
     {
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "stars": 4,
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "桌面应用，使用本地 AI 从图像生成 3D 模型，全部在 GPU 上运行。",
+      "stars": 2,
       "language": "TypeScript",
-      "description_original": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
+      "description_original": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
     },
     {
-      "name": "gloom-sh/gloomberb",
-      "url": "https://github.com/gloom-sh/gloomberb",
-      "description": "金融终端，尽在你的终端。",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "Finance terminal, in your terminal."
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 4,
+      "name": "opensandbox-group/OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "安全、快速且可扩展的 AI 代理沙箱运行时。",
+      "stars": 2,
       "language": "Python",
-      "description_original": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+      "description_original": "Secure, Fast, and Extensible Sandbox runtime for AI agents."
     },
     {
-      "name": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": 4,
-      "language": "Rust",
-      "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
-    },
-    {
-      "name": "yc-software/qm",
-      "url": "https://github.com/yc-software/qm",
-      "description": "Multiplayer agent harness for work",
-      "stars": 3,
+      "name": "spinabot/brigade",
+      "url": "https://github.com/spinabot/brigade",
+      "description": "Brigade —— 企业级构建的个人智能。",
+      "stars": 2,
       "language": "TypeScript",
-      "description_original": "Multiplayer agent harness for work"
+      "description_original": "Brigade — Your personal intelligence, built enterprise-grade"
     },
     {
-      "name": "Zeejay0/gathered-scenes-zine-skill",
-      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "name": "MrGeDiao/shuorenhua",
+      "url": "https://github.com/MrGeDiao/shuorenhua",
+      "description": "中文优先的去 AI 味改写技能：保留事实、分场景，改写后可直接发布，适用于 Codex、Claude Code、Cursor、ChatGPT。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "轻量级云原生 GIS 平台，用于可视化、探索和分析地理空间数据，支持浏览器、桌面、移动端和 Jupyter Notebook。",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "name": "OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
+      "url": "https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
+      "description": "去AI味提示词-作家增强-SKILL",
+      "stars": 1,
+      "language": "JavaScript",
+      "description_original": "去AI味提示词-作家增强-SKILL"
+    },
+    {
+      "name": "123panNextGen/123pan",
+      "url": "https://github.com/123panNextGen/123pan",
+      "description": "第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "description": "暂无描述",
-      "stars": 3,
+      "stars": 1,
       "language": "Unknown",
       "description_original": "暂无描述"
-    },
-    {
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Semrush 和 Ahrefs 的开源替代方案",
-      "stars": 3,
-      "language": "TypeScript",
-      "description_original": "Open source alternative to Semrush and Ahrefs"
     }
   ]
 }
