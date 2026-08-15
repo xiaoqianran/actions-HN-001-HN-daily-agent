@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T00:12:53.011243+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Everything is about to \"go dark\"",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "核心 RustDesk 在 Wayland 实现真无人值守远程访问，支持多显示器\n要点 支持 Wayland 无需远端确认即可连接；可在登录界面及多显示器环境下使用；提供 Debian/Ubuntu 预览版，后续支持 Fedora 与 Arch\n亮点 可在登录画面直接无人接入，真正实现零人值守\n适合 Linux 运维与远程桌面用户"
+    },
+    {
+      "title": "What You Gain by Building Your Own Game Engine",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "核心 Opus 5虽更强，但交互体验下降，因为不主动澄清。\n要点 不在意不明确意图而直接假设；受基准驱动训练倾向大胆猜测；需用户细致监控缺少主动提问\n亮点 基准驱动让模型不询问，实际编码不友好\n适合 AI研发与产品经理"
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Study links coffee consumption to metabolic health and sex hormones",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+      "summary": "核心 咖啡摄入与代谢健康和性激素水平呈正相关。\n要点 咖啡降低代谢综合征风险；影响雌激素和睾酮水平；基于大型人群长期随访。\n亮点 咖啡可能通过调节激素改善代谢。\n适合 医学与健康从业者"
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "summary": "核心 AI by Hand 提供手写式AI数学、算法、架构教程，配套研讨会。\n要点 手写推导AI数学与算法；定期发布前沿模型研讨会录播；涵盖Fine-tuning、激活函数、RL实战\n亮点 深度解析 Qwen 3.6 与 Gemma 4 最新模型\n适合 AI 研究员与工程师"
+    },
+    {
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "url": "https://github.com/carpdiem/ember",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Ultraviolet Bird Photography",
+      "url": "https://uvbirds.com/",
+      "summary": "核心 紫外摄影揭示鸟类羽毛隐藏色彩，帮助理解视觉与种间识别\n要点 鸟类羽毛的紫外反射与可见光组合呈现新颜色；不同种类的鸟对UV反射不同，影响种内识别；UV与可见光对比揭示羽色结构与功能\n亮点 Anna蜂鸟的红色羽毛在紫外下呈紫色，显示隐藏色彩\n适合 鸟类学者与摄影爱好者"
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "summary": "核心 终端深度研究代理 Mole，预算强制、引用验证、数据本地化。\n要点 强制预算控制，超支为零；每条结论附带原文引用并验证；本地数据不外泄，支持 CSV/文件夹分析\n亮点 单文件静态二进制，无需额外依赖\n适合 AI 与研发工程师"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "提供 29 种 Claude Code 的编辑图表类型，独立的 HTML+SVG，无阴影，无 Mermaid 低质量实现。",
+      "stars": 18,
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "移除多厂商 AI 溯源标记：Unicode 文本清理、统计重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据。",
+      "stars": 15,
+      "language": "Python",
+      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+    },
+    {
+      "name": "arvin341az-glitch/RVG",
+      "url": "https://github.com/arvin341az-glitch/RVG",
+      "description": "暂无描述",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "description": "把冷漠的离别转化为温暖的技能，欢迎加入数字生命 1.0。",
+      "stars": 7,
+      "language": "Python",
+      "description_original": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory 是面向 AI 代理的团队级记忆中心，将对话、文档和代码转化为四类可复用记忆资产（聊天记忆、Skill、LLM-Wiki、代码图），实现治理、共享并在各代理和框架中使用。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个集体思维通信平台。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "Devin-AXIS/iPolloWork",
+      "url": "https://github.com/Devin-AXIS/iPolloWork",
+      "description": "下一代开源的 Codex 与 Claude Code 替代品，提供本地优先、可自托管的代理工作空间，支持代码、办公、可编辑设计、演示、网站和视频，使用 AI 构建后可像 PowerPoint 一样轻松编辑文本、图像、颜色、布局和场景。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint."
+    },
+    {
+      "name": "vercel-labs/deepsec",
+      "url": "https://github.com/vercel-labs/deepsec",
+      "description": "Deepsec 是由编码代理驱动的安全工具，用于在代码库中发现漏洞。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
+    },
+    {
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "桌面应用，使用本地 AI 从图像生成 3D 模型，全部在 GPU 上运行。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI 是首个专为 AI 代理设计的 Office 套件，可读取、编辑、自动化 Word、Excel、PowerPoint 文件，免费开源、单一二进制文件，无需安装 Office。",
+      "stars": 5,
+      "language": "C#",
+      "description_original": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "Prime-agent 是自我改进的 RLM 代理，适用于编码工作流和长期自主任务。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "whiteguo233/OpenBiliClaw",
+      "url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms."
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
+    },
+    {
+      "name": "gloom-sh/gloomberb",
+      "url": "https://github.com/gloom-sh/gloomberb",
+      "description": "金融终端，尽在你的终端。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Finance terminal, in your terminal."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Multiplayer agent harness for work"
+    },
+    {
+      "name": "Zeejay0/gathered-scenes-zine-skill",
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "description": "暂无描述",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Semrush 和 Ahrefs 的开源替代方案",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Open source alternative to Semrush and Ahrefs"
+    }
+  ]
+}
