@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T00:12:57.566903+00:00",
+  "hn_count": 14,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "summary": "核心 AI 时代推动形式化验证热潮，重新审视 50 年前的反对论点\n要点 AI 代码生成加速验证需求与实现；规范从非正式需求转为可交互检查的形式；迭代开发中规范与实现的依赖不再是根本障碍\n亮点 AI 代理让形式化验证更易集成到实际开发\n适合 AI 与后端工程师"
+    },
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "summary": "核心 作者从第三世界视角阐述 RISC‑V 在低价 MCU 的优势与批评局限\n要点 海外采购成本高，免费运费难享；RISC‑V 适合十美分芯片的指令集需求；作者批评架构细节但不影响实际可用性\n亮点 RISC‑V 将主导低价单片机市场\n适合 嵌入式硬件工程师"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "核心 Claude 在网页和移动端通过系统提示注入当前日期等信息，并定期更新行为指引，API 不受影响。\n要点 系统提示在每次对话开头提供当前日期；强制返回 Markdown 代码块等统一格式；更新仅影响 Claude 网页/APP，API 保持不变\n亮点 系统提示加入日期并统一 Markdown 代码输出\n适合 AI 产品经理 与开发者"
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "summary": "核心 Buf 发布首个生产级 Protobuf LSP 服务器，实现现代 IDE 支持\n要点 VSCode、Neovim 等编辑器即装即用；基于 protocompile，增量编译诊断更准；计划加入自动导入、代码补全等功能\n亮点 首个完整的 Protobuf LSP，显著提升编辑器智能特性\n适合 后端与全栈开发者"
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "summary": "核心 低成本陶瓷滤水器可在社区小工厂批量生产，净化不安全水源。\n要点 使用黏土加燃料烧制成多孔陶瓷；加入胶体银抑菌提升过滤效果；适合创业者建设半工业化小作坊\n亮点 全球已有61家工厂在39国复制，开源共享。\n适合 社会企业家与公益水项目负责人"
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "summary": "核心 模型有意削减参数，强化推理，牺牲事实记忆。\n要点 推理基准分数提升，活跃参数大幅下降；事实回忆率低，幻觉率高，模型常编造答案；依赖检索、工具等外部系统补足知识，降低模型老化。\n亮点 把知识外部化，使模型寿命更长。\n适合 AI 研究员与工程师"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "核心 AI 代币经纪人收购未用算力信用并转售，形成折扣二级市场。\n要点 经纪人邮件收购大额信用，日消耗可达10万美元；AI Credits、AICreditMart 等平台折扣30%‑80%；批量采购或代理转发降价，见 CheapCredits。\n亮点 经纪人单日消耗可达10万美元，折扣最高80%。\n适合 AI 产品 与 创业者"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "核心 Stripe拟以超70亿美元收购AI公司OpenRouter。\n要点 交易价值超过70亿美元；OpenRouter提供多模型路由平台；助力Stripe扩展AI支付与服务\n亮点 此举将使Stripe在AI支付领域抢占先机\n适合 产品与AI金融技术从业者"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "summary": "核心 MathCode 是终端 AI 编码助手，能将自然语言数学题转为 Lean4 定理并尝试形式化证明。\n要点 持久化 Lean REPL，编译检查约0.4秒；自动保存定理与公理库，可复用；支持 Obsidian 知识图谱、子目标树与多规划并行\n亮点 Lean REPL 仅需0.4秒即可完成编译检查，大幅提升交互效率。\n适合 AI/数学/形式化验证工程师"
+    },
+    {
+      "title": "Anton Chekhov played at love most of his life",
+      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+      "summary": "核心 切霍夫晚年才真爱，书信与《狗女郎》映射情感。\n要点 苏联与西方都将其视为文学典范；与演员奥尔加的书信温柔且略带调侃；《与狗的女士》被视为其自传式初恋写照。\n亮点 《与狗的女士》被纳博科夫赞为史上最佳短篇之一。\n适合 文学爱好者与写作者"
+    },
+    {
+      "title": "Clamiga: Common Lisp for the Amiga",
+      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+      "summary": "核心 Clamiga 是首个在 Amiga 上运行的完整 Common Lisp，实现了 m68k 与 PPC 支持。\n要点 基于便携 C 的字节码 VM，无外部依赖；完整实现 Lisp 特性：CLOS、条件系统、REPL、调试器；跨平台支持 AmigaOS、MorphOS、macOS、Linux\n亮点 生成的 FASL 文件在 m68k 与 PPC 间可互相使用。\n适合 Lisp 开发者 与 Amiga 爱好者"
+    },
+    {
+      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+      "summary": "核心 1963年塑料机械计算机Digi-Comp 1，演示机械逻辑运算。\n要点 采用塑料与橡皮筋实现逻辑门；无需电源，仅靠机械运动完成计算；可手动组装，直观学习计算原理。\n亮点 机械结构可视化展示布尔运算。\n适合 硬件爱好者与教育者"
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "summary": "核心 St. Lucie核电站1号机组因3根控制棒意外下沉，已手动紧急停堆。\n要点 三根控制棒意外掉入堆芯触发自动停堆；操作员立即手动关闭反应堆；现场未检测到放射性泄漏，情况受控。\n亮点 近期美国核电站首次出现此类手动停堆。\n适合 能源安全与核电工程师"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
+      "stars": 7,
+      "language": "TypeScript",
+      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 5,
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "Skills for Design Engineers.",
+      "stars": 3,
+      "language": "Unknown",
+      "description_original": "Skills for Design Engineers."
+    },
+    {
+      "name": "12britz/awesome-free-models",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "stars": 2,
+      "language": "Unknown",
+      "description_original": "A curated list of free AI models, APIs, and tools you can use without paying a cent."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+    },
+    {
+      "name": "ChartGPU/ChartGPU",
+      "url": "https://github.com/ChartGPU/ChartGPU",
+      "description": "Beautiful, open source, WebGPU-based charting library",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "Beautiful, open source, WebGPU-based charting library"
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+    },
+    {
+      "name": "internet-court/internet-court-skill",
+      "url": "https://github.com/internet-court/internet-court-skill",
+      "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin."
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 2,
+      "language": "TypeScript",
+      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "xingkongliang/skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    },
+    {
+      "name": "docling-project/docling-graph",
+      "url": "https://github.com/docling-project/docling-graph",
+      "description": "Transform unstructured documents into validated, rich and queryable knowledge graphs.",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Transform unstructured documents into validated, rich and queryable knowledge graphs."
+    },
+    {
+      "name": "pathwaycom/arc-task-gen",
+      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set."
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "url": "https://github.com/titanwings/colleague-skill",
+      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+    },
+    {
+      "name": "Yu9191/wloc",
+      "url": "https://github.com/Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标，支持 Surge / Quantumult X / Loon / Stash，快捷指令一键设置/恢复定位。",
+      "stars": 1,
+      "language": "JavaScript",
+      "description_original": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+    },
+    {
+      "name": "openchamber/openchamber",
+      "url": "https://github.com/openchamber/openchamber",
+      "description": "OpenCode AI 代理的桌面和网页界面",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "Desktop and web interface for OpenCode AI agent"
+    },
+    {
+      "name": "KKKKhazix/khazix-skills",
+      "url": "https://github.com/KKKKhazix/khazix-skills",
+      "description": "数字生命卡兹克开源的 AI 技能合集 | 代理技能：leader（帮你定义目标）、neat-freak（洁癖）、hv-analysis、khazix-writer 等 — Claude Code、Codex 以及 40 多个代理。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents"
+    }
+  ]
+}
