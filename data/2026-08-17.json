@@ -1,240 +1,245 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T00:12:57.566903+00:00",
-  "hn_count": 14,
+  "generated_at": "2026-08-17T22:48:31.827365+00:00",
+  "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "summary": "核心 AI 时代推动形式化验证热潮，重新审视 50 年前的反对论点\n要点 AI 代码生成加速验证需求与实现；规范从非正式需求转为可交互检查的形式；迭代开发中规范与实现的依赖不再是根本障碍\n亮点 AI 代理让形式化验证更易集成到实际开发\n适合 AI 与后端工程师"
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "summary": "核心 Rust 编译器内置跨厂商 GPU Offload 框架，实现安全高效的并行计算\n要点 在 rustc 与 LLVM 中实现多厂商 GPU 编译；利用所有权系统确保内存安全，无需 unsafe 指针；RAJAPerf 基准显示性能接近手写 CUDA/HIP\n亮点 性能可媲美手写 CUDA，同时保持 Rust 的安全保证\n适合 系统与高性能计算工程师"
     },
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "summary": "核心 作者从第三世界视角阐述 RISC‑V 在低价 MCU 的优势与批评局限\n要点 海外采购成本高，免费运费难享；RISC‑V 适合十美分芯片的指令集需求；作者批评架构细节但不影响实际可用性\n亮点 RISC‑V 将主导低价单片机市场\n适合 嵌入式硬件工程师"
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "summary": "核心 Claude 在网页和移动端通过系统提示注入当前日期等信息，并定期更新行为指引，API 不受影响。\n要点 系统提示在每次对话开头提供当前日期；强制返回 Markdown 代码块等统一格式；更新仅影响 Claude 网页/APP，API 保持不变\n亮点 系统提示加入日期并统一 Markdown 代码输出\n适合 AI 产品经理 与开发者"
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "summary": "核心 Buf 发布首个生产级 Protobuf LSP 服务器，实现现代 IDE 支持\n要点 VSCode、Neovim 等编辑器即装即用；基于 protocompile，增量编译诊断更准；计划加入自动导入、代码补全等功能\n亮点 首个完整的 Protobuf LSP，显著提升编辑器智能特性\n适合 后端与全栈开发者"
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "summary": "核心 提出 AI;DR 概念，主张只阅读经人工编辑的 AI 内容。\n要点 AI 生成的原始文本会让人反感；未审校的内容作者将不再阅读；仅在客服等场景接受全 AI 输出。\n亮点 AI;DR 成为过滤 AI 垃圾的实用新规。\n适合 AI/产品/技术从业者"
     },
     {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "summary": "核心 低成本陶瓷滤水器可在社区小工厂批量生产，净化不安全水源。\n要点 使用黏土加燃料烧制成多孔陶瓷；加入胶体银抑菌提升过滤效果；适合创业者建设半工业化小作坊\n亮点 全球已有61家工厂在39国复制，开源共享。\n适合 社会企业家与公益水项目负责人"
+      "title": "The Origin of Consciousness (2008)",
+      "url": "https://blog.plover.com/brain/Jaynes.html",
+      "summary": "核心 《意识的起源》提出意识约3000年前出现，前意识为双室心智，神声指令决定行为。\n要点 语言隐喻是意识的前提；青铜时代人通过右脑幻听听神指令；精神分裂等症状被视为双室心智残余\n亮点 意识可能仅在三千年前才出现，颠覆传统时间观\n适合 认知科学/心理学爱好者"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "summary": "核心 模型有意削减参数，强化推理，牺牲事实记忆。\n要点 推理基准分数提升，活跃参数大幅下降；事实回忆率低，幻觉率高，模型常编造答案；依赖检索、工具等外部系统补足知识，降低模型老化。\n亮点 把知识外部化，使模型寿命更长。\n适合 AI 研究员与工程师"
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "summary": "核心 Sun Clock 是免费无广告的 24 小时时钟，显示本地日出、日落、黄昏、黄金时段和月相。\n要点 支持根据经纬度自动显示太阳和月亮轨迹；可切换时钟方向、暗色模式和自动配色；提供年度日历、秒针选项及离线 PWA 版本。\n亮点 时钟方向会根据所在半球自动调整，南半球逆时针显示。\n适合 前端/产品/摄影爱好者"
     },
     {
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "summary": "核心 AI 代币经纪人收购未用算力信用并转售，形成折扣二级市场。\n要点 经纪人邮件收购大额信用，日消耗可达10万美元；AI Credits、AICreditMart 等平台折扣30%‑80%；批量采购或代理转发降价，见 CheapCredits。\n亮点 经纪人单日消耗可达10万美元，折扣最高80%。\n适合 AI 产品 与 创业者"
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "summary": "核心 提供各平台关闭侵入式 AI 的实用指南\n要点 Acrobat/Reader 关闭生成式 AI；Android、Gemini、Alexa、Apple AI 逐项关闭；Chrome、Edge、Firefox 等浏览器通过 flags 关闭 AI\n亮点 一步步操作指引，适配多平台关闭 AI\n适合 普通用户与技术爱好者"
     },
     {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "summary": "核心 Stripe拟以超70亿美元收购AI公司OpenRouter。\n要点 交易价值超过70亿美元；OpenRouter提供多模型路由平台；助力Stripe扩展AI支付与服务\n亮点 此举将使Stripe在AI支付领域抢占先机\n适合 产品与AI金融技术从业者"
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "summary": "核心 GPT-5.6 Sol 成为OpenAI迄今最强视觉模型\n要点 检测mAP提升至46.2，接近专业检测器；计数准确率达73%，全系模型均有提升；大图（>2000px）稳定性下降，需裁剪或增大推理力度\n亮点 Sol 在目标检测和计数上实现突破性提升\n适合 AI研发与产品经理"
     },
     {
-      "title": "MathCode, Mathematical Coding Agent",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "summary": "核心 MathCode 是终端 AI 编码助手，能将自然语言数学题转为 Lean4 定理并尝试形式化证明。\n要点 持久化 Lean REPL，编译检查约0.4秒；自动保存定理与公理库，可复用；支持 Obsidian 知识图谱、子目标树与多规划并行\n亮点 Lean REPL 仅需0.4秒即可完成编译检查，大幅提升交互效率。\n适合 AI/数学/形式化验证工程师"
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "summary": "核心 Olo是一种只能通过激光刺激视网膜M锥体感知的超饱和想象色\n要点 年UC伯克利团队首次实现该色；只能在特定仪器下激活M锥细胞；近似sRGB颜色为#00FFCC，且可能用于色盲治疗\n亮点 通过激光精准刺激单个M锥体实现超出可视范围的颜色\n适合 科研人员与视觉技术爱好者"
     },
     {
-      "title": "Anton Chekhov played at love most of his life",
-      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
-      "summary": "核心 切霍夫晚年才真爱，书信与《狗女郎》映射情感。\n要点 苏联与西方都将其视为文学典范；与演员奥尔加的书信温柔且略带调侃；《与狗的女士》被视为其自传式初恋写照。\n亮点 《与狗的女士》被纳博科夫赞为史上最佳短篇之一。\n适合 文学爱好者与写作者"
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "summary": "核心 法官设框架，促Nine PBS取回存于Iron Mountain的档案数据。\n要点 法官命令Iron Mountain配合取回约50TB档案；Nine PBS须在30天内找第三方协助取回数据；双方需在9月14日前报告进展并防止其他客户数据受损\n亮点 法院确认Nine PBS拥有档案所有权并提供取回路径。\n适合 法律与媒体从业者"
     },
     {
-      "title": "Clamiga: Common Lisp for the Amiga",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "summary": "核心 Clamiga 是首个在 Amiga 上运行的完整 Common Lisp，实现了 m68k 与 PPC 支持。\n要点 基于便携 C 的字节码 VM，无外部依赖；完整实现 Lisp 特性：CLOS、条件系统、REPL、调试器；跨平台支持 AmigaOS、MorphOS、macOS、Linux\n亮点 生成的 FASL 文件在 m68k 与 PPC 间可互相使用。\n适合 Lisp 开发者 与 Amiga 爱好者"
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "summary": "核心 Roboflow Playground 可零成本并排对比30+视觉模型，支持多任务。\n要点 同图同提示一次跑最多5个模型；支持目标检测、分类、OCR、字幕、开放提问等任务；覆盖主流厂商与开源模型。\n亮点 无需单独配置API，即可直观比较模型输出。\n适合 AI研发与产品经理"
     },
     {
-      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-      "summary": "核心 1963年塑料机械计算机Digi-Comp 1，演示机械逻辑运算。\n要点 采用塑料与橡皮筋实现逻辑门；无需电源，仅靠机械运动完成计算；可手动组装，直观学习计算原理。\n亮点 机械结构可视化展示布尔运算。\n适合 硬件爱好者与教育者"
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "summary": "核心 Speko 提供多语言语音模型路由，按实际准确率和成本自动选型。\n要点 支持多语言模型基准对比；统一 API 网关简化调用；按成本与错误率自动选模型\n亮点 通过实时 WER 与每分钟费用对比，实现性价比最优模型自动选择。\n适合 AI/语音工程师"
     },
     {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "summary": "核心 St. Lucie核电站1号机组因3根控制棒意外下沉，已手动紧急停堆。\n要点 三根控制棒意外掉入堆芯触发自动停堆；操作员立即手动关闭反应堆；现场未检测到放射性泄漏，情况受控。\n亮点 近期美国核电站首次出现此类手动停堆。\n适合 能源安全与核电工程师"
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "summary": "核心 作者迁移至Fastmail后体验良好，组织、域名、匿名邮件等功能超出预期\n要点 使用子域名地址实现自动分类；支持多达100个自定义域名；掩码邮件可随时屏蔽\n亮点 子域名地址自动归档，无需手动规则\n适合 个人用户与技术爱好者"
+    },
+    {
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "summary": "核心 印度将对UPI商户交易收取费用，可能终结免费支付模式。\n要点 政府拟设0.3‑0.5%商户费率，限大额交易；消费者和个人转账仍保持免费；收费或抑制小微商户，影响UPI扩张\n亮点 UPI年交易额近30万亿元，商户费率首次提出\n适合 产品/金融/支付从业者"
     }
   ],
   "gh_repos": [
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
-      "stars": 7,
+      "description": "基于官方 DeepSeek Harness 的 Electron 桌面端，深度适配 macOS 与 Windows，提供最佳的开箱即用体验。",
+      "stars": 9,
       "language": "TypeScript",
       "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
     },
     {
+      "name": "amirappleidfd-stack/spider--panel",
+      "url": "https://github.com/amirappleidfd-stack/spider--panel",
+      "description": "暂无描述",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14 MB 基础模型，适用于小型设备；手机、可穿戴设备、智能家居和机器人。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿，包含原生形状、转场、动画、按需生成的数据图表和表格、演讲稿音频旁白，并支持自定义 .pptx 模板。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "larashero3-dotcom/lieflat-charts",
+      "url": "https://github.com/larashero3-dotcom/lieflat-charts",
+      "description": "面向 AI Agent 的数据可视化技能，将数据快速生成精致、可交互的 HTML 图表。",
+      "stars": 1,
+      "language": "HTML",
+      "description_original": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。"
+    },
+    {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 5,
+      "description": "提供 29 种用于 Claude Code 的编辑图表类型，采用独立的 HTML + SVG，无阴影、无 Mermaid 低质量实现。",
+      "stars": 2,
       "language": "HTML",
       "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
     },
     {
-      "name": "lidge-jun/opencodex",
-      "url": "https://github.com/lidge-jun/opencodex",
-      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
-    },
-    {
-      "name": "emilkowalski/skills",
-      "url": "https://github.com/emilkowalski/skills",
-      "description": "Skills for Design Engineers.",
-      "stars": 3,
-      "language": "Unknown",
-      "description_original": "Skills for Design Engineers."
-    },
-    {
-      "name": "12britz/awesome-free-models",
-      "url": "https://github.com/12britz/awesome-free-models",
-      "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-      "stars": 2,
-      "language": "Unknown",
-      "description_original": "A curated list of free AI models, APIs, and tools you can use without paying a cent."
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
-    },
-    {
-      "name": "ChartGPU/ChartGPU",
-      "url": "https://github.com/ChartGPU/ChartGPU",
-      "description": "Beautiful, open source, WebGPU-based charting library",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "Beautiful, open source, WebGPU-based charting library"
-    },
-    {
-      "name": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "The open-source alternative to Claude Cowork (powered by opencode)"
-    },
-    {
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
-    },
-    {
       "name": "internet-court/internet-court-skill",
       "url": "https://github.com/internet-court/internet-court-skill",
-      "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+      "description": "面向 Agent 间交易的信任层——自然语言授权、ERC‑7710 委托权限、x402 支付、托管及争议解决，统一为开放的 Agent Skill / Claude Code 插件。",
       "stars": 2,
       "language": "TypeScript",
       "description_original": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin."
     },
     {
-      "name": "herdrdev/herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "stars": 2,
-      "language": "Rust",
-      "description_original": "the runtime your coding agents live on"
-    },
-    {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
-    },
-    {
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
-    },
-    {
-      "name": "xingkongliang/skills-manager",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "stars": 2,
-      "language": "Rust",
-      "description_original": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
-    },
-    {
-      "name": "docling-project/docling-graph",
-      "url": "https://github.com/docling-project/docling-graph",
-      "description": "Transform unstructured documents into validated, rich and queryable knowledge graphs.",
+      "name": "arvin341az-glitch/RVG",
+      "url": "https://github.com/arvin341az-glitch/RVG",
+      "description": "暂无描述",
       "stars": 1,
       "language": "Python",
-      "description_original": "Transform unstructured documents into validated, rich and queryable knowledge graphs."
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 2,
+      "language": "JavaScript",
+      "description_original": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "移除多厂商 AI 溯源标记：Unicode 文本清理、统计性重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+    },
+    {
+      "name": "hydra-db/hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB —— 基于对象存储的高速图数据库。",
+      "stars": 2,
+      "language": "Rust",
+      "description_original": "HydraDB - fast graph database on object storage"
     },
     {
       "name": "pathwaycom/arc-task-gen",
       "url": "https://github.com/pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "description": "生成与公开评估集分布匹配的原始 ARC‑AGI‑1 风格任务。",
       "stars": 2,
       "language": "Python",
       "description_original": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set."
     },
     {
-      "name": "titanwings/colleague-skill",
-      "url": "https://github.com/titanwings/colleague-skill",
-      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+      "name": "43PR/dotfiles",
+      "url": "https://github.com/43PR/dotfiles",
+      "description": "Arch Linux Hyprland 配置——简约美化。",
       "stars": 2,
-      "language": "Python",
-      "description_original": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+      "language": "CSS",
+      "description_original": "Arch Linux Hyprland  - Simple rice"
     },
     {
-      "name": "Yu9191/wloc",
-      "url": "https://github.com/Yu9191/wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标，支持 Surge / Quantumult X / Loon / Stash，快捷指令一键设置/恢复定位。",
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB 轻量级跨平台数据库客户端，支持 70+ 数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 与达梦，内置 AI、MCP Server、CLI、桌面版和 Docker。",
       "stars": 1,
-      "language": "JavaScript",
-      "description_original": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+      "language": "Rust",
+      "description_original": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
     },
     {
-      "name": "openchamber/openchamber",
-      "url": "https://github.com/openchamber/openchamber",
-      "description": "OpenCode AI 代理的桌面和网页界面",
+      "name": "CalvinXKY/InfraTech",
+      "url": "https://github.com/CalvinXKY/InfraTech",
+      "description": "分享 AI 基础设施知识与代码练习，涵盖 PyTorch、vLLM/SGLang、slime/vime 框架入门、性能加速、大模型基础、AI 软硬件等。",
+      "stars": 1,
+      "language": "Jupyter Notebook",
+      "description_original": "分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等"
+    },
+    {
+      "name": "xr843/insect-world",
+      "url": "https://github.com/xr843/insect-world",
+      "description": "交互式 3D 昆虫野外指南，收录 60 种、14 条目，所有模型在浏览器中使用 TypeScript + Three.js 程序化生成，仓库不包含模型或纹理文件。",
       "stars": 1,
       "language": "TypeScript",
-      "description_original": "Desktop and web interface for OpenCode AI agent"
+      "description_original": "Interactive 3D insect field guide: 60 species across 14 orders, every body procedurally generated in the browser with TypeScript + Three.js — no model or texture files in the repo."
     },
     {
-      "name": "KKKKhazix/khazix-skills",
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "description": "数字生命卡兹克开源的 AI 技能合集 | 代理技能：leader（帮你定义目标）、neat-freak（洁癖）、hv-analysis、khazix-writer 等 — Claude Code、Codex 以及 40 多个代理。",
+      "name": "whiteguo233/OpenBiliClaw",
+      "url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent，先深度了解用户，再主动在 B 站、小红书、抖音、YouTube、X、知乎、Reddit 等平台搜寻用户感兴趣的内容。",
       "stars": 1,
       "language": "Python",
-      "description_original": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents"
+      "description_original": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms."
+    },
+    {
+      "name": "yuanzhongqiao/printfilm",
+      "url": "https://github.com/yuanzhongqiao/printfilm",
+      "description": "短剧平台，提供 AI 短片动画漫画生成与工业级 AI 动态漫画及视频工作台。",
+      "stars": 1,
+      "language": "Java",
+      "description_original": "短剧平台 AI Short Film  Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench"
+    },
+    {
+      "name": "tornadus/frlg-ldn-trade",
+      "url": "https://github.com/tornadus/frlg-ldn-trade",
+      "description": "概念验证：使用真实 Switch/Switch 2 通过本地无线（LDN）在 FRLG 中进行电脑自动交易。",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "Proof-of-concept: a computer trading in FRLG with a real Switch/Switch 2 over local wireless (LDN)"
     }
   ]
 }
