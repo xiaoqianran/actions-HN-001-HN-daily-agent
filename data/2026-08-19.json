@@ -1,245 +1,245 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T00:09:07.331549+00:00",
+  "generated_at": "2026-08-19T23:00:37.611897+00:00",
   "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "summary": "核心 OpenRouter与Stripe合作，保持独立加速服务提升\n要点 OpenRouter保持中立，功能和路线不变；借助Stripe金融基础设施，提升支付与防欺诈能力；加速模型生态，帮助开发者更快接入AI模型\n亮点 Stripe的全球支付与防欺诈能力将助OpenRouter快速扩张\n适合 AI开发者"
     },
     {
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "summary": "核心 Go 1.27发布，新增泛型方法、结构体字面量键支持及函数类型推断。\n要点 支持泛型方法，简化不同整数类型实现；结构体字面量键可直接使用嵌套字段；函数类型推断全场景适用，省去显式类型参数\n亮点 size‑specialized 内存分配将小对象分配提升约30%\n适合 后端开发工程师"
     },
     {
-      "title": "Companies promote incompetent employees to management tolimit damage they can do",
-      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-      "summary": "核心 公司常把表现差的员工晋升为管理，以削减其对业务的直接危害。\n要点 通过提升到管理层让低效员工远离核心工作；技术与管理能力不同，缺一不可；现代公司推双轨制，避免强迫工程师做管理\n亮点 双轨职业路径帮助保留技术人才，防止误晋升。\n适合 后端/前端/技术管理"
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "summary": "核心 Unsloth Dynamic 3.0 GGUF 量化提升10%精度，同等体积超越其他提供商。\n要点 Qwen3.8-27B 动态量化模型发布；采用高质量 imatrix 校准数据，后训练量化无 QAT；在 Divergence-300 与 KL 散度上比同类模型高约10%\n亮点 5 天下载超 510 万次，验证实用性。\n适合 AI 研发与模型部署工程师"
     },
     {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "summary": "核心 硬件USB代理改写序列号并换滚筒，解锁废弃Cricut Maker，恢复全功能。\n要点 更换损坏滚筒并使用热水软化安装；使用RP2040做USB代理，改写序列号；USB CDC通信无加密，成功绕过机器锁定\n亮点 Cricut 序列号可通过USB层面直接篡改，轻松解除锁定。\n适合 硬件黑客/创客爱好者"
     },
     {
-      "title": "Being Ambitious and Being a Dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "核心 通过约20美元工具自行刷写BIOS，成功救活了因更新失败而变砖的Framework 13\" AMD 7040 笔记本。\n要点 BIOS更新失败致主板变砖，官方建议更换主板；使用约20美元SPI编程器自行拔除芯片刷写；成本低、成功恢复，提供完整操作指南。\n亮点 仅花约20美元即可自行恢复变砖笔记本。\n适合 硬件维修爱好者"
-    },
-    {
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
-      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "summary": "核心 土耳其萨迪斯发现约2500年前巨型雕像，揭示古代吕底亚服饰与艺术。\n要点 雕像高约七英尺，分两块出土；兼具希腊与波斯风格，服饰组合前所未见；作为罗马铺路石保存完好，提供古代社会生活线索\n亮点 雕像服饰混搭揭示吕底亚独特衣冠语言\n适合 考古与历史爱好者"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Find Chicago Parking Cops",
-      "url": "https://www.secondcitycitation.com",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "summary": "核心 一个玩笑域名促成业余气球追踪平台，意外卷入军事情报与国际争端\n要点 源于玩笑域名 sondehub.org 的重定向；追踪探空仪数据，意外定位军用发射点；气球事件让平台卷入美中军事争议\n亮点 平台的逆向预测可定位隐藏的军用气球发射点\n适合 安全与数据分析工程师"
+    },
+    {
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
       "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "summary": "核心 Casio F-B100W-1A 手表的官方产品页面，提供产品信息并支持在线购买。\n要点 展示手表外观与规格；可加入购物车完成购买；使用必要 cookies 保证功能\n亮点 页面通过缓存和负载均衡提升加载速度\n适合 产品/电商运营人员"
+    },
+    {
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "summary": "核心 winstart.bat 在 Windows 启动时由虚拟机管理器执行，仅在 Windows 虚拟机加载 TSR。\n要点 在系统虚拟机初始化后运行；仅在 Windows 虚拟机加载 TSR；可为 Windows 程序加载驱动，释放 DOS 内存。\n亮点 文档最早出现在 Windows 3.1 资源套件，早于 Windows 95。\n适合 系统/底层/历史爱好者"
+    },
+    {
+      "title": "Pressed Penny Machine Map",
+      "url": "https://pennypresses.net/home/map.php",
+      "summary": "核心 全国及国际压印硬币机地图，交互查询2000余台位置。\n要点 基于Leaflet和OpenStreetMap的交互地图；支持半径搜索并显示机器列表；提供机器地址及图案详情。\n亮点 地图覆盖2000台机器，可按距离快速定位。\n适合 硬币收藏爱好者"
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "summary": "核心 用几何指纹和 CUDA 加速在全球 OSM 数据中定位热带小岛。\n要点 三步构建像素三角指纹；四层过滤与聚类筛选候选；GPU 并行搜索三角匹配。\n亮点 首次将 CUDA 用于海岛几何匹配，搜索速度提升数百倍。\n适合 安全与 OSINT 从业者"
+    },
+    {
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "summary": "核心 Ornith-1.5自生成任务、支架、回滚实现闭环提升，三规模模型均达开源SOTA。\n要点 自我生成更难任务，持续扩展学习边界；任务专属支架提升解题效率；三规模模型在推理、编码、代理任务上均达开源SOTA。\n亮点 9B模型可在手机部署，性能媲美数十倍大模型。\n适合 AI 研究员与工程师"
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "summary": "核心 探讨AI时代数学研究的目标与价值，提出应对策略。\n要点 假设AI已能完成研究级任务；分析数学研究的根本目标；以问题求解为案例探讨价值取向\n亮点 提出数学价值应聚焦于问题求解的深度与创新。\n适合 数学研究者/AI科研人员"
+    },
+    {
+      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
+      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+      "summary": "核心 便携低功耗模拟Geiger计数器，使用大管实现高灵敏度\n要点 采用大尺寸J306β管，背景计数88cpm，灵敏度高；纯模拟电路，配合低通滤波，实现4.4s/0.44s平均；V电池供电，功耗约5mA，便携省电\n亮点 仅5mA电流即可驱动大型Geiger管，实现高灵敏度便携检测\n适合 电子爱好者与硬件工程师"
+    },
+    {
+      "title": "Rules of good social skills (2025)",
+      "url": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
     }
   ],
   "gh_repos": [
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "基于官方 DeepSeek Harness 的 Electron 桌面客户端，深度适配 macOS 与 Windows，提供最佳的即开即用体验。",
-      "stars": 12,
+      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
+      "stars": 9,
       "language": "TypeScript",
       "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
     },
     {
-      "name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "独立审计 AI 代理，由人或代理自行运行，快速回答 AI 代理经济中的关键问题：代理是否按预期执行？使用 iFixAi 可在 120 秒内得到答案。",
-      "stars": 6,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "针对 Claude Code 的 29 种编辑图表类型，自包含 HTML + SVG，无阴影，也没有 Mermaid 的低劣实现。",
+      "stars": 10,
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 8,
       "language": "Python",
-      "description_original": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+      "description_original": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
     },
     {
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "去除多厂商 AI 源信息标记：Unicode 文本清理、统计重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据。",
-      "stars": 5,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "自我进化的 AI 代理上下文数据库，统一代理记忆、知识检索增强生成（RAG）和技能。",
+      "stars": 7,
       "language": "Python",
-      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
-    },
-    {
-      "name": "internet-court/internet-court-skill",
-      "url": "https://github.com/internet-court/internet-court-skill",
-      "description": "面向代理间交易的信任层——自然语言指令、ERC-7710 委托权限、x402 支付、托管与争议解决，统一为开放的 Agent Skill / Claude Code 插件。",
-      "stars": 5,
-      "language": "TypeScript",
-      "description_original": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin."
-    },
-    {
-      "name": "openTrinity/mycontext",
-      "url": "https://github.com/openTrinity/mycontext",
-      "description": "MyContext 是一款本地优先的桌面应用，支持日常沟通与知识工作。",
-      "stars": 4,
-      "language": "TypeScript",
-      "description_original": "MyContext is a local-first desktop app for everyday communication and knowledge work"
-    },
-    {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "逆向工程、授权渗透测试与安全研究技能路由包，提供 AI 驱动的路由、按需工具链自举和自我进化知识库，兼容 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端。",
-      "stars": 4,
-      "language": "PowerShell",
-      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+      "description_original": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
     },
     {
       "name": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "description": "Orca 是用于管理并行代理群的 ADE，支持使用个人订阅运行任意编码代理，提供桌面和移动端版本。",
-      "stars": 3,
+      "description": "Orca 是用于与一组并行代理协作的 ADE，您可使用自己的订阅运行任何编码代理，支持桌面端和移动端。",
+      "stars": 6,
       "language": "TypeScript",
       "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
     },
     {
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "提供美观且可验证的架构、工作流、序列、数据流和生命周期图的 Agent 技能，生成带动画的独立 HTML 并支持高质量导出。",
-      "stars": 3,
-      "language": "HTML",
-      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
-    },
-    {
-      "name": "lightningpixel/modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "description": "桌面应用，利用本地 AI 将图像生成 3D 模型，全部在本机 GPU 上运行。",
-      "stars": 3,
-      "language": "TypeScript",
-      "description_original": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
-    },
-    {
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "description": "开源全能 AI 代理工作空间，可在 100+ 集成 + MCP 的工具、应用、浏览器和文件中运行任意代理（如 Claude Code、Codex），共享记忆，支持内置模型或自带密钥。",
-      "stars": 3,
-      "language": "TypeScript",
-      "description_original": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "暂无描述",
-      "stars": 2,
-      "language": "TypeScript",
-      "description_original": "暂无描述"
-    },
-    {
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️一个用 Rust 编写的本地优先、原生的 Logitech Options+ 替代品——通过 HID++ 重新映射按钮、DPI 和 SmartShift，无需账户，也没有遥测。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
     },
     {
       "name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 3,
+      "stars": 4,
       "language": "Python",
       "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
     },
     {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "name": "arvin341az-glitch/RVG",
+      "url": "https://github.com/arvin341az-glitch/RVG",
+      "description": "暂无描述",
       "stars": 2,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "本地多代理工具",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "local multi-agent harness"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能——随时在工作中学习、参考和使用。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "永不停止编码。免费 MIT AI 网关：单一端点，覆盖 290 多家提供商（其中 90 多家免费），提供 500 多种模型——包括 Kimi、Claude、GPT、OpenAI、Gemini、GLM、DeepSeek、MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 与 Copilot。具备配额感知的自动回退、RTK+Caveman 压缩可节省 ",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "独立审计 AI 代理。由人类或代理自身运行，以回答 AI 代理经济中最关键的问题：代理是否在按预期执行？使用 iFixAi，您可在不到 120 秒内得到答案。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "数百个模型和提供商。只需一条命令即可查找在你的硬件上可运行的模型。",
+      "stars": 4,
       "language": "Rust",
-      "description_original": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      "description_original": "Hundreds of models & providers. One command to find what runs on your hardware."
     },
     {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "去除文本中 AI 生成写作痕迹的代理技能",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "Agent skill that removes signs of AI-generated writing from text"
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "开源一体化 AI 代理工作空间，可在工具、应用、浏览器和文件中运行任意代理（如 Claude Code、Codex），支持共享记忆，内置模型或自带密钥。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK."
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "开源、低成本的 10.5 GHz PLFM 相控阵雷达系统。",
+      "stars": 4,
+      "language": "PLSQL",
+      "description_original": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+    },
+    {
+      "name": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "description": "你的编码代理运行的运行时环境。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "the runtime your coding agents live on"
+    },
+    {
+      "name": "vibeinging/deepseek-harness-desktop-app",
+      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+      "description": "DeepSeek Harness 桌面应用：本地 AI 桌面工作空间，支持 DSH 会话、项目、文件、网络研究、插件和 Office 产出。",
       "stars": 3,
-      "language": "HTML",
-      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
-    },
-    {
-      "name": "dnshe/DNSHE-FreeDomains",
-      "url": "https://github.com/dnshe/DNSHE-FreeDomains",
-      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
-      "stars": 2,
-      "language": "Unknown",
-      "description_original": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)"
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
-      "name": "didilili/ai-agents-from-zero",
-      "url": "https://github.com/didilili/ai-agents-from-zero",
-      "description": "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化",
-      "stars": 2,
-      "language": "Python",
-      "description_original": "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化"
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 2,
       "language": "JavaScript",
-      "description_original": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+      "description_original": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "防止编码代理隐藏答案的技能，提供适合 ADHD 的输出。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI 将文档或主题转换为真实的原生 PowerPoint 演示文稿，具备原生形状、转场、动画，按需生成数据驱动的图表和表格，支持从讲稿生成音频旁白，并兼容自定义 .pptx 模板。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "BetterWright/betterwright",
+      "url": "https://github.com/BetterWright/betterwright",
+      "description": "为 AI 代理提供持久且受策略保护的 Playwright 浏览器，具备网络策略、加密凭证库、截图证明和验证码破解功能。",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "A persistent, policy-guarded Playwright browser for AI agents — network policy, encrypted credential vault, proof screenshots, and CAPTCHA solving."
     }
   ]
 }
