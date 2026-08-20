@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T23:34:23.686157+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "summary": "核心 GitHub 8月17日因流量峰值导致关键设施容量不足，触发7小时多的全平台中断。\n要点 流量新高超出中心美国数据中心扩展能力；认证、Actions、Copilot 等受阻并触发重试风暴；已增 300 万 CPU 核心、120PB 存储，58% 负载迁至 Azure。\n亮点 Azure 已承担 GitHub 超过半数平台负载，显著提升可用性。\n适合 后端/平台/运维工程师"
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "summary": "核心 Consumer Rights Wiki 推出多项编辑与管理员功能升级，提升安全与用户体验。\n要点 新增反馈按钮同步至讨论页；加入“Your impact”面板显示编辑数据；管理员可使用批量回滚与锁定模式\n亮点 首次支持临时账号编辑，隐藏 IP 提升隐私。\n适合 产品/内容编辑与社区运营"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "summary": "核心 生物应被呈现为探索生命奥秘的奇妙旅程，而非死记硬背。\n要点 用课堂未探讨细胞分化原理；艾弗里实验证明核酸是转化因子；将细胞比作递归程序提升兴趣\n亮点 细胞可视作递归自修改的 Lisp 程序。\n适合 科普与教育工作者"
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "summary": "核心 Huzzah 将 AI 编码从长文本指令改为持久的伪代码编辑。\n要点 伪代码为声明式、持久化的提示；保存文件即触发代码生成和差分更新；同一伪代码可生成多语言实现\n亮点 伪代码本身充当文档，提升可读性与跨语言复用\n适合 AI 开发者 与全栈工程师"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "summary": "核心 Swartz因下载学术文献被严惩，Meta大规模抓取书籍却几乎免责。\n要点 Swartz下载JSTOR文献被起诉，面临重刑；Meta抓取80TB书籍训练AI，仅受轻微诉讼；作者批评法律对个人与大企业的双重标准\n亮点 Meta利用盗版书籍训练AI，却几乎不受惩罚\n适合 安全/法律/AI从业者"
+    },
+    {
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "summary": "核心 HTML 用 popover、dialog、details、command 等属性实现交互，无需 JavaScript。\n要点 popover 与 popovertarget 实现弹出层，轻量关闭；<dialog> 支持模态对话框，可用 form 或 popover 控制；details name 组合手风琴，command/commandfor 控制弹层\n亮点 仅靠 HTML 即可完成常见交互，显著降低脚本依赖。\n适合 前端开发者"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "summary": "核心 CIA在80年代为NeXT提供资金，帮助其度过危机。\n要点 CIA通过“技术情报计划”向NeXT注资；资金支持NeXT研发先进操作系统；这笔投入间接促成后来的Apple收购。\n亮点 揭示情报机构对硅谷早期创新的直接影响。\n适合 技术/创业/历史爱好者"
+    },
+    {
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "summary": "核心 SpacetimeDB 2.0 将数据库与应用服务器合一，营销夸张但基准存争议。\n要点 采用全栈 DB+代码部署模式；官方基准对比不公平，实际性能差距大；需通过技术文档说明权衡而非夸张宣传\n亮点 唯一亮点是将业务逻辑直接嵌入数据库，实现零延迟调用\n适合 后端与全栈开发者"
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Citizen Devs: Everyone is an engineer now",
+      "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Code as an Artifact",
+      "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "arvin341az-glitch/RVG",
+      "url": "https://github.com/arvin341az-glitch/RVG",
+      "description": "暂无描述",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "提供 29 种 Claude Code 编辑图表，使用自包含的 HTML+SVG，无阴影、无 Mermaid 低劣实现。",
+      "stars": 12,
+      "language": "HTML",
+      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "原生、本地优先的 Logitech Options+ 替代品，使用 Rust 编写——通过 HID++ 重新映射按钮、DPI 和 SmartShift。无需账号，无遥测。",
+      "stars": 10,
+      "language": "Rust",
+      "description_original": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "面向 AI 代理的自进化上下文数据库，统一代理记忆、知识检索增强（RAG）和技能。",
+      "stars": 7,
+      "language": "Python",
+      "description_original": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "去除多厂商 AI 溯源标记：Unicode 文本清理、统计重写钩子以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据。",
+      "stars": 8,
+      "language": "Python",
+      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行代理群的 ADE，使用个人订阅即可运行任意编码代理，支持桌面和移动端。",
+      "stars": 7,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "walkinglabs/learn-harness-engineering",
+      "url": "https://github.com/walkinglabs/learn-harness-engineering",
+      "description": "Harness Engineering 入门教程，从零到一。",
+      "stars": 6,
+      "language": "TypeScript",
+      "description_original": "Harness engineering beginner tutorial, from 0 to 1"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "全球首个开源、具代理能力的视频制作系统，拥有 12 条制作流水线、100 多种工具、700 多个代理技能和制作知识文件。将 AI 编码助手转变为完整的视频制作工作室。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 的 Electron 桌面端，深度适配 macOS 与 Windows，提供最佳即开即用体验。",
+      "stars": 7,
+      "language": "TypeScript",
+      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
+    },
+    {
+      "name": "Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6",
+      "description": "J‑Space Cognition Suite V3.6 —— 基于 Anthropic J‑space 全局工作空间研究的 AI 认知增强技能。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "一个集体思维通信平台。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "A hive mind communication platform"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任何技术书籍 PDF 转换为 Claude Code 技能——随时学习、参考并在工作中使用。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "为代理编码 CLI 提供长期记忆解决方案，并促进不同代理供应商之间的交接。",
+      "stars": 5,
+      "language": "Rust",
+      "description_original": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "name": "maka-agent/maka-agent",
+      "url": "https://github.com/maka-agent/maka-agent",
+      "description": "Maka — 本地优先的 AI 桌面助手",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Maka — local-first AI desktop assistant"
+    },
+    {
+      "name": "WenyuChiou/awesome-agentic-ai-zh",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "description": "一个三语（繁体中文 / 英文 / 简体中文）学习路线图，涵盖从 LLM 基础到多智能体系统的 agentic AI，提供 240 多个精选资源和实战示例。中文 AI 代理学习地图。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。"
+    },
+    {
+      "name": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "description": "OpenAI Codex 与 Claude Code 的通用提供者代理——使用任意 LLM（Claude、Gemini、Grok、DeepSeek、Ollama 等）配合 Codex CLI、应用、SDK 与 Claude Code。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，提供 Node.js 和 Python 绑定。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI 在屿智同行 — 面向状态感知的 SELF/COLLABORATE/HANDOFF 路由，用于 A2A 代理网络。",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "本地多智能体工具",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "local multi-agent harness"
+    },
+    {
+      "name": "getpaseo/paseo",
+      "url": "https://github.com/getpaseo/paseo",
+      "description": "Orchestrate multiple coding agents from desktop and mobile",
+      "stars": 3,
+      "language": "TypeScript",
+      "description_original": "Orchestrate multiple coding agents from desktop and mobile"
+    }
+  ]
+}
