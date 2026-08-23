@@ -1,245 +1,245 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T01:28:45.129921+00:00",
+  "generated_at": "2026-08-23T23:54:56.655256+00:00",
   "hn_count": 15,
   "gh_count": 20,
   "hn_articles": [
     {
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
       "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "summary": "核心 复杂系统本质危险，多层防御仍难阻多重失效导致灾难。\n要点 系统固有危害驱动多层安全防护；单点失效不足，需多重失效叠加才致灾；潜在缺陷持续存在，根因分析不可归于单一\n亮点 灾难源于多重小故障叠加，单一根因不存在。\n适合 安全与可靠性工程师"
+    },
+    {
+      "title": "A complex structure on S^6 [pdf]",
+      "url": "https://alpo.ge/s6.pdf",
       "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "NetBSD and My Life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
       "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "summary": "核心 文章阐述了攀岩安全带的概念，并将其类比到 AI 代理的 Harness，解释了其结构与功能。\n要点 攀岩安全带通过系带和环连接绳索保障安全；AI Harness 为模型提供系统提示、工具和行为框架；常见实现包括 Pi、OpenClaw、Lefos，支持多界面\n亮点 Harness 将 AI 模型与系统提示、工具链解耦，实现可插拔代理。\n适合 AI 开发者"
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "summary": "核心 Sal Khan的学习方式强调主动构建，而Khanmigo的“讲解式”教学未能实现真正学习。\n要点 学生需自己动手构建认知；Khanmigo使用被动观看，缺乏深度；教师引导与跨学科提问是关键\n亮点 Khanmigo失败说明仅靠AI讲解难以培养深度理解\n适合 教育技术与产品经理"
     },
     {
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "summary": "核心 Android 恶意软件通过车载中控固件更新植入，进行广告欺诈和代理僵尸网络。\n要点 恶意下载器多阶段，最终用于广告欺诈；通过 TWCore 系统应用的固件更新渠道植入；归属 MoYu 组织，检测名多达四种\n亮点 首次发现车载中控系统被恶意软件感染的完整链路\n适合 汽车安全与移动安全研究员"
     },
     {
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "summary": "核心 大语言模型生成代码过度测试，耗尽配额形成‘氛围税’。\n要点 LLM 自动生成代码，省时却耗尽 token；生成的测试覆盖极端场景，却几乎没有实际实现；‘氛围税’让普通开发者承担隐形成本。\n亮点 过度的 LLM 测试消耗大量 token，形成隐形成本。\n适合 AI 开发者"
     },
     {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "summary": "核心 去除商业软件臃肿，debloat.dev 汇聚开源替代方案。\n要点 分类展示新项目、热议项目和随机精选；每个项目标明替代软件、许可证、评分；支持用户评论和评分，帮助挑选。\n亮点 社区高评分项目如 Immich、Syncthing 等已广受好评。\n适合 开发者/开源爱好者"
     },
     {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "summary": "核心 推荐几本关于邪教、诈骗和阴谋的非虚构书籍\n要点 揭示邪教心理与组织手法；解析金融诈骗案例与防范；探讨历史阴谋与权力游戏\n亮点 提供实用防骗技巧与思维模型\n适合 对心理/安全/商业感兴趣的读者"
     },
     {
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "summary": "核心 用十岁儿童的视角解释复杂概念，约束激发创新并提升沟通\n要点 约束词汇提升创意，如Up Goer Five；专家去除行话，用简明语言避免误解；约束式设计可简化产品，如军装模块化\n亮点 用“像十岁孩子一样解释”促使专家降噪，提升沟通效果\n适合 产品经理与技术写作者"
     },
     {
-      "title": "Guess which of these LLM outputs is watermarked",
-      "url": "https://sgoedecke.github.io/watermark-quiz/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Decoding silent reading from non-invasive EEG",
+      "url": "https://arxiv.org/abs/2608.20186",
+      "summary": "核心 非侵入EEG可在静默阅读中解码开放词汇信息，表现随数据量提升。\n要点 记录约24万词，19通道干电极EEG；对比学习将EEG窗口对齐语言模型嵌入，检索显著高于随机；数据量对数线性提升，去除枕叶电极降约三分之一。\n亮点 首次证明非侵入EEG在静默阅读中可恢复开放词汇信息。\n适合 AI/认知科学/脑机接口研究者"
     },
     {
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "summary": "核心 椰子油生物燃料与传统航空煤油效率相当，排放更低\n要点 共溶剂法低能生产，纯度>97%；与煤油混合10‑50%效率相近，CO2相同；高比例降低未燃烃，燃料消耗略增\n亮点 利用废弃椰子原料，能耗低、产副产品\n适合 航空燃料研发工程师"
     },
     {
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "One night in Uzbekistan: Why was this one data point so influential?",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
-    },
-    {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+      "title": "Fable and the End of the Free Lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "summary": "核心 摩尔定律放缓后，需在模型成本与性能间权衡，Fable 高价促使转向更廉价模型。\n要点 Moore 定律放缓，单线程性能停滞，需关注并行化；Fable 性能强成本高，GLM5.2 仅1/9 成本足以编码；模型访问控制与数据保留引发企业对数据流向的审慎。\n亮点 GLM5.2 仅1/9 成本即可满足大多数编码需求。\n适合 AI 开发者与后端工程师"
     }
   ],
   "gh_repos": [
     {
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
-      "stars": 15,
-      "language": "TypeScript",
-      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "免费开源的 macOS 菜单栏工具包。",
+      "stars": 3,
+      "language": "Swift",
+      "description_original": "Free and open-source macOS menu bar toolkit."
     },
     {
-      "name": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": 14,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "将任意技术书籍 PDF 转换为 Claude Code 技能，可随时学习、查阅并在工作中使用。",
+      "stars": 3,
       "language": "Python",
-      "description_original": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+      "description_original": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
     },
     {
-      "name": "agentrhq/webcmd",
-      "url": "https://github.com/agentrhq/webcmd",
-      "description": "The Browser Infra that learns and cuts token spend by upto 90%",
-      "stars": 8,
-      "language": "JavaScript",
-      "description_original": "The Browser Infra that learns and cuts token spend by upto 90%"
-    },
-    {
-      "name": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "stars": 11,
-      "language": "Go",
-      "description_original": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
-    },
-    {
-      "name": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": 12,
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 编写，提供 Node.js 与 Python 绑定。",
+      "stars": 2,
       "language": "Rust",
-      "description_original": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
     },
     {
-      "name": "pathwaycom/arc-task-gen",
-      "url": "https://github.com/pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "stars": 11,
-      "language": "Python",
-      "description_original": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set."
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "在现有硬件上运行前沿 MoE 模型——纯 C 实现，无依赖，专家模型从磁盘流式加载。体积小巧，模型庞大。",
+      "stars": 2,
+      "language": "C",
+      "description_original": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
     },
     {
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": 9,
-      "language": "JavaScript",
-      "description_original": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "stars": 9,
+      "name": "bookorbit/bookorbit",
+      "url": "https://github.com/bookorbit/bookorbit",
+      "description": "BookOrbit：你的阅读空间。",
+      "stars": 2,
       "language": "TypeScript",
-      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+      "description_original": "BookOrbit: Your Reading Space"
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 10,
-      "language": "HTML",
-      "description_original": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
-    },
-    {
-      "name": "arvin341az-glitch/RVG",
-      "url": "https://github.com/arvin341az-glitch/RVG",
-      "description": "暂无描述",
-      "stars": 4,
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB 基础模型，适用于手机、可穿戴设备、智能家居和机器人等小型设备。",
+      "stars": 2,
       "language": "Python",
-      "description_original": "暂无描述"
+      "description_original": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "Untrivial-ai/agent-orchestrator",
+      "url": "https://github.com/Untrivial-ai/agent-orchestrator",
+      "description": "Agent IDE，帮助管理大量编码代理。内置代理编排器，可规划任务、生成代理，并自动处理 CI 修复、合并冲突和代码审查。",
+      "stars": 2,
+      "language": "Go",
+      "description_original": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews."
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "DeepSeek Harness (dsh) 插件精选列表。",
+      "stars": 2,
+      "language": "Python",
+      "description_original": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent-skills",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+      "description": "可复用的 Mercury、Open Claw 或 Hermes 代理技能注册表，面向真实开发工作流、持久记忆和高效 token 执行。",
+      "stars": 1,
+      "language": "JavaScript",
+      "description_original": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
+    },
+    {
+      "name": "lance0/ttl",
+      "url": "https://github.com/lance0/ttl",
+      "description": "快速现代的 traceroute，具实时 TUI、每跳统计、ASN/地理查询、ECMP 检测和 MPLS 标签解析。更好的 mtr。",
+      "stars": 1,
+      "language": "Rust",
+      "description_original": "Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr."
+    },
+    {
+      "name": "SHAdd0WTAka/Zen-Ai-Pentest",
+      "url": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+      "description": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+      "stars": 1,
+      "language": "Python",
+      "description_original": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️"
+    },
+    {
+      "name": "Steel-Foundation/SteelMC",
+      "url": "https://github.com/Steel-Foundation/SteelMC",
+      "description": "A Minecraft server in Rust focused on a strong foundation and performance",
+      "stars": 1,
+      "language": "Rust",
+      "description_original": "A Minecraft server in Rust focused on a strong foundation and performance"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
     },
     {
       "name": "HiThink-Tech/Financial-API",
       "url": "https://github.com/HiThink-Tech/Financial-API",
-      "description": "同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data service providing real-time and historical stock market data, financial statements, indices, sectors and limit-up data for AI agents, quantitative research and application development.",
-      "stars": 9,
+      "description": "同花顺官方 A 股金融数据服务，提供实时与历史股票行情、财务报表、指数、板块及涨停数据，适用于 AI 代理、量化研究和应用开发，支持 API、MCP、CLI 与 Python。",
+      "stars": 1,
       "language": "TypeScript",
       "description_original": "同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data service providing real-time and historical stock market data, financial statements, indices, sectors and limit-up data for AI agents, quantitative research and application development."
     },
     {
-      "name": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "stars": 8,
+      "name": "kaishi00/hermes-conduit",
+      "url": "https://github.com/kaishi00/hermes-conduit",
+      "description": "Conduit — Hermes Agent 的原生 SwiftUI iOS 客户端",
+      "stars": 1,
+      "language": "Swift",
+      "description_original": "Conduit — native SwiftUI iOS client for Hermes Agent"
+    },
+    {
+      "name": "AnmolSaini16/mapcn",
+      "url": "https://github.com/AnmolSaini16/mapcn",
+      "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
+      "stars": 1,
       "language": "TypeScript",
-      "description_original": "Cursor plugin specification and official plugins"
+      "description_original": "Beautiful map components. 100% Free, Zero config, one command setup."
     },
     {
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 8,
+      "name": "axoviq-ai/synthadoc",
+      "url": "https://github.com/axoviq-ai/synthadoc",
+      "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
+      "stars": 1,
       "language": "Python",
-      "description_original": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+      "description_original": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools."
     },
     {
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 7,
+      "name": "HarnessRouter/harnessrouter",
+      "url": "https://github.com/HarnessRouter/harnessrouter",
+      "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
+      "stars": 1,
       "language": "Python",
-      "description_original": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      "description_original": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure."
     },
     {
-      "name": "FailproofAI/failproofai",
-      "url": "https://github.com/FailproofAI/failproofai",
-      "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
-      "stars": 5,
-      "language": "TypeScript",
-      "description_original": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally."
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 4,
-      "language": "JavaScript",
-      "description_original": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
-    },
-    {
-      "name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "stars": 5,
-      "language": "Python",
-      "description_original": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "stars": 6,
-      "language": "Python",
-      "description_original": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)"
-    },
-    {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 6,
-      "language": "PowerShell",
-      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 6,
+      "name": "jlcodes99/cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "stars": 1,
       "language": "Rust",
-      "description_original": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      "description_original": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+      "stars": 1,
+      "language": "TypeScript",
+      "description_original": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
     }
   ]
 }
