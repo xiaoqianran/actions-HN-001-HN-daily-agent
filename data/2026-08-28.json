@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T07:37:47.399228+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "核心 通过五次结构优化，1.1.1.1 DNS 缓存每条记录空间减半，累计释放约 100TB 内存并提升性能。\n要点 去除 Vec 容量字段，节省每条 8 字符；压缩时间戳与计数类型，进一步降低结构体开销；自定义分配器监测，插入提升 43%，查询延迟降 19%\n亮点 单字节浪费累计 250GB，优化后释放约 100TB。\n适合 后端与基础设施工程师"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "summary": "核心 小模型性能提升，成本低至十美分，开启消费AI新局面。\n要点 Luna 每秒约100次请求，速度快；费用降至约0.1美元，适合日常应用；快速/廉价模型将推动企业和消费产品落地。\n亮点 单次调用成本约0.1美元，足以支撑消费级AI服务。\n适合 AI产品经理与创业者"
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "summary": "核心 OpenTIE 将《TIE 战机》移植至 Windows、macOS、Linux，融合 1995 与 1998 版优势。\n要点 支持原版数据，分别使用 1995 菜单/剪辑和 1998 飞行模拟；重现 iMUSE 自适应音乐，可用 SC-55 或 SoundFont；提供经典与现代图形模式，支持 HDR、光影等高级渲染。\n亮点 可将 1995 的交互式音乐与 1998 的飞行体验无缝结合。\n适合 复古游戏玩家"
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "summary": "核心 GoGoGrandparent招聘远程资深后端工程师，专注Node.js/TS，帮助老年人独立生活。\n要点 负责Node.js/TS后端功能设计，实现高性能可扩展；全流程负责需求到部署监控，推动代码重构提升可靠性；远程岗位，薪资80‑180k+奖金，含美式福利与年假。\n亮点 使用Node、TS、AWS等现代技术，服务数万老年用户。\n适合 资深Node后端工程师"
+    },
+    {
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+      "url": "https://github.com/IndexFlowing/IndexFlow-core",
+      "summary": "核心 总结失败：Request timed out.\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "用于生成美观且可验证的架构、工作流、时序、数据流和生命周期图的 Agent 技能——自包含的 HTML，支持动画和高质量导出。",
+      "stars": 29,
+      "language": "HTML",
+      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 15,
+      "language": "JavaScript",
+      "description_original": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "在浏览器中运行的间谍卫星模拟器，数据真实，实时开源空间情报呈现在逼真的 3D 地球仪上。",
+      "stars": 11,
+      "language": "JavaScript",
+      "description_original": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "您的个人 AI 超级智能。一个构建您生活本地优先记忆的大脑，出色的代理舰队与工作流编排者，以及深度研究者。",
+      "stars": 6,
+      "language": "Rust",
+      "description_original": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "全球首个开源、具代理能力的视频制作系统，拥有12条制作流水线、100+工具、700+代理技能和制作知识文件，可将你的 AI 编码助手转变为完整的视频制作工作室。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "description": "暂无描述",
+      "stars": 6,
+      "language": "Rust",
+      "description_original": "暂无描述"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "自组织 AI 第二大脑，适用于 Obsidian + Claude Code。将任意来源投入，Claude 会读取、链接并将其整理为您拥有的纯 Markdown 连接知识图谱。实现 AI 笔记、个人知识管理（PKM），并提供开源的 Notion 替代方案，基于 Karpathy 的 LLM Wiki 模式。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern."
+    },
+    {
+      "name": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "学习它，构建它，为他人交付。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "一个精心收集的 1000 多项代理技能集合，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。",
+      "stars": 4,
+      "language": "Unknown",
+      "description_original": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理一组并行代理的 ADE，可使用您自己的订阅运行任何编码代理，支持桌面端和移动端。",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "针对 DeepSeek Harness (dsh) 的精选插件列表",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+    },
+    {
+      "name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "轻量、灵活且永久免费——AWS 本地模拟器的替代方案",
+      "stars": 4,
+      "language": "Java",
+      "description_original": "Light, fluffy, and always free - The AWS Local Emulator alternative"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "在本机运行的求职工具。基于 Claude Code 的 AI 求职框架，可评估职位、定制简历、撰写求职信、准备面试，支持自行 Fork 使用。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "LilMGenius/paperthin",
+      "url": "https://github.com/LilMGenius/paperthin",
+      "description": "低层次的代理设计模式，将传统工程经验转化为代理自发使用的技巧，适用于任何代理。",
+      "stars": 4,
+      "language": "Shell",
+      "description_original": "Low-level agentic design patterns. Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent."
+    },
+    {
+      "name": "openJiuwen-ai/jiuwenswarm",
+      "url": "https://github.com/openJiuwen-ai/jiuwenswarm",
+      "description": "JiuwenSwarm 是基于 openJiuwen 构建的智能 AI 代理，通过日常使用的各类通讯应用，将大语言模型的强大能力直接呈现于指尖。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily."
+    },
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "stars": 3,
+      "language": "Python",
+      "description_original": "符合nature论文学术表达和科研绘图的Skill"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "将问题分配给 Claude Code、Codex、Cursor 等 17+ 编码代理，像团队成员一样协作——开源且可自托管。",
+      "stars": 4,
+      "language": "Go",
+      "description_original": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable."
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi 的开源技能集合，涵盖网页设计、知识检索、图像生成等多领域。",
+      "stars": 3,
+      "language": "CSS",
+      "description_original": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+    }
+  ]
+}
