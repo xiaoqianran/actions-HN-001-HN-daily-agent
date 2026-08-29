@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T04:17:04.406752+00:00",
+  "hn_count": 15,
+  "gh_count": 20,
+  "hn_articles": [
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "核心 使用 Apple Virtualization.framework 在 Apple Silicon 上一键创建并启动虚拟 iPhone\n要点 支持一键下载、打补丁、DFU恢复、安装CFW完整流程；提供五种固件变体，最高实现完整越狱并自动安装Sileo；可通过SSH、VNC远程连接，支持导入导出VM镜像\n亮点 单条命令即可完成从下载到首次启动的全链路\n适合 iOS安全与开发者"
+    },
+    {
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "summary": "核心 9th巡回法院认定体育赌注不受联邦swap保护，支持州监管Kalshi。\n要点 th巡回认体育赛事非“swap”，不受联邦商品法保护；推翻亚利桑那法官禁令，Kalshi可被州起诉；为亚利桑那等州恢复对Kalshi的20项刑事指控铺路。\n亮点 特朗普任命的三位法官统一认定州有监管权。\n适合 法律与合规从业者"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "核心 GUI 完全键盘操作可行，开发者应确保键盘可用性\n要点 GUI 能像 TUI 一样实现全键盘操作；GNOME 指南要求所有功能键盘可达；开发者只需少量投入即可提升体验\n亮点 键盘友好显著提升用户体验，非技术难题\n适合 前端与产品经理"
+    },
+    {
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "summary": "核心 苏美尔王表与古气候事件对齐未获统计显著支持。\n要点 采用11.6 ka锚点和高斯核评分；主目录p=0.35，校正后q=0.62不显著；最佳p=0.021但q=0.22仍不显著\n亮点 提供交互式对齐探索器，展示统计过程\n适合 历史与古气候研究者"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "核心 LLM 记忆转为增量程序分析，显著降低漏洞研究幻觉。\n要点 通过 Datalog 表示事实与规则，实现自动推理；记忆更新时可精准撤销受影响的结论；省去重复重建上下文，提高效率。\n亮点 实现增量式事实管理，自动失效旧结论。\n适合 安全研究员与 AI 开发者"
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "核心 htmx 4.0 正式发布，改用 fetch、显式属性继承并统一事件命名\n要点 属性继承需显式标记 :inherited；事件名称统一为 htmx:phase:action；默认不使用 localStorage 记录历史\n亮点 提供升级检查工具帮助迁移\n适合 前端开发者"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "核心 免费开源本地AI音轨分离工具，支持多种音频和YouTube。\n要点 一键拖拽或粘贴URL，自动分离至六轨（人声、鼓、贝斯等）；本地运行，基于Demucs，支持GPU/CPU加速；DAW式混音界面，可静音、独奏、导出自定义混音。\n亮点 完全本地处理，无需账号或网络上传。\n适合 音乐制作/爱好者/音频工程师"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "核心 OpenAI 将在2026年11月12日前终止与Cursor的模型供应合同，因担忧SpaceX违约。\n要点 通知SpaceX将在2026年11月12日停止模型供给；因担忧SpaceX违约，参考其公司历史违约行为；将最大化通知期并帮助开发者迁移\n亮点 OpenAI 承诺在过渡期提供全方位开发者支持\n适合 AI 开发者 与 产品经理"
+    },
+    {
+      "title": "Monzo Stand-In",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "summary": "核心 Monzo推出独立备份平台Stand‑in，确保全云故障下核心金融功能可用。\n要点 Stand‑in在GCP独立运行，拥有18个微服务，支持刷卡、转账等关键功能；主备平台服务互不共享，避免同步一致性瓶颈，采用最终一致；多云架构与不同实现降低同故障概率，提供额外恢复防线。\n亮点 在全云故障时仍能完成刷卡、转账等核心业务。\n适合 后端与基础设施工程师"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "summary": "核心 美国对A/I集体实施制裁，打击其免费数字自卫平台\n要点 成立于2001年，提供免费数字自卫服务；仅接受非商业请求，手动审核匿名处理；完全依赖自愿捐赠，拒绝数据商业化\n亮点 美国对其实施制裁，影响跨境服务\n适合 安全与隐私从业者"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "核心 TurboKV 是基于 Rust 的超高速异步嵌入式键值库，支持原子批处理和范围扫描。\n要点 异步 API 与 Tokio 完美集成；多种耐久性预设（fast、durable、paranoid）；支持压缩、Bloom‑filter 硬件 AES 与后台压实。\n亮点 使用硬件 AES 加速 Bloom‑filter，查询性能极致提升。\n适合 后端/系统/嵌入式 Rust 开发者"
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "summary": "核心 仅凭漏洞传闻，攻击者即可快速生成利用代码。\n要点 LLM 可在分钟内构造利用；公开 PR 即被探测；漏洞曝光到利用时间已为负天\n亮点 安全嵌 embargo 已失效，需逆转流程\n适合 安全研发与开源维护者"
+    },
+    {
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "summary": "核心 Orbify 推出基于 PlayCanvas 的弯曲地图演示，支持沉浸式 3D 导航。\n要点 键盘 W A S D 控制移动；左键拖拽平移，右键拖拽旋转；提供在线演示链接，接受合作与投资。\n亮点 专利待批的扭曲技术实现沉浸式导航。\n适合 前端与 3D 可视化工程师"
+    },
+    {
+      "title": "PPWR lands another blow to an precarious tabletop industry",
+      "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+      "summary": "核心 小型桌面RPG出版商因欧盟包装法规面临高额合规成本。\n要点 PPWR在27国统一实施，需缴纳各国包装费；合规费用累计导致部分出版社暂停欧盟发货；小企业缺乏资源，难以兼顾众筹奖励配送。\n亮点 部分独立出版已暂停欧盟销售，市场受冲击。\n适合 独立游戏出版者"
+    },
+    {
+      "title": "Experiments with Plotter Art",
+      "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+      "summary": "核心 模型返回空内容，请查看原文。\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": [
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "在浏览器中运行的间谍卫星模拟器，数据真实。提供实时开源空间情报，呈现在逼真的3D地球仪上。",
+      "stars": 28,
+      "language": "JavaScript",
+      "description_original": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "用于生成美观且可验证的架构、工作流、顺序、数据流和生命周期图的 Agent 技能——自包含的 HTML，支持动画和高质量导出。",
+      "stars": 33,
+      "language": "HTML",
+      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 12,
+      "language": "JavaScript",
+      "description_original": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "openJiuwen-ai/jiuwenswarm",
+      "url": "https://github.com/openJiuwen-ai/jiuwenswarm",
+      "description": "JiuwenSwarm 是基于 openJiuwen 构建的智能 AI Agent，通过日常使用的各种通信应用，将大型语言模型的强大能力直接呈现于指尖。",
+      "stars": 12,
+      "language": "Python",
+      "description_original": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily."
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca 是用于管理并行 Agent 群的 ADE，支持使用个人订阅运行任意编码 Agent，桌面端和移动端均可使用。",
+      "stars": 11,
+      "language": "TypeScript",
+      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "pathwaycom/arc-task-gen",
+      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "description": "生成与公开评估集分布匹配的原始 ARC-AGI-1 风格任务。",
+      "stars": 8,
+      "language": "Python",
+      "description_original": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "全球首个开源、具备 Agent 能力的视频制作系统，拥有 12 条制作流水线、100 多种工具、700 多个 Agent 技能和制作知识文件，可将 AI 编码助手转变为完整的视频制作工作室。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "workweave/router",
+      "url": "https://github.com/workweave/router",
+      "description": "面向 Agent 系统的模型路由器，能在 <50ms 内将每个提示路由至合适模型，仅更换端点即可降低 40-70% 成本。",
+      "stars": 5,
+      "language": "Go",
+      "description_original": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change."
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "为 Obsidian + Claude Code 提供自组织 AI 第二大脑，导入任意来源后 Claude 会读取、链接并整理为你拥有的纯 Markdown 连接知识图谱，实现 AI 笔记、个人知识管理（PKM），并作为开源 Notion 替代方案。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "在本机运行的求职工具，基于 Claude Code 的 AI 求职框架，可评估职位、定制简历、撰写求职信并准备面试，支持自行 Fork 使用。",
+      "stars": 6,
+      "language": "Python",
+      "description_original": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "description": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 与 PDF 转换为干净的 Markdown，使用 Rust 编写并提供 Node.js 与 Python 绑定。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+    },
+    {
+      "name": "Tencent/WeMM-Embedding",
+      "url": "https://github.com/Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
+      "stars": 4,
+      "language": "TypeScript",
+      "description_original": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。"
+    },
+    {
+      "name": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "一个开源模型网关，提供跨闭源、开源、本地和自定义模型的统一控制平面。",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "An open source model gateway that provides one control plane across closed, open-source, local, and custom models."
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 5,
+      "language": "TypeScript",
+      "description_original": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "学习它，构建它，为他人交付。",
+      "stars": 5,
+      "language": "Python",
+      "description_original": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "提供 38 种适用于 Claude Code、Codex 和 Pi 的编辑图表类型，采用自包含的 HTML + SVG，无阴影，也不使用 Mermaid 的低劣实现。",
+      "stars": 5,
+      "language": "HTML",
+      "description_original": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 4,
+      "language": "Python",
+      "description_original": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB 轻量级跨平台数据库客户端，支持 90 多种数据库，包括 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server 和达梦，内置 AI、MCP Server、CLI、桌面端和 Docker。",
+      "stars": 4,
+      "language": "Rust",
+      "description_original": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。"
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "暂无描述",
+      "stars": 4,
+      "language": "Swift",
+      "description_original": "暂无描述"
+    }
+  ]
+}
