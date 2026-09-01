@@ -1,240 +1,84 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T00:53:17.273314+00:00",
-  "hn_count": 14,
-  "gh_count": 20,
+  "generated_at": "2026-09-01T23:41:57.574224+00:00",
+  "hn_count": 15,
+  "gh_count": 0,
   "hn_articles": [
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "summary": "核心 Google 将 MV2 扩展全部下架，uBlock Origin 等被移除\n要点 所有 MV2 扩展已；无；无\n亮点 无\n适合 通用读者"
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "summary": "核心 Claude Fable 5.1 与 Claude Mythos 5.1 同模型不同安全级别，提升编码与科研能力并降低成本。\n要点 价格比前代低约25%，高强度任务省约45%；企业前沿安全(EFS)实现零数据保留；基准测试显著领先，编码科研表现最佳\n亮点 安全领域误报率下降60%，还能自动发现软件漏洞\n适合 AI/研发/安全/产品"
     },
     {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "summary": "核心 Darling 是在 Linux 上运行 macOS 软件的翻译层，实现直接运行，无需硬件模拟。\n要点 直接运行 macOS 程序，无需模拟器；完全开源，GPLv3 许可；已支持基础 GUI，计划支持 iOS\n亮点 实现完整 Darwin 环境，类似 Wine 但专注 macOS\n适合 Linux 开发者"
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "summary": "核心 呼吁支持 Firefox，维护浏览器引擎多样性，防止被 Chrome 垄断。\n要点 Firefox 市场份额持续下滑，需要新用户；失去 Firefox 将导致浏览器引擎单一化；呼吁用户和社区帮助推广 Firefox。\n亮点 Firefox 是唯一保持非 Chrome 内核的浏览器。\n适合 前端与产品经理"
     },
     {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "summary": "核心 数据造假导致2002年拖延研究无法复制\n要点 原始数据被篡改；作者拒绝提供真实数据；复制实验未复现原效应\n亮点 研究者请求撤稿，已进入审查程序\n适合 心理学与经济学研究者"
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "summary": "核心 Ed Zitron的AI悲观预测大多失准，主流科技公司仍在增长\n要点 预测Meta、Google、Microsoft将因AI而衰退；实际财报显示三公司收入利润均保持增长；作者指出其推理基于小问题夸大影响\n亮点 预测准确率低，AI并未导致大公司死亡\n适合 AI/产品/技术观察者"
     },
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "summary": "核心 把家中安防摄像头改造成实时鸟类识别系统\n要点 实时音频分析并自动推送鸟种；本地 Docker 部署，支持 RTSP 摄像头和多模型；可设警报、追踪物种并接 HomeAssistant\n亮点 本地离线运行，零费用识别上万鸟种\n适合 AI/硬件爱好者与鸟类观察者"
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "summary": "核心 Weedout 是 Safari 扩展，自动隐藏 YouTube 标记为 AI 制作的视频。\n要点 过滤首页、搜索、关联、播放列表及 Shorts 的 AI 视频；可选自动跳过 AI Shorts，或使用暗淡模式仅标记；本地运行，无账号、无追踪、无数据收集\n亮点 直接使用 YouTube 官方 AI 标记，无误判\n适合 前端/产品/内容创作者"
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "summary": "核心 网络售卖含剧毒的“疯狂蜂蜜”，可导致心脏停搏\n要点 含有格朗毒素，食用致心律失常；电商平台未标识风险；监管部门呼吁加强检测\n亮点 该蜂蜜致命剂量低，误食风险高\n适合 安全/健康/消费者"
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "summary": "核心 ChatGPT 桌面版捆绑完整 LibreOffice 等运行时\n要点 在 ~/.cache/codex-primary-runtime 中占 1.7GB；内置完整 Python、Node.js、Poppler、git 与 LibreOffice；插件提供文档处理技能\n亮点 LibreOffice 完整套件随应用本地化，无需额外安装\n适合 AI 开发者"
     },
     {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "summary": "核心 在燃烧人现场的改装电话亭，提供免费5分钟全球通话。\n要点 位于3:30与Ceiba路口的免费电话亭；可拨打全球任意号码5分钟免费；使用互联网实现通话并实时显示统计\n亮点 通过改装普通亭子实现免付费互联网通话\n适合 产品/活动策划/技术爱好者"
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "summary": "核心 Google Play 因捐赠链接不符合税免政策，要求 AnkiDroid 移除 Open Collective 链接。\n要点 Google 自8月28日起拒绝更新，若不整改将于9月11日下架；捐赠链接指向 Open Collective 为 501(c)(6) 非可抵税组织；开发者只能在 Play 版去除捐赠链接，其他渠道保留\n亮点 Google 明确只接受 501(c)(3) 类税免组织捐赠链接\n适合 Android 开发者"
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "summary": "核心 单文件 HTML 实现可漫游的 ASCII 赛博朋克城市。\n要点 使用纯 ASCII 渲染城市；实现街道、楼宇、人物交互；文件体积极小，可离线运行\n亮点 单文件即可完整体验赛博朋克城市，无需额外资源。\n适合 前端/全栈开发者"
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "summary": "核心 通过更换电池、备份硬盘、重装Win2000等步骤，成功翻新Tektronix TDS7104示波器。\n要点 更换CR2032备份电池并调节显示亮度；备份硬盘镜像后尝试SSD但因驱动不兼容放弃；使用虚拟机制作Win2000 U盘并用Plop启动。\n亮点 无需专业维修，个人即可恢复老旧示波器。\n适合 硬件维修与电子爱好者"
     },
     {
-      "title": "Lion-man – the oldest confirmed statue ever discovered",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "summary": "核心 Lion-man是约4万年前的猛犸象牙雕像，已确认是迄今最古老的完整人形雕塑\n要点 约35‑41千年碳年代测定，属上旧石器时代；由猛犸象牙用燧石刀刻制，左臂七道平行凿痕；年在德国霍伦斯坦洞穴发现，现藏乌尔姆博物馆\n亮点 首次确认的完整史前人形雕像，距今约4万年\n适合 考古与人类学爱好者"
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "summary": "核心 Astra 被认定为具备关键网络安全能力的模型，能够自主发现并利用零日漏洞。\n要点 自动识别并开发多系统零日漏洞；内部ExploitBench测试全得满分；加入强化拒绝与监控防止滥用\n亮点 首次模型在内部基准中发现两例零日并成功利用\n适合 安全研究员与AI工程师"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "summary": "核心 陶哲轩阐述数学的六大核心概念，帮助理解数学本质。\n要点 抽象与结构的思维方式；证明与严谨的逻辑框架；对称、随机与极限的直观\n亮点 六大概念覆盖几乎所有数学分支\n适合 数学学生与科研人员"
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "summary": "核心 Jujutsu 创始人 Martin von Zweigbergk 任 ERSC 首席技术官，推动新一代版本控制平台。\n要点 Martin von Zweigbergk 加入 ERSC 任 CTO；他是 Jujutsu 创始人，GitHub 超 3 万星；ERSC 本月启动私有 Beta，聚焦 AI 代码管理\n亮点 Jujutsu 创始人领衔，推动版本控制存储层创新。\n适合 后端/基础设施/DevOps"
     },
     {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "summary": "核心 Tcl/Tk 是跨平台的开源工具箱，可快速构建本地外观的 CLI 与 GUI 应用。\n要点 支持 Windows、Linux、macOS 原生界面；具备安全线程、非阻塞事件与 I/O；可生成单文件体积约 100 MB 的跨平台可执行文件。\n亮点 单文件可直接部署，省去繁琐打包步骤。\n适合 全栈开发者与系统工具作者"
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "summary": "核心 Firefox iOS 内置广告拦截功能，可屏蔽多数第三方广告和追踪器。\n要点 使用 WebKit 内容拦截和 EasyList 列表实现拦截；设置中可自行开启，默认关闭；仍会显示站点自有广告和搜索结果广告\n亮点 无需额外插件，直接在设置开启。\n适合 iOS 用户与产品经理"
     },
     {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "summary": "核心 在浏览器中使用激光指针和投影仪实现实时墙面绘画\n要点 投影仪+摄像头校准后映射激光点绘制；支持六种笔刷、3D旋转、滴墨等特效；完全网页运行，无需安装，开源MIT\n亮点 激光指针直接控制投影绘画，支持3D和特效\n适合 前端与创意交互工程师"
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "summary": "核心 Nori A3 低价双臂人形机器人，具备视觉、激光雷达与6‑8h续航。\n要点 +1自由度双臂，单臂承载1.5kg；配备4路720p摄像头、12m激光雷达；配套Nori Lab App，可本地训练与远程共享\n亮点 全套功能售价仅1688美元，面向开发者开放。\n适合 机器人/硬件/AI 开发者"
     },
     {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "summary": "核心 Dwarf Fortress 将推出前所未有的神话与魔法大更新，重塑宇宙魔法体系。\n要点 通过程序化系统生成全新魔法种类；魔法与世界生成深度绑定，随地形河流产生；预计年底发布，带来前所未有的死亡与奇观\n亮点 魔法系统直接影响宇宙基本结构，玩法将彻底改变。\n适合 游戏策划与系统设计师"
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "url": "https://hnmatchmaker.com/",
+      "summary": "核心 HN Matchmaker 汇聚全球高薪技术岗位，匹配求职与招聘需求。\n要点 汇聚全栈、AI、系统等多领域岗位；提供现场与远程多种工作模式；薪酬区间广泛，最高达 $330,000\n亮点 部分岗位提供丰厚股权与高额奖金。\n适合 后端、前端、AI、系统工程师"
     },
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "summary": "核心 Apple意外遭遇Mac Mini和Mac Studio的AI需求激增\n要点 AI开发者将Mini/Studio用于本地模型推理；订单量超出预期导致供货紧张；苹果未提前规划专用AI硬件配置\n亮点 AI工作负载推动低价Mac销量突破历史新高\n适合 AI/硬件/产品经理"
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "summary": "核心 Ambient CSS v3 提供基于物理的实时光照，可在 CSS 中模拟 Blender 材质。\n要点 支持光源方向、海拔、厚度等参数实时调节；多种材质模型（哑光、金属、玻璃等）可自定义颜色；提供 React 组件库，便于在项目中直接使用\n亮点 首次在 CSS 中实现完整的物理光照模型\n适合 前端开发者与 UI 设计师"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "summary": "核心 通过手机LED与AI，5秒内检测隐藏摄像头，成本约10美元。\n要点 仅需10,000韩元的LED附件；AI分析多角度反射，准确率94%；检测时间不足5秒，操作简便\n亮点 硬件低成本+AI实现普通用户即用的摄像头探测\n适合 安全与隐私工程师"
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "summary": "核心 slotstream 让 104GB Qwen3.8 在 48GB Mac 上运行，兼容 Ollama\n要点 通过 SSD 流式加载，内存占用自动调节至 32GB；在 48GB Mac 上达 12 token/s 解码；一键安装，支持 Ollama、OpenAI，免 Python\n亮点 在普通 48GB Mac 上实现 12 token/s 实时推理\n适合 AI 开发者/机器学习工程师"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "summary": "核心 1.5小时训练小型Transformer，44% ARC‑1，成本低超多数大模型\n要点 采用现代架构和 RMSnorm 提升样本效率；只在输出上监督，训练成本降至0.67美元；加入 ARC‑2 非重叠任务，得分提升至44%\n亮点 仅用1.5小时和0.67美元实现44% ARC‑1\n适合 AI 研究者与工程师"
     }
   ],
-  "gh_repos": [
-    {
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — 只需一次点击，即可获得沉浸式多代理学习体验",
-      "stars": 31,
-      "language": "TypeScript",
-      "description_original": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-    },
-    {
-      "name": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "用于生成美观、可验证的架构、工作流、序列、数据流和生命周期图的 Agent 技能——自包含 HTML，支持动画和高质量导出",
-      "stars": 29,
-      "language": "HTML",
-      "description_original": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "将任意 AI 代理转化为 AI 科学家。全球 17 万+ 科学家使用的首屈一指的科学 Agent Skills 库，包含 161 个即用验证技能和 100+ 覆盖生物、化学、医学及药物发现的数据库，兼容 Cursor、Claude Code 等",
-      "stars": 11,
-      "language": "Python",
-      "description_original": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
-    },
-    {
-      "name": "SegFault42/HeliosGen",
-      "url": "https://github.com/SegFault42/HeliosGen",
-      "description": "🏆 自托管生成式 AI 平台，免费替代 Higgsfield、OpenArt、Freepik 等",
-      "stars": 9,
-      "language": "TypeScript",
-      "description_original": "🏆 Self Hosted Gen AI platform. Free alternative to Higgsfield, OpenArt, Freepik...."
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 9,
-      "language": "JavaScript",
-      "description_original": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
-    },
-    {
-      "name": "laoma2053/awesome-zhuiju-free",
-      "url": "https://github.com/laoma2053/awesome-zhuiju-free",
-      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "stars": 7,
-      "language": "JavaScript",
-      "description_original": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca 是用于管理并行代理群的 ADE，可使用个人订阅运行任意编码代理，支持桌面和移动端",
-      "stars": 8,
-      "language": "TypeScript",
-      "description_original": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
-    },
-    {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "逆向工程/授权渗透测试/安全研究技能路由包，AI 驱动路由 + 按需工具链自举 + 自我进化知识库，支持 Claude Code、Kiro、Cursor、Cline 等 AI 编码客户端",
-      "stars": 6,
-      "language": "PowerShell",
-      "description_original": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
-    },
-    {
-      "name": "arcboxlabs/arcbox",
-      "url": "https://github.com/arcboxlabs/arcbox",
-      "description": "在真实且隔离的机器上运行 AI 代理——拥有独立内核、文件系统和网络——启动时间 <100ms，本地优先，兼容 OCI，纯 Rust 实现",
-      "stars": 9,
-      "language": "Rust",
-      "description_original": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust."
-    },
-    {
-      "name": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Semrush 与 Ahrefs 的开源替代方案",
-      "stars": 7,
-      "language": "TypeScript",
-      "description_original": "Open source alternative to Semrush and Ahrefs"
-    },
-    {
-      "name": "sapientinc/PRAXIST",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "description": "用于可量化、可计算机执行研究的自主研究系统",
-      "stars": 8,
-      "language": "Python",
-      "description_original": "Autonomous research system for measurable, computer-executable research."
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "在浏览器中的间谍卫星模拟器，使用真实数据，提供实时开源空间情报，呈现在逼真的 3D 地球仪上",
-      "stars": 7,
-      "language": "JavaScript",
-      "description_original": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
-    },
-    {
-      "name": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "stars": 6,
-      "language": "Python",
-      "description_original": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
-    },
-    {
-      "name": "MobAI-App/simslim",
-      "url": "https://github.com/MobAI-App/simslim",
-      "description": "在一台 Mac 上通过禁用模拟器不需要的后台守护进程来运行更多 iOS 模拟器",
-      "stars": 6,
-      "language": "Go",
-      "description_original": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
-    },
-    {
-      "name": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "暂无描述",
-      "stars": 5,
-      "language": "Swift",
-      "description_original": "暂无描述"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "带有内置 IDE 的编码代理",
-      "stars": 6,
-      "language": "TypeScript",
-      "description_original": "⌥ Coding agent with the IDE wired in"
-    },
-    {
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "语言模型的全自动审查去除",
-      "stars": 5,
-      "language": "Python",
-      "description_original": "Fully automatic censorship removal for language models"
-    },
-    {
-      "name": "Gaoshu705/QzoneArchive",
-      "url": "https://github.com/Gaoshu705/QzoneArchive",
-      "description": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
-      "stars": 3,
-      "language": "Rust",
-      "description_original": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。"
-    },
-    {
-      "name": "zackb/tether",
-      "url": "https://github.com/zackb/tether",
-      "description": "Linux + iPhone 连续性 / iMessage / SMS",
-      "stars": 5,
-      "language": "C++",
-      "description_original": "Linux + iPhone Continuity / iMessage / SMS"
-    },
-    {
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 4,
-      "language": "Python",
-      "description_original": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
-    }
-  ]
+  "gh_repos": []
 }
