@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T01:33:46.554642+00:00",
+  "hn_count": 15,
+  "gh_count": 0,
+  "hn_articles": [
+    {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Hacking the meta ray-ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": []
+}
