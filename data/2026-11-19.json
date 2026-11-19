@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T02:52:16.711566+00:00",
+  "hn_count": 15,
+  "gh_count": 0,
+  "hn_articles": [
+    {
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AI Will Not Make You Rich (2025)",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Unreal Tournament 2004 in the Browser",
+      "url": "https://ut2004.dev/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "summary": "核心 无法抓取正文，请直接点击链接查看。\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "url": "https://github.com/Ri4dH/failtrace",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": []
+}
