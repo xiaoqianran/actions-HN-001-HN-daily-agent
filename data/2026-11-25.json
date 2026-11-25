@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T04:39:18.617567+00:00",
+  "hn_count": 14,
+  "gh_count": 0,
+  "hn_articles": [
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "I've been drinking wine in my kitchen",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Lua for Data Representation",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    },
+    {
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "summary": "核心 总结失败：Error code: 410 - {'type': 'about:blank', 'title': 'Gone', 'status': 410, …\n要点 无；无；无\n亮点 无\n适合 通用"
+    }
+  ],
+  "gh_repos": []
+}
